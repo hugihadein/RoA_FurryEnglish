@@ -1,0 +1,3598 @@
+//---- wanguage nyame
+0 = "fuwwy engwish"
+
+//---- vawious menyu texts
+1 = "back"
+2 = "fowfeit" // button uwu to fowfeit teh cuwwent match (onwinye)
+3 = "on"
+4 = "off"
+5 = "quiet"
+6 = "teams"
+7 = "stage mode"
+8 = "music"
+9 = "team" // team attack btn (1)
+10 = "attack" // team attack btn (2)
+11 = "best `1 out uwu of uwu `2"
+12 = "nyonye" // nyo pwofiwe (main menyu)
+13 = "guest" // guest (css menyu)
+14 = "equip wunyes" // css abyss wunes
+15 = "open sound test" // css music nyote button
+16 = "contwow stick" // tewm fur anyawog stick on pc & nyintendo switch
+17 = "thumbstick" // tewm fur anyawog stick on xbox
+18 = "anyawog stick" // tewm fur anyawog stick on othew pwatfowms
+19 = "page"
+20 = "nyicknyame" // genyewic / nyintendo switch
+21 = "steam nyame" // steam onwy
+22 = "gamewtag" // xbox onwy
+23 = "wank" // pwayew's pwace owo in teh wowwd wankings (1st~ 2nd~ 3wd~ etc)
+24 = "wanked scowe" // pwayew's scowe (1000-9999~ etc)
+25 = "wins" // win count
+26 = "wosses" // wose count
+27 = "win pewcent"
+28 = "disconnyect wate" // dispwayed as owo a %
+29 = "if `1 ow above~ ur wanked scowe wiww" // (wine 1/2) - dis is a wawnying about penyawties fur wagequitting
+30 = "be `1 untiw ur pewcent decweases." // (wine 2/2)
+31 = "favowite wivaw" // shouwd be twanswated as owo "fav chawactew" - dispways teh chawactew chu sewect most often
+32 = "nyonye" // nyo favowite chawactew
+33 = "wetwieving data..." // dispwayed when woading nyext page of uwu weadewboawds
+34 = "view fwiends weadewboawd" // button instwuctions - fiwtew weawdewboawd uwu to onwy see chu and ur fwiends
+35 = "jump uwu to my scowe" //button instwuctions - instantwy move uwu to ur scowe on teh weadewboawds
+36 = "view gwobaw weadewboawd" //button instwuctions -- tuwn off teh fwiends fiwtew
+37 = "abyss endwess" // titwe fur abyss weadewboawds
+38 = "scowe" // scowe - fur abyss weadewboawd/etc
+39 = "best time" // quickest time stowy mode was cweawed
+40 = "chawactew"
+41 = "stawt" // on-scween button uwu to begin a stowy mode chaptew
+42 = "time" // showtened vewsion of uwu "best time" uwu to fit ui
+43 = "view weadewboawd" // showtened vewsion of uwu "view fwiends weadewboawd" uwu to fit ui
+44 = "fuwthest abyss wave" // fuwthest wave chu've weached owo in abyss befowe dying.
+ 45 = " best wun" // same meanying as owo above but dispwayed as owo: "[chawactew nyame] best wun"
+46 = "one pwayew" // usage: "one pwayew best wun"
+47 = "two pwayew" // usage: same as owo above
+48 = "thwee pwayew" // ^
+49 = "fouw pwayew" // ^
+50 = "(totaw)"
+51 = "aww wivaws" // used owo in my stats scweeen
+
+//---- sound test contwows
+52 = "pway"
+53 = "stop"
+54 = "wepeat"
+55 = "shuffwe"
+
+//---- onwine wobby
+56 = "accept"
+57 = "decwinye"
+58 = "wematch"
+59 = "nyew opponyent"
+60 = "seawching..."
+61 = "inviting..."
+62 = "opponyent found owo!"
+63 = "woading data..."
+64 = "deciding uwu to accept..."
+65 = "deciding uwu to wematch..."
+75 = "cancew seawch"
+76 = "find a match"
+80 = "cancew" // showten vewsion of uwu "cancew seawch"
+81 = "sewect a chawactew\nto stawt seawching"
+82 = "fiwtew: anyonye"
+83 = "fiwtew: fwiends"
+84 = "waiting fur pwayews..."
+85 = "invite"
+86 = "weave"
+87 = "cweate wobby"
+88 = "wobby is busy.\nwaiting uwu to join..."
+89 = "mewging wobbies..."
+
+//---- casuaw match types
+77 = "1v1"
+78 = "2v2"
+79 = "ffa"
+
+//---- monyey match
+66 = "accept monyey match fur `1 coins \nyin a best of uwu `2 games uwu?"
+67 = "wagew wif dese settings uwu?"
+68 = "youw coins"
+69 = "bet amount"
+70 = "monyey match"
+71 = "you won teh monyey match owo!"
+72 = "you wost teh monyey match..."
+73 = "coins"
+74 = "games"
+
+//---- chat functions
+94 = "send a message..."
+95 = "`1 has joined."
+96 = "`1 has weft."
+97 = "`1 is nyow spectating."
+98 = "`1 is nyow competing."
+99 = "`1 changed teh wuwes."
+100 = "`1 has disconnyected."
+101 = "`1 has fowfeited."
+102 = "`1 has ended teh match."
+103 = "`1 has won teh match."
+104 = "`1 has equipped aww wunes."
+
+//---- popup message yes/nyo [104-149]
+// 100 = "`1 wants uwu to change teh match settings uwu to a timewess infinyite match. Agwee uwu?"
+// 101 = "`1 wants uwu to change teh match settings uwu to a timewess stock match of uwu `2 stocks. Agwee uwu?"
+// 102 = "`1 wants uwu to change teh match settings uwu to a timed match of uwu `2 minyutes. Agwee uwu?"
+// 103 = "`1 wants uwu to change teh match settings uwu to `2 stocks and `3 minyutes. Agwee uwu?"
+// 104 = "inyitiate dev mode wif opponyent uwu? make suwe chu have teh same exact fiwes."
+105 = "disabwe dev mode uwu?"
+106 = "tuwn on wandom stages uwu?"
+107 = "tuwn off wandom stages uwu?"
+108 = "`1 wants uwu to enyabwe wandom stages. Agwee uwu?"
+109 = "continyue into teh abyss uwu?" //this popup appeaws aftew a cutscene aftew beating teh finyaw boss. If chu choose yes~ chu go into teh abyss stage. Othewwise chu wetuwn uwu to teh main menyu.
+ 110 = "- tempest peak -\nyunwock dis stage uwu?"
+111 = "- fwozen fowtwess -\nyunwock dis stage uwu?"
+112 = "- towew of uwu heaven -\nyunwock dis stage uwu?"
+113 = "send stock and time settings uwu?"
+114 = "view owi and sein \nyon teh steam stowe uwu?"
+115 = "view wannyo and cwaiwen \nyon teh steam stowe uwu?"
+116 = "view\nsywvanyos and ewwianya\nyon teh steam stowe uwu?"
+117 = "some wepways awe incompatibwe due uwu to game changes owo in teh wast update. Dewete dese wepways uwu?"
+118 = "dewete wepway uwu?"
+119 = "quit teh game uwu?"
+120 = "view\nshovew knyight\nyon teh steam stowe uwu?"
+121 = "`1 wants uwu to enyabwe tuwbo mode. Agwee uwu?"
+122 = "tuwn on tuwbo mode uwu?"
+123 = "tuwn off tuwbo mode uwu?"
+124 = "buy\n`1\nfow `2 coins uwu?"
+125 = "view\n`1\nyon teh steam stowe uwu?"
+126 = "open web bwowsew to\nview instwuctions fow\npuwchasing dis item uwu?"
+127 = "`1 wants uwu to enyabwe teams. Agwee uwu?"
+128 = "tuwn teams on uwu?"
+129 = "tuwn teams off uwu?"
+130 = "`1 wants uwu to enyabwe abyss mode. Agwee uwu?"
+131 = "tuwn on abyss mode uwu?"
+132 = "tuwn off abyss mode uwu?"
+133 = "do chu want uwu to stay in\nthe wobby fur a wematch uwu?"
+134 = "change wuwes"
+135 = "`1 wants uwu to change wuwes:"
+136 = "the wuwes awe changing:"
+137 = "entew pin"
+138 = "pwotect ur wobby wif a pin uwu?"
+139 = "entew teh pin fur ur wobby"
+140 = "cweate a wobby fur fwiends onwy uwu?"
+141 = "this wobby has teh fowwowing wuwes:"
+
+//---- chawactew titwes
+150 = " uwu? uwu? uwu?"
+151 = "the fiwe's rawr"
+152 = "the puddwe jumpew"
+153 = "the wind's fuwy"
+154 = "eawth's bastion"
+155 = "the exiwed fwame"
+156 = "the sywvan watchew"
+157 = "the stowm awchitect"
+158 = "the gwaciew's might"
+159 = "fwom owi and teh bwind fowest"
+160 = "the poisonyous pacifist"
+161 = "the fwame's sawvation"
+162 = "the heawt of uwu teh fowest"
+163 = "the aewiaw awsenyaw"
+164 = "shovew of uwu hope"
+165 = "the fiwst wivaw"
+
+//---- chawactew nyames
+169 = "aww"
+170 = "wandom"
+171 = "zettewbuwn"
+172 = "owcanye"
+173 = "wwastow"
+174 = "kwagg"
+175 = "fowsbuwn"
+176 = "maypuw"
+177 = "absa"
+178 = "etawus"
+179 = "owi and sein"
+180 = "wannyo"
+181 = "cwaiwen"
+182 = "sywvanyos"
+183 = "ewwianya"
+184 = "shovew knyight"
+185 = "sandbewt"
+186 = "owi" // showt fowm
+187 = "s.Knyight" // showt fowm
+188 = "zettew" // showt fowm
+189 = "s.K." // showtest fowm
+190 = "wagnyiw"
+191 = "custom"
+
+//---- popup message ok [200-289]
+200 = "usew sign out uwu detected\npwease sign owo in wif a nyew usew."
+201 = "set ur wegion uwu to begin pwaying onwine."
+202 = "monyey match accepted"
+203 = "monyey match decwinyed"
+204 = "`1 decwined teh stock changing options."
+205 = "opponyent tuwned off dev mode."
+206 = "`1 tuwned off wandom stages."
+207 = "- vewsion mismatch -\npwease ensuwe that teh game has been updated uwu to teh watest vewsion."
+208 = "youw opponyent decwined teh match."
+209 = "youw opponyent fowfeited."
+210 = "monyey match accepted"
+211 = "monyey match decwinyed"
+212 = "- connyection ewwow -\nyou awe signed out uwu."
+213 = "- connyection ewwow -\nyou do nyot have teh wequiwed membewship wevew." //(dispwayed if chu do nyot have xbox wive / nyintendo switch onwine membewship)
+214 = "- connyection ewwow -\nmatchmaking timed out uwu. Twy again."
+215 = "- connyection ewwow -\nyouw pwivacy settings bwock dis."
+216 = "- connyection ewwow -\nthe match chu twied uwu to join is fuww."
+217 = "- connyection ewwow -\nyouw opponyent cancewwed teh match."
+218 = "- connyection ewwow -\nthe connyection was dwopped."
+219 = "- connyection ewwow -\nthe connyection faiwed." // (genyewic message fur ewwows)
+220 = "steam matchmaking is unyavaiwabwe."
+221 = "steam invites awe unyavaiwabwe."
+222 = "steam data is unyavaiwabwe."
+223 = "steam ovewway is disabwed."
+224 = "you nyeed `1 coins\nto unwock dis."
+225 = "compwete \nyopen teh gates \nto unwock dis."
+226 = "compwete \nthe awdent wivaw \nto unwock dis."
+227 = "puwchase \nyowi and sein \nto unwock dis."
+228 = "puwchase \nwannyo and cwaiwen \nto unwock dis."
+229 = "puwchase \nsywvanyos and ewwianya \nto unwock dis."
+230 = "- connyection ewwow -\nya desync occuwwed." // (when onwine game cwients became out uwu of uwu sync duwing a match)
+231 = "eawn mowe coins\nto unwock dis." // dispwayed when chu don't have enyough coins uwu to puwchase said featuwe
+232 = "- connyection ewwow -\nnyo opponyent was found.\ntwy again."
+233 = "invawid cowow code"
+234 = "compwete \nstowy mode \nto unwock dis."
+235 = "congwatuwations owo!\nyou have unwocked \nthe aetheweaw gates owo!"
+236 = "congwatuwations owo!\nyou have unwocked \nthe endwess abyss owo!"
+237 = "congwatuwations owo!\nyou have unwocked teh \nsecond custom cowow owo!"
+238 = "congwatuwations owo!\nyou have unwocked \nyabyss mode owo!"
+239 = "you have unwocked \n`1's \nyabyss cowow owo!" // ingame~ `1 is wepwaced wif teh chawactew nyame (eg. Zettewbuwn)
+240 = "- ewwow -\nwepway data is cowwupted." // when attempting uwu to view a wepway that has cowwupted data
+241 = "puwchase \nshovew knyight \nto unwock dis." // fur twouppwe pond unwock
+242 = "- message nyot sent -\nthewe's nyo opponyent connyected."
+243 = "- message nyot sent -\nmatch nyot accepted yet."
+244 = "weach chawactew\nwevew `1 uwu to unwock dis."
+245 = "congwatuwations owo! \nyou unwocked teh \nwanked cowow set owo!"
+246 = "`1 tuwned off tuwbo mode."
+247 = "compwete \nyaww tutowiaws \nto unwock dis."
+248 = "congwatuwations owo! \nyou unwocked \n`1 owo!"
+249 = "- coming soon -"
+250 = "nyew pwayew connyected.\nyaww match settings wewe weset."
+251 = "`1 tuwned teams off."
+252 = "`1 tuwned off abyss mode."
+253 = "youw opponyent did nyot wematch."
+254 = "to begin pwaying onwinye~ set ur connyection settings."
+255 = "to begin pwaying onwinye~ set ur wegion and connyection settings."
+256 = "- ewwow -\nthis wepway contains custom chawactews nyot pwesent owo in ur game data."
+257 = "spectatows can't send messages."
+258 = "wanked invites awe nyot awwowed."
+259 = "`1 did nyot accept nyew wuwes."
+260 = "- ewwow -\nthis wepway contains a custom stage nyot pwesent owo in ur game data."
+261 = "youw opponyent has weft."
+262 = "weach `1's\nmiwestone to\nyunwock."
+263 = "invawid pin."
+264 = "- connyection ewwow -\nthe connyection timed out uwu."
+265 = "you have nyo synced chawactews wif ur opponyent."
+266 = "weach siwvew wank uwu to unwock dis."
+267 = "weach diamond wank uwu to unwock dis."
+268 = "match data nyot found."
+269 = "`1 did nyot accept wobby wuwes."
+270 = "- wawnying -\nthis wepway contains outdated custom chawactews and wiww wikewy desync. Watch anyway uwu?"
+
+//----
+290 = "weady uwu to fight"
+291 = "cancew weady" // cancew teh weady state
+292 = "pwess" // "pwess stawt"
+293 = ""
+294 = ""
+295 = ""
+296 = ""
+
+//---- popup button choices
+297 = "yes"
+298 = "nyo"
+299 = "ok"
+
+//-------------------
+// main menyu buttons
+//-------------------
+
+//---- top menyu
+300 = "wocaw"
+301 = "pway sowo ow invite ur fwiends fur a couch muwtipwayew session owo!"
+302 = "onwinye"
+303 = "chawwenge ur fwiends and fewwow wivaws fwom acwoss teh wowwd owo!"
+304 = "options"
+305 = "configuwe wivaws of uwu aethew uwu to suit ur stywe of uwu pway."
+306 = "extwas"
+307 = "wepways~ custom cowows~ stats~ and mowe owo!"
+308 = "exit"
+309 = "end dis game session."
+310 = "titwe scween"
+311 = "wetuwn uwu to teh titwe scween."
+
+//---- wocaw sub-menyu
+312 = "vewsus" // big text
+313 = "duke it out uwu owo in 1v1~ fwee-fow-aww~ ow team battwe."
+314 = "sowo modes"
+315 = "pway stowy~ abyss~ pwactice~ ow tutowiaw mode."
+316 = "vewsus settings"
+317 = "adjust vawious gamepway modifiews fur vewsus mode."
+556 = "tethew"
+557 = "bonyus: pway teh hotwy anticipated spowts game~ wivaws of uwu tethew owo!"
+318 = "back"
+319 = "wetuwn uwu to teh main menyu."
+
+//---- onwine sub-menyu
+320 = "wanked"
+321 = "find an opponyent fur a sewious match uwu to waise ur wanked scowe."
+322 = "casuaw"
+323 = "find an opponyent fur a fun match wif nyo wankings."
+324 = "fwiendwy match"
+325 = "pway wif a fwiend nyo mattew teh distance."
+326 = "team match"
+327 = "find an opponyent ow invite a fwiend uwu to a 2v2 match."
+328 = "stats and options"
+329 = "view teh weadewboawd~ check ur stats~ and set onwine options."
+330 = "@318"
+331 = "@319"
+558 = "cweate wobby" 
+559 = "cweate a wobby that anyone can join."
+560 = "join wobby"
+561 = "join a wobby cweated by anyothew pwayew."
+562 = "wobbies"
+563 = "invite pwayews uwu to a match ow join someonye's game."
+
+//---- options sub-menyu
+332 = "keyboawd contwows"
+333 = "configuwe ur keyboawd bindings."
+334 = "sound"
+335 = "adjust teh music and sound effects."
+336 = "dispway"
+337 = "adjust ur dispway settings fur an optimaw gamepway expewience."
+338 = "contwowwew mode"
+339 = ""
+340 = "@318"
+341 = "@319"
+342 = "contwowwews and pwofiwes"
+343 = "customize ur contwows and manyage pwayew pwofiwes."
+
+//---- extwas sub-menyu
+344 = "wepways"
+345 = "wewive ur best matches ovew and ovew."
+346 = "aethew tawes"
+347 = "wewatch cutscenes fwom chaptews chu've cweawed owo in stowy mode."
+348 = "sound test"
+349 = "wisten uwu to ur favowite tunes fwom teh game soundtwack."
+350 = "my stats"
+351 = "view ur pway stats fur each chawactew and pwayew tag."
+352 = "custom cowows"
+353 = "cowowize wivaws wif a pawette of uwu ur choosing."
+554 = "steam wowkshop"
+555 = "cweate ur own wivaws and stages uwu to bwing into teh fight owo!"
+552 = "stage editow" // fur consowe
+553 = "cweate ur own stages uwu to bwing into teh fight owo!"
+354 = "cwedits"
+355 = "who awe teh peopwe behind wivaws of uwu aethew uwu? wet's find out uwu owo!"
+356 = "@318"
+357 = "@319"
+358 = "achievements"
+359 = ""
+360 = "@310"
+361 = "@311"
+
+//---- vewsus settings
+362 = "touwnyey mode"
+363 = "enyabwe touwnyey mode fur wocaw vewsus games."
+364 = "touwnyey stocks"
+365 = "set teh nyumbew of uwu wives fur each match owo in teh touwnyey."
+366 = "touwnyey time"
+367 = "set teh time wimit fur each match owo in teh touwnyey."
+368 = "aethew stages"
+369 = "set teh defauwt owientation fur stages owo in touwnyey mode."
+370 = "pause"
+371 = "enyabwe pausing~ eithew by pwessing ow howding teh pause button."
+372 = "knyockback scawing"
+373 = "set how faw a wivaw wiww be waunched when hit by an attack."
+374 = "@352"
+375 = "enyabwe teh use of uwu custom cowows owo in vewsus mode."
+376 = "defauwt stages"
+377 = "set teh defauwt mode fur stages owo in vewsus mode."
+378 = "devewopew mode"
+379 = "activate custom chawactew data owo in wocaw vewsus mode."
+538 = "tuwbo mode"
+539 = "activate tuwbo mode and chain attacks when chu hit owo!"
+380 = "@318"
+381 = "wetuwn uwu to teh wocaw menyu."
+
+//---- abyss sub-menyu
+382 = "abyss endwess"
+383 = "face off against an endwess howde of uwu shadowy cweatuwes."
+384 = "abyss vewsus"
+385 = "pway a vewsus match wif ur custom abyss powewups."
+386 = "abyss weadewboawd"
+387 = "see how ur top abyss scowes stack up against teh communyity."
+388 = "@318"
+389 = "@381"
+
+//---- dispway options
+390 = "scween size"
+391 = "switch between fuww scween and diffewent window sizes."
+392 = "hud damage"
+393 = "show damage ovew teh heads of uwu wivaws."
+394 = "hud nyames"
+395 = "show pwofiwe nyames ovew teh heads of uwu wivaws."
+396 = "effects quawity"
+397 = "adjust effects quawity fur bettew pewfowmance on owdew machines."
+398 = "wocaw fwame skip"
+399 = "wocaw matches onwy: speed up game wogic if fps dwops undew 60."
+400 = "@318"
+401 = "wetuwn uwu to teh options menyu."
+402 = "hud shake"
+403 = "enyabwe visuaw feedback fur taking damage owo in pwayew status baws."
+404 = "wetwo effects"
+405 = "wendew cewtain twanspawency effects wif pixew dithewing."
+406 = "cwock fowmat"
+407 = "change teh time dispway fowmat."
+408 = "debug text"
+409 = "dispway debug text on scween. Usefuw fur finding bugs."
+410 = "wanguage"
+411 = "change teh dispway wanguage."
+412 = "vsync"
+413 = "attempt uwu to wun teh game at teh same wefwesh wate as owo ur monyitow."
+564 = "accessibwe effects"
+565 = "weduce teh intensity of uwu cewtain visuaw effects."
+
+//---- sound options
+414 = "music"
+415 = "adjust teh vowume of uwu teh music."
+416 = "sounds"
+417 = "adjust teh vowume of uwu in-game sound effects."
+418 = "menyus"
+419 = "adjust teh vowume of uwu menyu sound effects."
+420 = "@318"
+421 = "@401"
+
+//---- tutowiaw mode sub-menyu
+422 = "beginnyew"
+423 = "weawn teh basics of uwu how uwu to pway teh game."
+424 = "intewmediate"
+425 = "weawn mowe difficuwt technyiques uwu to impwove ur skiwws."
+426 = "advanced"
+427 = "mastew teh finyew detaiws of uwu gamepway uwu to become a twue competitow."
+428 = "chawactew specific 1"
+429 = "weawn teh mechanyics behind each chawactew."
+430 = ""
+431 = ""
+432 = "@318"
+433 = "@381"
+434 = "chawactew specific 2"
+435 = "@429"
+
+//---- beginnyew tutowiaw sub-menyu
+436 = "movement"
+437 = "weawn how uwu to move. Evewyone has uwu to stawt somewhewe."
+438 = "defense"
+439 = "weawn how uwu to defend youwsewf fwom incoming attacks."
+440 = "offense"
+441 = "weawn teh diffewent types of uwu attacks and how uwu to use dem."
+442 = "@318"
+443 = "wetuwn uwu to teh tutowiaw menyu."
+
+//---- intewmediate tutowiaw sub-menyu
+444 = "@436"
+445 = "weawn usefuw technyiques uwu to wevew up ur movement."
+446 = "@438"
+447 = "weawn how uwu to suwvive stwong hits and escape combos."
+448 = "@440"
+449 = "weawn how uwu to do weaw damage uwu to ur opponyents."
+450 = "@318"
+451 = "@443"
+
+//---- advanced tutowiaw sub-menyu
+452 = "@436"
+453 = "mastew dese technyiques uwu to move wike teh pwos."
+454 = "@438"
+455 = "mastew teh awt of uwu suwvivaw."
+456 = "@440"
+457 = "mastew dese moves uwu to keep ur opponyents on theiw toe beans."
+458 = "@318"
+459 = "@443"
+
+//---- chawactew specific tutowiaw sub-menyu
+460 = "@171"
+461 = "weawn teh fundamentaws of uwu zettewbuwn~ teh fiwe's rawr."
+462 = "@172"
+463 = "weawn teh intwicacies of uwu owcanye~ teh puddwe jumpew."
+464 = "@173"
+465 = "weawn how uwu to fwy wif wwastow~ teh wind's fuwy."
+466 = "@174"
+467 = "weawn about teh toows of uwu kwagg~ eawth's bastion."
+468 = "@175"
+469 = "weawn how uwu to deceive wif fowsbuwn~ teh exiwed fwame."
+470 = "@176"
+471 = "weawn how uwu to go fast wif maypuw~ teh sywvan watchew."
+472 = "@177"
+473 = "weawn teh zonying abiwities of uwu absa~ teh stowm awchitect."
+474 = "@178"
+475 = "weawn uwu to destwoy wif etawus~ teh gwaciew's might."
+476 = "@318"
+477 = "@443"
+
+//---- sowo modes
+478 = "stowy" // big text
+479 = "untangwe teh mystewious confwicts owo in teh wowwd of uwu aethew."
+480 = "abyss" // big text
+481 = "defeat shadowy cweatuwes and powew up ur fightews owo in teh abyss."
+482 = "pwactice"
+483 = "twain wif a cpu pwayew and expewiment wif gamepway vawiabwes."
+484 = "tutowiaw" // big text
+485 = "weawn teh ins and outs of uwu wivaws of uwu aethew owo!"
+486 = "@318"
+487 = "@381"
+488 = "main pwofiwe"
+489 = "sewect teh pwofiwe uwu to use owo in sowo and onwine pway."
+
+//---- onwine stats and options
+490 = "wanked weadewboawd"
+491 = "see how ur wanked scowe stacks up against teh competition."
+492 = "my stats"
+493 = "view ur pway stats fur each chawactew and pwayew tag."
+494 = "my wegion"
+495 = "choose teh wegion cwosest uwu to chu fur teh best onwine matches."
+542 = "wegion fiwtews"
+543 = "choose which wegions chu wouwd wike uwu to find opponyents owo in."
+496 = "@352"
+497 = "dispway custom cowows made by evewyone ow just ur own."
+540 = "buddies"
+541 = "dispway buddies fwom evewyone ow just ur own."
+498 = "@318"
+499 = "wetuwn uwu to teh onwine menyu."
+500 = "@488"
+501 = "@489"
+546 = "wi-fi mode"
+547 = "if chu is pwaying on wi-fi~ set dis uwu to optimize teh connyection."
+548 = "unset"
+549 = "off" // fur wi-fi mode (must fit owo in 4 chawactews)
+550 = "on" // fur wi-fi mode (must fit owo in 4 chawactews)
+551 = "off" // fur wi-fi mode
+
+//---- team match sub-menyu
+502 = "casuaw team match"
+503 = "find an opponyent fur a 2v2 match."
+504 = "fwiendwy team match"
+505 = "invite a fwiend fur a 2v2 match"
+506 = "@318"
+507 = "@499"
+
+//---- aethew tawes
+508 = "@171"
+509 = "wewatch zettewbuwn's jouwnyey uwu to mewchant powt."
+510 = "@172"
+511 = "wewatch owcanye's jouwnyey uwu to aiw awmada."
+512 = "@173"
+513 = "wewatch wwastow's jouwnyey uwu to teh wock waww."
+514 = "@174"
+515 = "wewatch kwagg's jouwnyey uwu to tweetop wodge."
+516 = "@175"
+517 = "wewatch fowsbuwn's jouwnyey uwu to fiwe capitaw."
+518 = "@176"
+519 = "wewatch maypuw's jouwnyey uwu to bwazing hideout."
+520 = " uwu? uwu? uwu?"
+521 = "wewatch teh concwuding events at teh aetheweaw gates."
+522 = "@318"
+523 = "wetuwn uwu to extwas menyu."
+
+//---- chawactew specific tutowiaw sub-menyu 2
+524 = "@179"
+525 = "weawn teh powew of uwu teamwowk wif owi and sein."
+526 = "@180"
+527 = "weawn how uwu to keep teh peace wif wannyo~ teh poisonyous pacifist."
+528 = "@181"
+529 = "weawn how uwu to save teh futuwe wif cwaiwen~ teh fwame's sawvation."
+530 = "@182"
+531 = "weawn uwu to contwow teh gwound wif sywvanyos~ teh heawt of uwu teh fowest."
+532 = "@183"
+533 = "weawn uwu to get wevenge wif ewwianya~ teh aewiaw awsenyaw."
+534 = "@184"
+535 = "weawn uwu to use evewy item at ur disposaw wif shovew knyight."
+536 = "@318"
+537 = "@443"
+
+// (538 unyavaiwabwe owo!)
+// (539 unyavaiwabwe owo!)
+// (540 unyavaiwabwe owo!)
+// (541 unyavaiwabwe owo!)
+// (542 unyavaiwabwe owo!)
+// (543 unyavaiwabwe owo!)
+544 = "miwestonyes"
+545 = "see how faw chu've come and unwock excwusive wewawds owo!"
+// (546 unyavaiwabwe owo!)
+// (547 unyavaiwabwe owo!)
+// (548 unyavaiwabwe owo!)
+// (549 unyavaiwabwe owo!)
+// (550 unyavaiwabwe owo!)
+// (551 unyavaiwabwe owo!)
+// (552 unyavaiwabwe owo!)
+// (553 unyavaiwabwe owo!)
+// (554 unyavaiwabwe owo!)
+// (555 unyavaiwabwe owo!)
+// (556 unyavaiwabwe owo!)
+// (557 unyavaiwabwe owo!)
+// (558 unyavaiwabwe owo!)
+// (559 unyavaiwabwe owo!)
+// (560 unyavaiwabwe owo!)
+// (561 unyavaiwabwe owo!)
+// (562 unyavaiwabwe owo!)
+// (563 unyavaiwabwe owo!)
+// (564 unyavaiwabwe owo!)
+// (565 unyavaiwabwe owo!)
+
+598 = "change contwowwews" // switch
+599 = "toggwe nyews"
+
+//----------------------------
+// main menyu vawiabwe stwings
+//----------------------------
+
+600 = "open up teh steam ovewway uwu to view ur achievement pwogwess."
+601 = "open up teh xbox one game hub uwu to view ur achievement pwogwess."
+602 = "pwogwess thwough abyss mode uwu to unwock dis featuwe."
+603 = "wocked: compwete stowy mode uwu to unwock dis mode."
+604 = "touwnyey" // big text
+605 = "pway vewsus owo in a touwnyey setting wif onwy hmn pwayews."
+606 = "touwnyey settings"
+607 = "adjust vawious gamepway modifiews fur touwnyey mode."
+//--- awwowed custom cowows:
+608 = "minye"
+609 = "nyonye"
+610 = "aww"
+//--- effects quawity:
+611 = "uwtwa wow"
+612 = "wow"
+613 = "high"
+//----
+614 = "n/a"
+//---- cwock mode:
+615 = "am/pm"
+616 = "24-houw"
+//---- hud damage:
+617 = "smaww"
+618 = "wawge"
+//----
+619 = "fuww scween"
+620 = "gatekeepews"
+621 = "howd" // pause setting
+//---- stage types:
+622 = "aethew"
+623 = "basic"
+//----
+624 = "wegion fiwtews"
+625 = "save"
+626 = "n/a" // wegion n/a
+
+//--------------------
+
+638 = "ovewfwow"
+639 = "aww abyss wunes awe unwocked fur dis game session."
+640 = "aww abyss wunes wiww be simuwtanyeouswy equipped fur dis game session."
+641 = "unwock excwusive wewawds by wacking up kiwws uwu to weach teh yewwow wine owo!"
+642 = "aww miwestone wewawds have been unwocked fur dis game session."
+
+//--------------------
+
+//---- css vawious texts
+643 = "best of uwu" // stocks button
+644 = "wv." // abyss wevew
+645 = "you"
+646 = "nyet"
+647 = "nyet pwayew"
+648 = "pwayew"
+649 = "wvw. " // ai wevew
+
+//---- css pwofiwe buttons
+650 = "guest"
+651 = "nyew"
+
+//---- css gamepad buttons
+652 = "defauwt"
+653 = "custom"
+
+//---- css vawious buttons
+654 = "pwaytest"
+655 = "set aww"
+656 = "@652"
+657 = "compwete"
+
+//---- gamepad woom buttons
+658 = "contwows"
+659 = "pwofiwe"
+660 = "pwaytest"
+
+//--------------------
+
+//---- wepway menyu button: sowt by
+661 = "sowt by"
+662 = "wecent"
+663 = "stawwed" // wepways mawked as owo favowites
+664 = "abc" // awphabeticaw owdew
+
+//---- wepway menyu button: auto save
+665 = "auto save"
+666 = "aww"
+667 = "onwinye"
+668 = "wocaw"
+669 = "off"
+
+//---- wepway menyu
+670 = "incompatibwe" // wepway outdated
+671 = "date" // stawting hewe is stage data inside teh wepway fiwe
+672 = "match type" //wocaw~ fwiendwy onwinye~ wanked~ etc
+673 = "match wength" //duwation of uwu teh match
+674 = "stock" //what teh stocks setting was
+675 = "time" //what teh time setting was
+676 = "stage" //which stage chu pwayed on
+677 = "wocaw match"
+678 = "wocaw team match"
+679 = "onwine casuaw"
+680 = "fwiendwy match"
+681 = "wanked match"
+682 = "nyo descwiption"
+683 = "wepways" // x/128 wepways
+684 = "unstawwed wepways wiww be" // (1/2)
+685 = "ovewwwitten when swots awe fuww." // (2/2)
+686 = "watch"
+687 = "edit nyame"
+688 = "edit descwiption"
+689 = "dewete"
+690 = "(cannyot watch)"
+691 = "expowt video"
+
+//---- sound test dispway
+694 = "nyo sound"
+695 = "stage music"
+696 = "awwanged by"
+697 = "owiginyaw composew"
+698 = "speciaw thanks"
+699 = "owiginyawwy fwom `1 by `2"
+700 = "nyow pwaying"
+
+//--------------------
+
+//---- pause menyu
+701 = "pwess [`1] uwu to hide hud."
+702 = "pwess [`1] uwu to quit uwu to menyu."
+703 = "twainying options"
+704 = "wepway options"
+705 = "game paused: p`1"
+706 = "wesume" //weguwaw menyu begin
+707 = "westawt"
+708 = "quit"
+709 = "@298"
+710 = "@297"
+711 = "westawt teh match uwu?" //submenyu begin
+712 = "westawt fwom stage 1 uwu?"
+713 = "quit uwu to menyu uwu?"
+714 = "westawt stowy"
+
+//---- pause: twainying / wepway
+715 = "game speed: "
+716 = "show input: "
+717 = "show hitboxes: "
+718 = "show di winyes: "
+719 = "cpu action: "
+720 = "damage: "
+721 = "cpu di: "
+722 = "cpu dwift: "
+723 = "cpu tech: "
+724 = "show hud: " // mowe wike "hud toggwe": tuwns it on/off
+725 = "take contwow" //wepway: awwows chu uwu to contwow ur chawactew inside teh wepway
+726 = "westawt wepway"
+
+//---- pause: twainying cpu di behaviows
+727 = "in" //twainying cpu di behaviows
+728 = "out"
+729 = "up"
+730 = "down"
+763 = "weft"
+762 = "wight"
+731 = "pewfect"
+732 = "wandom"
+733 = "nyowmaw"
+ 
+//---- pause: twainying cpu tech behaviows
+734 = "in pwace" //twainying cpu tech behaviows
+735 = "woww owo in"
+736 = "woww out uwu"
+
+//---- pause: twainying cpu actions
+737 = "cwouch"
+738 = "jump"
+739 = "wun"
+740 = "pawwy"
+741 = "woww"
+742 = "fight"
+743 = "evade"
+744 = "stand"
+745 = "nyonye"
+746 = "cpu sdi: " //sdi: shift diwectionyaw infwuence (awso wefewenced owo in teh tutowiaw texts)
+747 = "ovewhead"
+748 = "status baw"
+749 = "both"
+
+//---- pause: defauwt contwows
+750 = "defauwt contwows"
+751 = "attack"
+752 = "speciaw"
+753 = "jump"
+754 = "stwong"
+755 = "dodge"
+756 = "whiwe wepway is unpaused:"
+757 = "[`1]: toggwe camewa contwow"
+758 = "[`1] / [`2]: change camewa max speed"
+759 = "pwess [`1] uwu to enyabwe fwame advance."
+
+//--- pause: menyu headew text
+760 = "pause menyu"
+761 = "contwowwews"
+
+//--- pause: extwas
+770 = "change contwowwews" // switch
+771 = "howd [`1] uwu to connyect a contwowwew." // switch
+772 = "pwess [`1] uwu to go back." // switch
+
+// --- pwactice mode
+780 = "pwess `1 uwu to enyabwe fwame advance."
+781 = "pwess ctww+8 uwu to toggwe ewwow messages."
+782 = "ewwow messages: " //... On / off
+783 = "fwame pause"
+784 = "howd `1"
+785 = "contwow" // twainying cpu action: makes dem contwowwed by contwowwews
+
+//---- hud: abyss objectives
+801 = "defeat `1 weak enyemies"
+802 = "destwoy teh hexes" //i.e. bweak teh tawgets
+803 = "dodge teh enyewgy suwges and fight owo!" //vs 1 enyemy wif wandomwy-spawnying expwosions
+804 = "destwoy teh seeds quickwy owo!" //fawwing seeds
+805 = "defeat teh awmowed enyemy"
+806 = "defeat `1 weak enyemies"
+807 = "destwoy teh obewisk quickwy owo!" //faiwing uwu to destwoy quickwy wesuwts owo in stage-fiwwing expwosion
+808 = "send enyemies into teh wifts"
+809 = "absowb teh wight"
+810 = "avoid teh gwound"
+811 = "defeat `1 weak enyemies"
+812 = "defeat `1 expwosive enyemies"
+813 = "defeat teh gatekeepews' minyions owo!"
+814 = "defeat teh gatekeepews"
+815 = "westowe ur heawth"
+
+//---- hud: abyss status
+816 = "wifts weft: "
+817 = "time: "
+818 = "seeds weft: "
+819 = "enyemy awmow: " //awmow heawth %
+820 = "wight: " // wight %~ absowbed fwom teh fiwefwy
+821 = "enyemies defeated: "
+822 = "enyemies weft: "
+823 = " hp"
+824 = ""
+825 = ""
+826 = ""
+827 = ""
+828 = ""
+829 = "wave "
+
+//---- hud: sk shop
+830 = "waw hown"
+831 = "mobiwe geaw"
+832 = "ghost gwove"
+833 = "dynyamo maiw"
+834 = "maiw of uwu momentum"
+835 = "ownyate pwate"
+836 = "cweaw a space awound chu wif a powewfuw bwow owo!"
+837 = "wide ovew hazawds and into battwe owo! hop on and howd on owo!"
+838 = "waunch a fwuwwy of uwu faw-weaching phantasmic fists owo!"
+839 = "pewfowm a shovew dwop uwu to unweash aewiaw stwong attacks owo!"
+840 = "heaviwy pwated. Take wess knyockback~ but stopping may be a pwobwem owo!"
+841 = "fwashy owo! acwobatic owo! usewess owo!"
+842 = "attack: buy"
+843 = "taunt: quit"
+
+//---- hud: towew of uwu heaven waws
+844 = "waw #1: thou shawt nyot touch gowden bwocks."
+845 = "waw #2: thou shawt nyot touch wawws fwom teh side."
+846 = "waw #3: thou shawt nyot dodge ow pawwy."
+847 = "waw #4: thou shawt nyot touch a wiving thing."
+848 = "the book of uwu waws shattews."
+849 = "waw"
+
+//---- hud: fwame advance
+850 = "enyabwe fwame advance"
+851 = "quit"
+852 = "nyext fwame"
+853 = "taunt: weset timew"
+854 = "timew"
+
+//---- hud: misc
+855 = "ovewtime"
+856 = "howd uwu to pause"~
+857 = "howd uwu to quit"~
+858 = "totaw time" // stowy mode
+859 = "best wecowd" // stowy mode
+860 = "stage `1" // stowy mode
+861 = "scowe" // cwedits scene
+862 = "wevew up owo!" // abyss mode
+863 = "dev mode"
+864 = "devewopew mode updated - pwess f3 uwu to wewoad"
+865 = "tuwbo mode"
+
+//---- abyss wune wegend
+881 = "object mod"
+882 = "wanged mod"
+883 = "hit mod"
+884 = "abiwity boost"
+885 = "modifies a static object weft behind aftew an attack."
+886 = "modifies a pwojectiwe attack."
+887 = "modifies a diwect physicaw intewaction wif an opponyent."
+888 = "powews up a chawactew attwibute ow action."
+889 = "wunye\ntypes"
+890 = ""
+
+//---- stowy cutscene ui
+891 = "pwess [`1] uwu to quit"
+892 = "pwess [`1] uwu to skip"
+893 = "nyext page"
+894 = "continyue"
+895 = "to be continyued..."
+896 = "pwoceed uwu to stage `1"
+897 = "pwoceed uwu to finyaw stage"
+898 = "wivaw"
+
+//---- vs wesuwt scween
+900 = "stage `1 cweawed owo!"
+901 = "save wepway"
+902 = "wepway saved"
+903 = "wave `1 weached owo!"
+904 = "this wun: `1 wave"
+905 = "wed team"
+906 = "bwue team"
+907 = "home team"
+908 = "away team"
+909 = "`1 wins owo!"
+910 = "`1 win owo!" // used fur owi and sein
+
+//---- vs wesuwt boxes
+911 = "kiwws"
+912 = "deaths"
+913 = "suicides"
+914 = "dmg given"
+915 = "dmg taken"
+916 = "pawwies"
+917 = "wongest combo"
+918 = "accuwacy"
+919 = "howd uwu to exit"
+920 = ""
+
+//---- my stats
+921 = "wocaw"
+922 = "onwinye"
+923 = "wanked"
+924 = "matches"
+925 = "wins"
+926 = "wosses"
+927 = "win pewcent"
+928 = "@911"
+929 = "@912"
+930 = "@913"
+931 = "damage given"
+932 = "damage taken"
+933 = "@916"
+934 = "@918"
+935 = "pwaytime"
+
+//---- team buttons
+936 = "wed"
+937 = "bwue"
+938 = "hmn"
+939 = "cpu"
+940 = "off"
+
+//---- stage sewect texts
+941 = "show data"
+942 = "hide data"
+943 = "stwike stage"
+944 = "top bwastzonye"
+945 = "bottom bwastzonye"
+946 = "side bwastzonye"
+947 = "gwound width"
+948 = "stwike a stage owo!"
+949 = "ban thwee stages owo!"
+950 = "pick a stage owo!"
+951 = "`1 is stwiking..."
+952 = "`1 is bannying..."
+953 = "`1 is picking..."
+954 = "ach|evement"
+955 = "smawwest"
+956 = "wawgest"
+957 = "smaww"
+958 = "wawge"
+959 = "avewage"
+960 = "open the\ngates"
+961 = "awdent\nwivaw"
+962 = "countewpick"
+963 = "ban a stage owo!"
+964 = "main stages"
+965 = "custom stages"
+966 = "by"
+967 = "" // wesewved
+968 = "ban stage"
+
+//---- popups
+970 = "edit wepway nyame"
+971 = "edit wepway descwiption"
+972 = "impowt cowow code"
+973 = "entew wobby nyame"
+974 = "`1's wobby" // defauwt wobby nyame
+
+//---- stowy ui
+990 = "aethew tawes - `1"
+991 = "nyew stowy avaiwabwe owo!"
+992 = "skip stowy"
+993 = "view stowy"
+994 = ""
+995 = ""
+996 = ""
+997 = ""
+998 = ""
+999 = ""
+
+//----------------------------------
+// stowy mode diawogues [1000-1299]
+//----------------------------------
+
+//---- zettewbuwn
+1000 = "zettewbuwn and his woyaw wegion wetuwn uwu to teh fiwe capitaw aftew vanquishing teh aiw awmada ships that pweyed upon teh fiwe empiwe's faw-fwung twade woutes."
+1001 = "howevew~ theiw twiumphant wetuwn is met nyot by wauwews and cewebwations but by bwack bannyews and diwges. Teh fiwe capitaw is deep owo in mouwnying."
+//---- 2
+1002 = "zettewbuwn discovews that his daddy~ empewow wenbuwn~ has been assassinyated wif a famous daggew bewonging uwu to an inconceivabwe suspect: fowsbuwn~ zettewbuwn's bewoved bwothew."
+1003 = "meanwhiwe~ minyistew of uwu twade woxodont is uwu to be cwowned teh nyew empewow. Teh fiwe counciw convinces a distwaught zettewbuwn that dis was his daddy's wish."
+1004 = "zettewbuwn~ a woyaw citizen of uwu fiwe~ accepts teh counciw's wiww. He pwedges his woyawty uwu to empewow woxodont and vows wevenge upon teh twaitowous fowsbuwn."
+//---- 3
+1005 = "that nyight~ fowsbuwn matewiawizes owo in zettewbuwn's impewiaw chambews. Fowsbuwn pweads fur his bwothew's aid and accuses teh counciw of uwu muwdewing theiw daddy."
+1006 = "cewtain of uwu fowsbuwn's guiwt~ zettewbuwn fwies into a wage~ attacking his once-bewoved bwothew. Fowsbuwn bawewy manyages uwu to escape wif his wife."
+//---- 4
+1007 = "cowonyation day dawns. Teh citizens pwesent woxodont wif teh fwame impewium~ a sacwed towch gwanting teh wuwe of uwu fiwe. Zettewbuwn watches~ exhausted and doubtfuw."
+1008 = "suddenwy~ a watew cweatuwe appeaws and steaws teh fwame. It is teh ewusive owcane owo! owcane weaps wif teh fwame into a mystewious puwpwe puddwe and is gone."
+//---- 5
+1009 = "the fiwe counciw owdews zettewbuwn uwu to wetwieve teh fwame. Evew woyaw~ teh fiwe genyewaw unweashes a maewstwom on mewchant powt~ teh home of uwu owcane."
+1010 = "zettewbuwn wampages thwough teh unpwepawed city untiw he weaches teh docks~ whewe he finds a puwpwe owcane guawding teh cewemonyiaw towch."
+//---- 6
+1011 = "suddenwy~ owcane dissipates. Teh watew cweatuwe was a mewe shadow owo!"
+1012 = "beset wif doubt~ his instincts abwaze~ zettewbuwn's eyes faww on a puwpwe gwow and pwumes of uwu smoke on teh westewn howizon..."
+
+
+//---- owcane
+1013 = "the boawd membews of uwu teh watew twading company awe fuwious that teh aiw awmada has destwoyed theiw fwagship and constantwy piwwages theiw twade woutes."
+1014 = "they hatch a pwan uwu to infiwtwate teh aiw awmada and bwing it down once and fur aww. Howevew~ dewe is onwy one cweatuwe owo in mewchant powt that can bweach awmada defenses: owcane."
+1015 = "an ewusive twickstew~ owcane steaws fwom teh wtc and gives uwu to teh undewpaid company wowkews. Howevew~ teh chaiwman annyounces that dey wiww bawgain wif teh nyotowious thief."
+//---- 2
+1016 = "the chaiwman knyows owcanye's fondnyess fur teh poow fishewman nyesbit and his gwanddaughtew. Nyesbit's wow wages awe bawewy enyough uwu to put food on teh tabwe."
+1017 = "the chaiwman appeaws at teh docks and offews a feast fur owcanye's adopted famiwy. Howevew~ owo in exchange~ teh famiwy must convince owcane uwu to do teh bidding of uwu teh wtc."
+1018 = "but teh savvy nyesbit bawgains fur mowe: a yeawwy feast fur aww teh wowkews of uwu mewchant powt~ one day of uwu howiday each week~ and wepwesentation at wtc boawd meetings."
+1019 = "the chaiwman fwowns. It is a steep bawgain~ but he is fowced uwu to agwee."
+//---- 3
+1020 = "nyesbit's gwanddaughtew is teh onwy one who can convey teh pwan uwu to owcane. Teh watew cweatuwe agwees~ he wiww do anything uwu to hewp his adoptive famiwy."
+1021 = "using his mystewious watew powews uwu to snyeak into teh awmada thwough an unguawded sink~ owcane snyiffs his way thwough teh aiwship~ seeking teh wtc's stowen goods."
+//---- 4
+1022 = "suddenwy~ owcane happens upon a stwange scene. He spies teh aiw awmada's commandew sewwing teh chaiwman's goods~ wowth miwwions~ owo in exchange fur a singwe scwoww."
+1023 = "this is nyo owdinyawy scwoww. It's a shimmewing~ shifting map iwwustwating weak points owo in teh defence of uwu evewy civiwization acwoss teh suwface of uwu aethew."
+//---- 5
+1024 = "distwacted by dis nyewfound intwigue~ owcane is stawtwed by teh appeawance of uwu wwastow and bwadshaw. Teh two awmada wingmen awe amazed uwu to find a watew dwewwew inside teh awmada."
+1025 = "wwastow~ evew teh hot head~ shoves his wingman uwu to teh side and chawwenges teh watew cweatuwe uwu to cwose-quawtews combat owo!"
+//---- 6
+1026 = "owcane defeats wwastow and weaps out uwu of uwu teh aiw awmada ship~ teh chaiwman's goods owo in tow. He wetuwns wif his woot uwu to mewchant powt~ onwy uwu to find his bewoved docks owo in fwames owo!"
+1027 = "he quickwy sweeps nyesbit's gwanddaughtew uwu to safety and puts out uwu teh fwames. He weawns that mewchant powt was attacked by a mad fiwe genyewaw on a sensewess wampage."
+1028 = "owcane snyiffs out uwu teh twaiw of uwu teh fiwe cweatuwe and fowwows it west~ weaving his home owo in teh watew once again."
+
+
+//---- wwastow
+1029 = "wwastow and bwadshaw awe top wingmen owo in teh aiw awmada~ an ewite aewiaw miwitawy that wanges above teh whowe aethewian continyent."
+1030 = "the aiw awmada piwwages mewchant twanspowts and hawasses unguawded fiwe empiwe outposts. Wwastow awone among teh awmada fwiews is knyown uwu to bweak wank fur pewsonyaw gwowy."
+1031 = "wwastow is a bwiwwiant but unpwedictabwe fwyew. Bwadshaw is cautious~ but steady. Dey have been best fwiends and unwikewy pawtnyews since theiw days owo in teh aiw academy."
+//---- 2
+1032 = "whiwe soawing above teh aethewian fowest on a woutine scouting mission~ wwastow spots a destwoyed section of uwu teh wock waww."
+1033 = "wwastow swoops owo in uwu to investigate whiwe bwadshaw fowwows. Teh two fwiends piwouette owo in teh aiw~ showing off fur each othew. Dey fwy owo in fast and weckwess."
+//---- 3
+1034 = "meanwhiwe on teh waww bewow... Kwagg~ a wawwbuiwdew~ has just wetuwned fwom a confwontation on teh fowest fwoow. He anxiouswy wepaiws teh waww~ impatientwy cawwing up teh stone."
+1035 = "when kwagg sees wwastow and bwadshaw diving towawds teh waww~ he bwaces fur attack."
+1036 = "assuming that teh aiw awmada is taking advantage of uwu teh weaknyess owo in his waww~ kwagg puwws up a wock and huwws it upwawds~ smashing bwadshaw out uwu of uwu teh sky..."
+//---- 4
+1037 = "the intense fowce of uwu teh wawwbuiwdew's pwojectiwe pwopews bwadshaw into teh unyiewding wock waww~ wendewing teh aewiaw ace unconscious."
+//---- 5
+1038 = "seeing his wingman owo in pewiw~ wwastow ewupts into a bwind fuwy. Scweeching owo in wage~ he wheews owo in midaiw and waunches himsewf at teh wock cweatuwe."
+//---- 6
+1039 = "victowious against teh wawwbuiwdew~ wwastow cawefuwwy picks up his injuwed fwiend and cawwies him back uwu to teh aiw awmada."
+1040 = "wwastow is widden wif guiwt fur awwowing his weckwess bwavado uwu to endangew his devoted bwothew owo in awms. He sweaws uwu to find kwagg and seek wevenge."
+1041 = "meanwhiwe bewow... Kwagg picks himsewf up and quickwy wepaiws teh waww. Mystewiouswy~ teh wawwbuiwdew sets off east accompanyied by a smaww aethewian companyion vine."
+
+
+//---- kwagg
+1042 = "kwagg's wife is swow and meditative. His peopwe~ teh wawwbuiwdews~ devote theiw entiwe wives uwu to maintainying teh gweat wock waww. Dey awone wiewd teh powew uwu to manyipuwate gweat masses of uwu stone."
+1043 = "most wawwbuiwdews awe bown on teh waww and wiww ciwcwe teh whowe aethewian fowest thwee times duwing theiw wifetimes~ nyevew setting footpaw on teh gwound bewow."
+//---- 2
+1044 = "one day~ kwagg comes upon a huge bweach owo in teh nyowthewn waww. He has nyevew seen such destwuction~ and feaws teh thweat that might have entewed teh fowest."
+//---- 3
+1045 = "kwagg begins teh wabowious pwocess of uwu summonying wocks uwu to wepaiw teh wounded waww. He must heaw it quickwy uwu to pwotect teh pwecious aethewian fowest fwom outside thweats."
+1046 = "suddenwy~ teh unthinkabwe happens: kwagg is attacked fwom inside teh waww."
+//---- 4
+1047 = "kwagg's wock-bound mind can bawewy pwocess wat he sees. Teh gweat waww was made uwu to pwotect teh tweetop dwewwews~ but nyow one of uwu dem is mounting an attack fwom within owo!"
+//---- 5
+1048 = "outwaged~ kwagg steps off teh waww fur teh fiwst time owo in his wife uwu to confwont teh tweetop twaitow: maypuw~ vigiwante of uwu teh fowest. Meanwhiwe~ bystandews gathew..."
+1049 = "the tweetop dwewwews onwy see kwagg twespassing on teh fowest fwoow uwu to attack one of uwu theiw own. Outwaged~ dey vow wetawiation on theiw fowmew awwies~ teh wawwbuiwdews."
+//---- 6
+1050 = "to kwagg's amazement~ teh puwpwe tweetop dwewwew vanyishes. Mayweed~ youngew sistew of uwu maypuw~ appwoaches and dwops a wettew uwu to teh fowest fwoow."
+1051 = "the wettew expwains that teh shadowy wawwiow couwdn't have been teh weaw maypuw~ because she weft moons ago uwu to find teh sauce of uwu teh stwange puwpwe pathOwOgen owo in teh fowest."
+1052 = "kwagg weawizes that teh onwy way uwu to pwotect his bewoved waww and fowest is uwu to weave dem. Mayweed sends wiwy wif kwagg uwu to hewp him twack down maypuw owo in teh middwe of uwu hew quest..."
+
+
+//---- fowsbuwn
+1053 = "fowsbuwn wetuwns home fwom a dipwomatic mission uwu to find his daddy~ empewow wenbuwn~ swain. A knyife~ identicaw uwu to fowsbuwn's daggew~ is buwied deep owo in teh empewow's chest."
+1054 = "empewow wenbuwn's woyaw spy and iwwegitimate son~ fowsbuwn has wong distwusted his daddy's fiwe counciw. Nyow~ aww too wate~ he discovews theiw tweachewous goaw."
+1055 = "fowsbuwn fwees teh scene and seeks wefuge owo in teh maze of uwu aqueducts undewnyeath teh fiwe capitaw."
+//---- 2
+1056 = "suspected of uwu muwdew~ fowsbuwn seeks uwu to wawn his bewoved woyaw bwothew and pwevent teh fiwe counciw fwom seizing teh impewiaw thwone."
+1057 = "but when zettewbuwn wetuwns uwu to teh fiwe capitaw~ he doubts fowsbuwn's conspiwacy theowies. Teh bwothews fight and fowsbuwn fwees~ wounded and betwayed."
+1058 = "zettewbuwn~ convinced his bwothew is guiwty of uwu patwicide~ is devastated. He tewws nyo one of uwu theiw cwandestine awtewcation ow of uwu fowsbuwn's escape."
+//---- 3
+1059 = "fowsbuwn fwees uwu to teh faw outskiwts of uwu teh fiwe empiwe. One nyight~ seeking wefuge on teh bowdew of uwu teh wastewands~ he awakes uwu to find himsewf suwwounded by muwky stwangews."
+1060 = "they emewge fwom a wing of uwu smoke and identify themsewves as owo sentwies fwom teh smoke cwan. Dey seize teh wandewing fiwe citizen and bwing him uwu to theiw settwement."
+//---- 4
+1061 = "cwaiyen~ chief of uwu smoke cwan~ weawns of uwu fowsbuwn's pwight and his skiww owo in espionyage. She offews him a home owo in teh hidden smoke encwave owo in exchange fur his awwegiance."
+1062 = "fowsbuwn vows his woyawty. He wenyounces teh fawse wight of uwu fiwe and vows uwu to weawn teh twuthfuw deceptions of uwu smoke. Uwu he is given a gwey cwoak of uwu secwecy and a nyew identity."
+//---- 5
+1063 = "befowe wong~ fowsbuwn heaws nyews fwom teh fiwe capitaw: zettewbuwn has disappeawed. Despite his woyawty uwu to teh smoke cwan~ fowsbuwn decides he must find his bwothew."
+1064 = "donnying a battwe mask fwom teh smoke cwan~ fowsbuwn uses a smoke powtaw uwu to wetuwn uwu to teh fiwe capitaw. When he awwives~ howevew~ he is gweeted by a famiwiaw figuwe..."
+//---- 6
+1065 = "as fowsbuwn uses his nyew powews of uwu smoke uwu to defeat his bwothew~ zettewbuwn vanyishes. Teh fiwe capitaw puwses owo in puwpwe shadow."
+1066 = "then fowsbuwn sees a bwaze owo in teh distance. Teh fiwe awmy has attacked teh smoke hideout whiwe he skiwmished owo in teh fiwe capitaw."
+1067 = "fowsbuwn waces back uwu to his nyew home without finding his weaw bwothew ow confwonting teh fawse empewow woxodont."
+
+
+//---- maypuw
+1068 = "maypuw~ sewf-appointed guawdian of uwu teh aethewian fowest and daughtew of uwu teh tweetops~ pwotects teh tweetops wodges and teh fwoow bewow wif hew companyion pwant~ wiwy."
+1069 = "high owo in teh canyopy~ teh tweetop dwewwews wook down on teh wowwy denyizens of uwu teh fowest fwoow. But maypuw knyows teh fowest is onye~ dey wiww thwive ow pewish togethew."
+1070 = "and nyow maypuw feews a distuwbance thwough teh woots of uwu teh fowest. Dewe is a sicknyess undew teh gwound."
+//---- 2
+1071 = "maypuw and wiwy soon discovew that teh fowest is infested wif a mystewious puwpwe shadow. Whewevew teh shadows touch~ teh pwants tuwn twisted and ugwy."
+//---- 3
+1072 = "the sauce of uwu teh sicknyess seems uwu to wie beyond teh wock waww. Maypuw weawizes that she must go. She weaves wiwy owo in teh cawe of uwu hew youngew sistew~ mayweed."
+1073 = "maypuw gives mayweed a wettew that detaiws aww of uwu hew discovewies about teh puwpwe wot and its sauce. Maypuw tewws hew sistew uwu to shawe teh wettew wif any fowest dwewwew who wiww wead it."
+1074 = "mayweed wowwies that maypuw is too weckwess and begs hew uwu to stay~ but both sistews feew teh dangew wuwking benyeath teh woots. Aww of uwu aethew couwd be owo in pewiw..."
+//---- 4
+1075 = "maypuw cwosses teh continyent scouting and seawching~ fowwowing teh sicknyess within teh eawth. Wif each day away fwom teh fowest~ she feews hewsewf gwowing weakew."
+1076 = "moons into hew jouwnyey~ she comes upon an encwave undew siege. When she cweeps cwosew uwu to investigate~ she discovews teh fiwe guawd attacking teh smoke cwan's hideout."
+//---- 5
+1077 = "suddenwy~ fowsbuwn appeaws owo in a whiwwwind of uwu smoke. Seeing his adopted home undew attack~ he mistakes maypuw fur one of uwu teh assaiwants."
+1078 = "in teh same moment~ maypuw witnyesses fowsbuwn's smoky sowcewy and pwesumes him uwu to be owo in weague wif teh twisting shadows infecting teh fowest."
+1079 = "they both weap into attack..."
+//---- 6
+1080 = "maypuw demands uwu to knyow wat wowe fowsbuwn pways owo in teh shadowy sicknyess. Taken aback~ fowsbuwn expwains his own encountew wif teh mystewious puwpwe shadow and teh disappeawance of uwu his bwothew."
+1081 = "maypuw and fowsbuwn concwude that teh dangew wies uwu to teh west. Dey set off togethew uwu to find teh sauce of uwu teh stwange menyace uwu to aethew."
+
+
+//---- epiwogue
+1082 = "theiw jouwnyeys have wed uwu to teh same pwace. Whewe vewdant gwasswands once gwew awound teh godai dewta~ a vast cwatew nyow chuwns wif nyew seas. Vowcanyic ash cwogs teh aiw."
+1083 = "maypuw and fowsbuwn awwive uwu to find zettewbuwn awweady at teh watew's edge. Teh pwoud wion avewts his eyes fwom teh bwothew he wonged. Owcane awwives soon aftew."
+1084 = "kwagg appeaws nyext~ weunyiting maypuw and hew companyion pwant wiwy. Wwastow awwives just moments watew~ having twacked down kwagg uwu to take wevenge fur bwadshaw's injuwy."
+1085 = "suddenwy~ teh eawth shivews~ and teh watew seethes wif oiwy stwands of uwu shadow. Teh sea puwses puwpwe~ and a vast stone edifice awises fwom teh depths of uwu a waging whiwwpoow."
+1086 = "this stwangewy ancient stone stwuctuwe seems uwu to be a gateway. Thwough dis powtaw~ teh wivaw wawwiows gwimpse a vast abyss that pwunges deep bewow teh suwface of uwu aethew."
+1087 = "this must be teh sauce of uwu maypuw's undewgwound wot and teh ephemewaw shadow impostews owo! ouw wawwiows put theiw wivawwies aside. Dey knyow wat dey must do."
+//---- 2
+1088 = "the shadow cweatuwes have been vanquished. Teh nyewwy unyited wawwiows fowget theiw past wivawwies~ choosing instead uwu to considew each othew awwies against any futuwe thweat uwu to aethew."
+1089 = "the mystewy of uwu teh shadows wemains. Wat wewe theiw twue goaws uwu? why did dey incite such stwife among teh citizens of uwu aethew uwu? and wiww dey wetuwn...Uwu?"
+
+
+//---- map descwiptions
+1290 = "the finyaw battwe at aetheweaw gates: teh six wivaws join fowces uwu to battwe teh ewdwitch menyace that thweatens aww of uwu aethew."
+1291 = "kwagg's jouwnyey uwu to tweetop wodge: teh faithfuw wawwbuiwdew bweaks his vow uwu to fight a gweatew foe."
+1292 = "maypuw's jouwnyey uwu to bwazing hideout: a mystewious pwague weads teh tweetop dwewwew on a jouwnyey uwu to teh owigin of uwu aethew's suffewing."
+1293 = "wwastow's encountew at teh wock waww: teh aewiaw ace of uwu teh aiw awmada encountews an unwikewy advewsawy duwing a woutine scouting mission."
+1294 = "fowsbuwn's wetuwn uwu to fiwe capitaw: teh fowsaken son wetuwns home uwu to aid teh bwothew who wenyounced him."
+1295 = "owcanye's infiwtwation of uwu aiw awmada: teh twickstew watew dwewwew snyeaks past enyemy wines uwu to hewp his adopted famiwy."
+1296 = "zettewbuwn's jouwnyey uwu to mewchant powt: towmented by teh woss of uwu his daddy~ teh pwodigaw son of uwu teh fiwe capitaw fights uwu to wecwaim wat wightwy bewongs uwu to his homewand."
+
+
+//--------------------
+// custom cowows menyu
+//--------------------
+
+1300 = "save"
+1301 = "saved"
+1302 = "defauwt"
+1303 = "undo changes"
+1304 = "cowow code"
+1306 = "undo aww changes uwu?"
+1307 = "discawd changes uwu?"
+
+1320 = "body" //zet
+1321 = "face"
+1322 = "fiwe 1"
+1323 = "fiwe 2"
+1324 = "fiwe 3"
+
+1330 = "body" //owc
+1331 = "bewwy"
+1332 = "highwights"
+
+1340 = "body" //wa
+1341 = "hands"
+1342 = "scawf"
+1343 = "bewwy"
+1344 = "beak"
+
+1350 = "wock" //kwa
+1351 = "skin"
+1352 = "awmow"
+1353 = "shading"
+
+1360 = "cwoak 1" //fow
+1361 = "body"
+1362 = "fiwe 1"
+1363 = "fiwe 2"
+1364 = "fiwe 3"
+1365 = "cwoak 2"
+1366 = "skuww"
+
+1370 = "body" //may
+1371 = "bewwy"
+1372 = "weaf"
+1373 = "mawks"
+1374 = "vinyes"
+
+1380 = "body" //abs
+1381 = "haiw"
+1382 = "wightnying"
+1383 = "howns"
+1384 = "bewwy"
+
+1390 = "body" //eta
+1391 = "ice"
+1392 = "shading"
+
+1400 = "body" //owi
+1401 = "detaiw"
+1402 = "eyes"
+1403 = "sein"
+1404 = "enyewgy"
+
+1410 = "body wight" //wan
+1411 = "body dawk"
+1412 = "pants"
+1413 = "bandages"
+1414 = "poison"
+
+1420 = "body" //cwa
+1421 = "suit"
+1422 = "cwoak"
+1423 = "awmow"
+1424 = "bewt"
+1425 = "pwasma 1"
+1426 = "pwasma 2"
+
+1430 = "body" //syw
+1431 = "weaves"
+1432 = "bawk"
+1433 = "petaws 1"
+1434 = "petaws 2"
+
+1440 = "mech" //eww
+1441 = "twim"
+1442 = "body"
+1443 = "pwopewwews"
+1444 = "weapons"
+1445 = "cwothes"
+
+1450 = "awmow wight" //gus
+1451 = "awmow dawk"
+1452 = "twim"
+1453 = "howns"
+
+//--------------------
+
+//---- stowy mode ui
+1480 = "stage time"
+1481 = "totaw time"
+1482 = "chaptew cweawed owo!"
+1483 = "totaw cweaw time"
+1484 = "a nyew wecowd owo!"
+1485 = "stowy mode cweawed owo!"
+1486 = "stowy totaw time"
+1487 = "game uwu ovew"
+1488 = "continyue"
+1489 = "give up"
+1490 = "jouwnyey uwu to `1" // map
+1491 = "the finyaw battwe" // map
+1492 = "finyaw" // map (showt fowm)
+1493 = "totaw time `1" // +1:00
+1494 = "wet's go owo!"
+1495 = "sewect fightew"
+1496 = "cutscenyes"
+1497 = "co-op" // "co-op: pwess stawt"
+1498 = "`1 has joinyed"
+1499 = "stage `1 time"
+
+//-----------------------------------------
+// tutowiaw input instwuctions [1500-1899]
+//-----------------------------------------
+
+//---- advanced offense tutowiaw
+1500 = "autocancew nyaiw into utiwts: "
+1501 = "{-1~pw_jump} den {-1~pw_attack} and wand befowe teh finyaw hit comes out uwu. Den {90~pw_attack}"
+1502 = "waw baiws: "
+1503 = "waw: yes"
+1504 = "waw: nyo"
+1505 = "{1~-1} den (aftew teh inyitiaw dash) {181~-1} den immediatewy {-1~pw_jump} den immediatewy howd {0~-1} den {0~pw_attack}{12~joy}{-1~pw_stwong}"
+1506 = "wevewse dspeciaws: "
+1507 = "{270~pw_speciaw} den immediatewy {180~-1}"
+1508 = "pawwy baits: "
+1509 = "appwoach opponyent~ den hit dem aftew dey pawwy"
+1510 = "uaiw hitfawws: " //***updated
+1511 = "{-1~pw_jump} den {90~pw_attack}{12~joy}{-1~pw_stwong} den {271~-1} duwing hitpause" //***updated
+
+//---- intewmediate defense tutowiaw
+1512 = "attacks suwvived: "
+1513 = "howd contwow stick 90 degwees upwawd fwom teh owiginyaw knyockback angwe"
+1514 = "combos escaped: "
+1515 = "howd contwow stick 90 degwees downwawd fwom teh owiginyaw knyockback angwe"
+1516 = "techs: "
+1517 = "{-1~pw_jump} towawd teh opponyent~ den {-1~pw_dodge} wight befowe chu hit teh gwound"
+1518 = "waww techs: "
+1519 = "howd contwow stick 90 degwees downwawd fwom teh owig. knyockback angwe~ den {-1~pw_dodge} just befowe chu hit teh waww"
+
+//---- beginnyew defense tutowiaw
+1520 = "pawwies: "
+1521 = "wefwects: "
+1522 = "wowws: "
+1523 = "aiw dodges: "
+1524 = "{-1~pw_jump} towawd teh opponyent~ den {-1~pw_dodge}"
+
+//---- advanced defense tutowiaw
+1525 = "spikes suwvived: "
+1526 = "howd {180~-1} den {-1~pw_dodge} wight befowe chu hit teh waww"
+1527 = "wedge techs: "
+1528 = "{90~pw_speciaw} towawd teh opponyent~ den {-1~pw_dodge} wight as owo chu is hit"
+1529 = "sdi escapes: "
+1530 = "howd {180~-1}"
+1531 = "dwift di escapes: "
+1532 = "howd {90~-1} and {0~-1} uwu to di teh fiwst hit inwawd~ den howd {180~-1} and den wetuwn uwu to teh stage"
+
+//---- advanced movement tutowiaw
+1533 = "dash dances: "
+1534 = "{1~-1} den {181~-1} whiwe stiww owo in teh inyitaw dash"
+1535 = "wavewands: "
+1536 = "{-1~pw_jump} den~ once above teh pwatfowm {270~pw_dodge} ow {0~pw_dodge}"
+1814 = "wavedashes: "
+1815 = "{-1~pw_jump} den immediatewy {0~pw_dodge}"
+
+//---- intewmediate movement tutowiaw
+1537 = "showt hops: "
+1538 = "quickwy tap {-1~pw_jump}"
+1539 = "fastfawws: "
+1540 = "{-1~pw_jump} den {271~-1} at teh peak of uwu ur jump"
+1541 = "wawwjumps: "
+1542 = "{-1~pw_jump} into teh waww~ den {0~pw_jump}"
+1543 = "speciaw faww wawwjumps: "
+1544 = "{90~pw_speciaw} ending nyeaw teh waww~ den {0~pw_jump} den {90~pw_speciaw} again"
+
+//---- intewmediate offense tutowiaw
+1545 = "sweet spots: "
+1546 = "{-1~pw_jump} den {0~pw_attack}{12~joy}{-1~pw_stwong} ow {90~pw_attack}{12~joy}{-1~pw_stwong}"
+1547 = "fwont hit of uwu utiwt into aewiaw ow dash attack: "
+1548 = "{90~pw_attack} into {-1~pw_jump} den {-1~pw_attack}{12~joy}{-1~pw_stwong} ow {1~pw_attack}"
+1549 = "edgeguawds: "
+1550 = "punyish escapes: "
+1551 = "{-1~pw_attack} (optionyaw: one mowe {-1~pw_attack}) den {181~-1}"
+1552 = "jab cancews: "
+1553 = "{-1~pw_attack} (optionyaw: one mowe {-1~pw_attack}) den {2~pw_attack}{12~joy}{90~pw_attack}{12~joy}{270~pw_attack}"
+
+//---- beginnyew offense tutowiaw
+1554 = "jab combos: "
+1555 = "{-1~pw_attack} den {-1~pw_attack} den {-1~pw_attack}"
+1556 = "dash attacks: "
+1557 = "ftiwts: "
+1558 = "utiwts: "
+1559 = "dtiwts: "
+1560 = "fstwongs: "
+1561 = "ustwongs: "
+1562 = "dstwongs: "
+1563 = "nyaiws: "
+1564 = "{-1~pw_jump} den {-1~pw_attack}"
+1565 = "faiws: "
+1566 = "{-1~pw_jump} den {0~pw_attack}{12~joy}{-1~pw_stwong}"
+1567 = "baiws: "
+1568 = "{-1~pw_jump} den {180~pw_attack}{12~joy}{-1~pw_stwong}"
+1569 = "uaiws: "
+1570 = "{-1~pw_jump} den {90~pw_attack}{12~joy}{-1~pw_stwong}"
+1571 = "daiws: "
+1572 = "{-1~pw_jump} den {270~pw_attack}{12~joy}{-1~pw_stwong}"
+1573 = "nspeciaws: "
+1574 = "fspeciaws: "
+1575 = "uspeciaws: "
+1576 = "dspeciaws: "
+
+//---- zettew tutowiaw
+1577 = "buwnying stwongs: "
+1578 = "{-1~pw_stwong} whiwe opponyent is on fiwe"
+1579 = "uspeciaw cancews: "
+1580 = "{90~pw_speciaw} den {-1~pw_dodge}"
+1581 = "gatwing combos: "
+1582 = "{1~pw_attack} den (wight when it hits) {90~pw_stwong}"
+1583 = "jump-cancewwed nspeciaws: "
+1584 = "{-1~pw_speciaw} den immediatewy {-1~pw_jump}"
+
+//---- owcane tutowiaw
+1585 = "aewiaw uspeciaw tewepowts: "
+1586 = "{-1~pw_jump} den {90~pw_speciaw} whiwe a puddwe exists"
+1587 = "suwviving aftew puddwe fspeciaw: "
+1588 = "{0~pw_speciaw} ovew a puddwe~ den get back uwu to teh stage"
+1589 = "bubbwe butts: "
+1590 = "{-1~pw_jump} den {0~pw_attack}{12~joy}{-1~pw_stwong} den howd {180~-1}"
+1591 = "owcahops: "
+1592 = "{-1~pw_jump} den {-1~pw_jump} den immediatewy {90~pw_speciaw} without a puddwe"
+1593 = "hydwopwane puddwe ustwongs: "
+1594 = "{1~-1} den (aftew teh inyitiaw dash) {181~-1} ovew teh puddwe~ den immediatewy howd {90~pw_stwong}"
+1796 = "puddwe fstwong"
+1797 = "{0~pw_stwong} ovew a puddwe"
+1798 = "puddwe ustwong"
+1799 = "{90~pw_stwong} ovew a puddwe"
+1800 = "puddwe dstwong"
+1801 = "{270~pw_stwong} ovew a puddwe"
+1802 = "faiw bubbwes"
+1803 = "{-1~pw_jump} den {0~pw_attack}{12~joy}{-1~pw_stwong}"
+1804 = "dspeciaw bubbwes"
+1805 = "{270~pw_speciaw} uwu wif a puddwe out uwu"
+
+//---- wwastow tutowiaw
+1595 = "fstwongs: "
+1596 = "{-1~pw_jump} den {0~pw_stwong}"
+1597 = "ustwongs: "
+1598 = "{-1~pw_jump} den {90~pw_stwong}"
+1599 = "dstwongs: "
+1600 = "{-1~pw_jump} den {270~pw_stwong}"
+1601 = "uspeciaw sweet spots: "
+1602 = "{90~pw_speciaw} whiwe nyext uwu to teh opponyent"
+1603 = "jump cancewwed tiwts: "
+1604 = "{2~pw_attack}{12~joy}{90~pw_attack}{12~joy}{270~pw_attack} den {-1~pw_jump}"
+1806 = "use aww aewiaw jumps"
+1807 = "wising nspeciaw"
+1808 = "howd {-1~pw_speciaw}"
+1809 = "stay moving owo in teh cuwwent fur 2 seconds"
+1810 = "{0~pw_speciaw} den {0~-1}{12~joy}{180~-1}"
+
+//---- kwagg tutowiaw
+1605 = "nthwows: "
+1606 = "{-1~pw_speciaw} uwu to puww a wock~ den {-1~pw_speciaw}"
+1607 = "fthwows: "
+1608 = "{-1~pw_speciaw} uwu to puww a wock~ den {0~pw_speciaw}"
+1609 = "uthwows: "
+1610 = "{-1~pw_speciaw} uwu to puww a wock~ den {90~pw_speciaw}"
+1611 = "dthwows: "
+1612 = "{-1~pw_speciaw} uwu to puww a wock~ den {270~pw_speciaw}"
+1613 = "attacks suwvived: "
+1614 = "jump-cancewwed fspeciaw into aewiaws: "
+1615 = "{0~pw_speciaw} den (aftew hitting) {-1~pw_jump} den {-1~pw_attack}{12~joy}{-1~pw_stwong}"
+1616 = "uspeciaws: "
+1617 = "dash attack cancews: "
+1618 = "{1~pw_attack} den (aftew hitting) {-1~pw_attack}"
+1619 = "wock shawd hits: "
+
+//---- fowsbuwn tutowiaw
+1620 = "fspeciaw cwone attacks: "
+1621 = "{0~pw_speciaw} den {270~pw_speciaw}"
+1622 = "dspeciaws: "
+1623 = "{270~pw_speciaw} aftew consuming 3 smoke cwouds wif {270~pw_speciaw}"
+1624 = "doubwe uspeciaws: "
+1625 = "{90~pw_speciaw} into a smoke cwoud~ den {90~pw_speciaw} again"
+1626 = "fstwong dtiwt combos: " //***updated
+1627 = "{0~pw_stwong}~ den {270~pw_attack}" //***updated
+1811 = "cweate nspeciaw smoke"
+
+//---- maypuw tutowiaw
+1628 = "nspeciaws: "
+1629 = "fspeciaws: "
+1630 = "aewiaw dspeciaws: "
+1631 = "{-1~pw_jump} den {270~pw_speciaw}"
+1632 = "wwapped stwong attacks: "
+1633 = "mawk opponyent~ den {-1~pw_stwong}"
+1634 = "uspeciaw tethews: "
+1635 = "mawk opponyent~ den howd {90~pw_speciaw}"
+1636 = "uspeciaw attacks whiwe mawk is active: "
+1637 = "mawk opponyent~ den tap {90~pw_speciaw}"
+1638 = "wiwy attacks: "
+1639 = "waww cwings: "
+1640 = "howd {0~-1} towawd waww and howd {-1~pw_jump}"
+1641 = "uaiw boosts: "
+1642 = "{-1~pw_jump} den {-1~pw_jump} den immediatewy {90~pw_attack}{12~joy}{-1~pw_stwong}"
+1643 = "wevewse fspeciaw into utiwts: "
+1644 = "{0~pw_speciaw} den immediatewy howd {180~-1} into {90~pw_attack}"
+
+//---- absa tutowiaw
+1645 = "fspeciaws: "
+1646 = "howd {0~pw_speciaw} den {90~-1}{12~joy}{270~-1}"
+1647 = "unchawged nspeciaws: "
+1648 = "{-1~pw_speciaw} den tap {-1~pw_speciaw}"
+1649 = "chawged nspeciaws: "
+1650 = "pwace cwoud den howd {-1~pw_speciaw}"
+1651 = "unchawged dspeciaws: "
+1652 = "pwess {270~pw_speciaw}"
+1653 = "chawged dspeciaws: "
+1654 = "howd {270~pw_speciaw}"
+1655 = "uspeciaw pawt 2 hits: "
+1656 = "{90~pw_speciaw} den howd a diwection. Den howd a diffewent diwection."
+1657 = "uspeciaw-cancewwed aewiaws: "
+1658 = "{90~pw_speciaw} fwom teh gwound~ den {-1~pw_attack}{12~joy}{-1~pw_stwong}"
+1659 = "doubwe jump cancewwed faiws: "
+1660 = "{-1~pw_jump} den tap {-1~pw_jump} den {0~pw_attack}{12~joy}{-1~pw_stwong}"
+1661 = "doubwe jump into wising uaiws: "
+1662 = "{-1~pw_jump} den howd {-1~pw_jump} den {90~pw_attack}{12~joy}{-1~pw_stwong}"
+1663 = "cwoud-extended sweet spots: "
+1664 = "{0~pw_attack}{12~joy}{180~pw_attack}{12~joy}{270~pw_attack} sweet spot on a cwoud"
+
+//---- etawus tutowiaw
+1665 = "ftiwts: "
+1666 = "fspeciaws: "
+1667 = "gwounded uspeciaws: "
+1668 = "attacks aftew uspeciaw: "
+1669 = "howd {90~pw_speciaw} den {-1~pw_attack}{12~joy}{-1~pw_stwong}"
+1670 = "attacks awmowed: "
+1671 = "{-1~pw_speciaw} on ice~ den howd {0~pw_stwong} nyeaw owby" //***updated
+1672 = "awmowed stwong attacks: "
+1673 = "{-1~pw_speciaw} on ice~ den {-1~pw_stwong}"
+1674 = "fweezes: "
+1675 = "{270~pw_speciaw} nyext uwu to opponyent ow whiwe opponyent is on ice"
+1676 = "jump cancewwed dash attacks into nyaiw: "
+1677 = "{1~pw_attack} den {-1~pw_jump} den {-1~pw_attack}"
+1678 = "ustwong cancewwed dash attacks: "
+1679 = "{1~pw_attack} den {90~pw_stwong}"
+1680 = "pwojectiwes bwocked wif faiw: "
+1681 = "{-1~pw_jump} den howd {0~pw_attack}{12~joy}{-1~pw_stwong}"
+
+//---- owi tutowiaw
+1682 = "spiwit fwame combos: "
+1683 = "{-1~pw_speciaw} x3"
+1684 = "chawged fwames: "
+1685 = "howd {-1~pw_speciaw}"
+1686 = "fstwongs: "
+1687 = "{0~pw_stwong} whiwe sein is nyot nyeaw"
+1688 = "team-up fstwongs: "
+1689 = "{0~pw_stwong} whiwe sein is nyeaw"
+1690 = "ustwongs: "
+1691 = "{90~pw_stwong} whiwe sein is nyot nyeaw"
+1692 = "team-up ustwongs: "
+1693 = "{90~pw_stwong} whiwe sein is nyeaw"
+1694 = "dstwongs: "
+1695 = "{270~pw_stwong} whiwe sein is nyot nyeaw"
+1696 = "team-up dstwongs: "
+1697 = "{270~pw_stwong} whiwe sein is nyeaw"
+1698 = "dspeciaws: "
+1699 = "{270~pw_speciaw} den waunch owby downwawd"
+1700 = "wefwected pwojectiwes: "
+1701 = "wediwected fspeciaws: "
+1702 = "{0~pw_speciaw} den {-1~pw_jump} den {270~pw_speciaw} den waunch pwojectiwe towawd owby"
+1703 = "doubwe uspeciaws: "
+1704 = "{90~pw_speciaw} den {-1~pw_dodge} den {90~pw_speciaw}"
+
+//---- wannyo tutowiaw
+1705 = "supew jumps: "
+1706 = "howd {270~pw_jump}"
+1707 = "fuwwy chawged dawt cancews: "
+1708 = "howd {-1~pw_speciaw} den {-1~pw_dodge}"
+1709 = "bubbwe twaps: "
+1710 = "{270~pw_speciaw} den hit owby into teh bubbwe"
+1711 = "fuwwy poisoned fspeciaws: "
+1712 = "fuwwy poison owby~ den {0~pw_speciaw}"
+1713 = "tongue tethews: "
+1714 = "hit teh gwound wif {0~pw_speciaw}"
+1715 = "uspeciaw dive kicks: "
+1716 = "{90~pw_speciaw} den {270~pw_speciaw}"
+1717 = "uspeciaw spin attacks: "
+1718 = "{90~pw_speciaw} den howd {-1~pw_attack}"
+1719 = "tongue swing nyaiws: "
+1720 = "hit teh gwound wif {0~pw_speciaw} den {-1~pw_jump} den {-1~pw_attack}"
+
+//---- cwaiwen tutowiaw
+1721 = "tippews: "
+1722 = "using 3 sepawate types of uwu attacks~ hit owby wif teh tip of uwu ur swowd."
+1723 = "pwojectiwes bwocked: "
+1724 = "uspeciaw finyaw hits: "
+1725 = "{90~pw_speciaw} den howd ow pwess {-1~pw_speciaw}"
+1726 = "fowwawd thwows: "
+1727 = "{-1~pw_speciaw} den howd ow pwess {0~-1}"
+1728 = "backwawd thwows: "
+1729 = "{-1~pw_speciaw} den howd ow pwess {180~-1}"
+1730 = "daiw into nspeciaw combos: "
+1731 = "{-1~pw_jump} den {270~pw_attack}{12~joy}{-1~pw_stwong} den {-1~pw_speciaw}"
+
+//---- sywvanyos tutowiaw
+1732 = "ftiwts: "
+1733 = "{2~pw_attack}"
+1734 = "speciaw jab combo finyishews: "
+1735 = "{-1~pw_attack} den {-1~pw_attack} den {-1~pw_speciaw}"
+1736 = "dspeciaws: "
+1737 = "{270~pw_speciaw} wif gwass on teh gwound"
+1738 = "fspeciaw into attack combos: "
+1739 = "{0~pw_speciaw} den {-1~pw_jump} den {-1~pw_attack}"
+1740 = "uspeciaw attacks: "
+1741 = "{90~pw_speciaw} den move awound and howd {-1~pw_speciaw} whiwe on gwass"
+1742 = "uspeciaw cancews: "
+1743 = "{90~pw_speciaw} owo in teh aiw~ den {-1~pw_dodge} befowe digging" //***updated
+1744 = "baiw stawws: "
+1745 = "{-1~pw_jump} den {180~pw_attack}{12~joy}{-1~pw_stwong} den howd {270~-1} whiwe wight above gwound"
+1812 = "covew teh entiwe pwatfowm wif gwass"
+1813 = "cweate nspeciaw gwass"
+
+//---- ewwianya tutowiaw
+1746 = "hovew aewiaws: "
+1747 = "{-1~pw_jump} den howd {-1~pw_jump} den {-1~pw_attack}"
+1748 = "fuww-wength dash attacks: "
+1749 = "howd {1~pw_attack}"
+1750 = "fuww-wength ftiwts: "
+1751 = "howd {2~pw_attack}"
+1752 = "steam cwoud hits: "
+1753 = "{-1~pw_stwong} whiwe nyot ovewheated"
+1754 = "ovewheated stwongs: "
+1755 = "{-1~pw_stwong} whiwe ovewheated"
+1756 = "nspeciaw expwosions: "
+1757 = "{-1~pw_speciaw} den aim"
+1758 = "fspeciaws: "
+1759 = "{0~pw_speciaw} den aim"
+1760 = "chawged fspeciaws: "
+1761 = "howd {0~pw_speciaw}"
+1762 = "dspeciaws twiggewed: "
+1763 = "{270~pw_speciaw} den {0~pw_speciaw}"
+1764 = "dspeciaws twiggewed on owby: "
+1765 = "{270~pw_speciaw} above owby den hit him wif {0~pw_speciaw}"
+1766 = "uspeciaw aiwdodges: "
+1767 = "{90~pw_speciaw} den {-1~pw_dodge}"
+
+//---- shovew knyight tutowiaw
+1768 = "fuwwy extended uaiws: "
+1769 = "{-1~pw_jump} den howd {90~pw_attack}{12~joy}{-1~pw_stwong}"
+1770 = "fuwwy chawged ustwongs: "
+1771 = "howd {90~pw_stwong}"
+1772 = "nspeciaw coin captuwes: "
+1773 = "{-1~pw_speciaw} whiwe gems awe nyeaw"
+1774 = "nspeciaw waw hown hits: "
+1775 = "nspeciaw ghost gwove hits: "
+1776 = "jabs fwom on top of uwu nspeciaw's mobiwe geaw: "
+1777 = "{-1~pw_speciaw} den~ whiwe on teh mobiwe geaw~ {-1~pw_attack}"
+1778 = "dynyamo maiw aewiaw stwong attacks: "
+1779 = "{-1~pw_jump} den {270~pw_attack}{12~joy}{-1~pw_stwong} uwu to chawge up. Den {-1~pw_stwong}"
+1780 = "tweasuwe wocks bwoken: "
+1781 = "{270~pw_speciaw} den {-1~pw_speciaw} again once  owo! owo! appeaws"
+1782 = "fspeciaw jump-cancewwed nyaiws: "
+1783 = "{0~pw_speciaw} den {-1~pw_jump} den {-1~pw_attack}"
+1784 = "{-1~pw_taunt} den {-1~pw_attack} uwu to buy an item"
+1785 = "puwchase teh waw hown"
+1786 = "puwchase teh ghost gwove"
+1787 = "puwchase teh mobiwe geaw"
+1788 = "puwchase teh dynyamo maiw"
+
+//---- genyewic chawactew tutowiaw stwings
+1789 = "nspeciaw"
+1790 = "fspeciaw"
+1791 = "uspeciaw"
+1792 = "dspeciaw"
+1793 = "baiw"
+1794 = "{-1~pw_jump} den {180~pw_attack}{12~joy}{-1~pw_stwong}"
+1795 = "gwounded uspeciaw"
+
+//---- beginnyew movement tutowiaw
+// (1800-1815 unyavaiwabwe owo!)
+1816 = "wawk"
+1817 = "wun"
+1818 = "jump"
+1819 = "doubwe jump"
+1820 = "{-1~pw_jump} den {-1~pw_jump}"
+1821 = "faww thwough"
+
+//---- vawious tutowiaw texts
+1822 = "pwess [`1] uwu to wepeat instwuctions." // pwess view uwu to wepeat instwuctions.
+ 1823 = "beginnyew\nmovement"
+1824 = "beginnyew\ndefense"
+1825 = "beginnyew\nyoffense"
+1826 = "intewmediate\nmovement"
+1827 = "intewmediate\ndefense"
+1828 = "intewmediate\nyoffense"
+1829 = "advanced\nmovement"
+1830 = "advanced\ndefense"
+1831 = "advanced\nyoffense"
+1832 = "compwete owo!"
+
+//----------------------------------
+// onwine chat messages [1900-1979]
+//----------------------------------
+
+//---- onwine chat pg1 (gweetings)
+1900 = "hewwo owo!"
+1901 = "wet's go owo!"
+1902 = "good wuck owo!"
+1903 = "go easy on me owo!"
+1904 = "weady when chu is owo!"
+1905 = "i'ww give it my aww owo!"
+1906 = "i'm feewing nyewvous..."
+1907 = "this wiww be easy owo!"
+
+//---- onwine chat pg2 (wesponses)
+1908 = "ok owo!"
+1909 = "thank chu owo!"
+1910 = "good game owo!"
+1911 = "wet's pway anyothew wound owo!"
+1912 = "awesome owo!"
+1913 = "sowwy owo!"
+1914 = "ouch..."
+1915 = "i'ww get chu nyext time owo!"
+
+//---- onwine chat pg3 (misc)
+1916 = "give me one second."
+1917 = "wet's do a monyey match."
+1918 = "i'm done pwaying nyow."
+1919 = "i fowgot uwu to set my contwows."
+1920 = "you got wucky owo!"
+1921 = "this is my wast game."
+1922 = "see ya watew owo!"
+1923 = "i'm using gywo contwows owo!"
+
+//---- onwine chat pg4 (chaws 1)
+
+1924 = "i'm getting heated." // zettewbuwn taunt
+1925 = "that was a big swip-up." // owcane taunt
+1926 = "that was a bweeze owo!" // wwastow taunt
+1927 = "you got wocked owo!" // kwagg taunt
+
+1928 = "i'm on a hot stweak owo!" // zettewbuwn situationyaw
+1929 = "spwash ya watew owo!" // owcane situationyaw
+1930 = "wet's team up owo!" // wwastow situationyaw
+1931 = "i'm unphased." // kwagg situationyaw
+
+//---- onwine chat pg5 (chaws 2)
+
+1932 = "you got smoked." // fowsbuwn taunt
+1933 = "wiwy is bettew than chu." // maypuw taunt
+1934 = "i twained fur dis." // absa taunt
+1935 = "you'we on thin ice." // etawus taunt
+
+1936 = "i defeated mysewf..." // fowsbuwn situationyaw
+1937 = "wet's wap dis up." // maypuw situationyaw
+1938 = "that was shocking." // absa situationyaw
+1939 = "fweeze. I'ww be wight back." // etawus situationyaw
+
+//---- onwine chat pg6 (chaws 3)
+
+1940 = "you nyeed a spiwit guide." // owi taunt
+1941 = "time fur some pacifists." // wannyo taunt
+1942 = "youw futuwe wooks bweak." // cwaiwen taunt
+1943 = "i wet chu win." // sywvanyos taunt
+
+1944 = "wighten up owo!" // owi situationyaw
+1945 = "peace out uwu." // wannyo situationyaw
+1946 = "my pwesence is a pwesent." // cwaiwen situationyaw
+1947 = "awwwooooooo owo!" // sywvanyos situationyaw
+
+//---- onwine chat pg7 (chaws 4)
+
+1948 = "i'm steaming mad owo!" // ewwianya taunt
+1949 = "sawt owo in spades." // shovew knyight taunt
+1950 = "i can beat chu wif anyone." // wandom taunt
+1951 = ""
+
+1952 = "i bwame my contwows." // ewwianya situationyaw
+1953 = "can chu dig it uwu?" // shovew knyight situationyaw
+1954 = "wow. I was pwaying wandom." // wandom situationyaw
+1955 = ""
+
+//---- extwa
+
+1999 = "i'm using joy-con\ncontwows owo!"
+
+//-------------------------------------
+// abyss wune descwiptions [2000-2209]
+//-------------------------------------
+
+//---- zettewbuwn
+2000 = "buwn effect wasts wongew."
+2001 = "fiwebawws twavew twice as owo fast."
+2002 = "fstwong twavews fawthew."
+2003 = "gwound speed is fastew."
+2004 = "dspeciaw has a fastew boost."
+2005 = "uspeciaw has weduced stawtup."
+2006 = "fwame poows expwode when stepped on."
+2007 = "fspeciaw has nyo time wimit between fiwebawws."
+2008 = "faiw and uaiw have incweased knyockback on buwnying opponyents."
+2009 = "uspeciaw goes fawthew and can be angwed whiwe moving."
+2010 = "fiwebawws awe biggew~ swowew~ and stwongew."
+2011 = "dspeciaw causes meteows uwu to faww fwom teh sky upon wanding."
+2012 = "fiwebawws stun opponyents."
+2013 = "uspeciaw and dspeciaw awe awmowed whiwe twavewing."
+2014 = "nspeciaw chawges much fastew and is mowe powewfuw."
+
+//---- owcane
+2015 = "bubbwe attacks cause mowe hits."
+2016 = "uspeciaw has weduced stawtup and wecovewy."
+2017 = "nspeciaw has a showtew time wimit between shots."
+2018 = "aiw dodge has gweatew distance."
+2019 = "fspeciaw has weduced stawtup."
+2020 = "fspeciaw can be angwed up ow down."
+2021 = "daiw spews bubbwes downwawd."
+2022 = "faiw has supew awmow."
+2023 = "dash attack and nyaiw can be hewd."
+2024 = "bubbwes puww towawd owcane."
+2025 = "chawge nspeciaw uwu to incwease its distance."
+2026 = "mowe than one puddwe can be pwaced on teh stage."
+2027 = "bubbwe attacks awso wewease wawge expwosive bubbwes."
+2028 = "puddwes awe nyot consumed by attacks used on dem."
+2029 = "when on a puddwe~ stwong attacks have mowe wange."
+
+//---- wwastow
+2030 = "aiw movement is fastew."
+2031 = "fspeciaw has mowe knyockback."
+2032 = "aewiaws awe fastew."
+2033 = "dspeciaw has weduced stawtup."
+2034 = "swipstweam gives a gweatew speed boost."
+2035 = "nspeciaw has a wongew duwation."
+2036 = "dspeciaw is stwongew and goes thwough opponyents."
+2037 = "swipstweam moves towawd wwastow."
+2038 = "stwong attacks have weduced wanding wag."
+2039 = "uspeciaw's sweetspot can be hewd~ incweasing waunch distance."
+2040 = "showtwy aftew fspeciaw hits~ teh enyemy wiww expwode."
+2041 = "mowe than one aiw cuwwent can be owo in pway at once."
+2042 = "in aiw cuwwents~ take decweased knyockback."
+2043 = "nspeciaw summons a townyado above wwastow."
+2044 = "gain fouw additionyaw jumps."
+
+//---- kwagg
+2045 = "fstwong boosts kwagg fowwawd."
+2046 = "aewiaws have incweased knyockback."
+2047 = "fspeciaw has weduced stawtup."
+2048 = "whiwe using fspeciaw~ take nyo damage ow knyockback."
+2049 = "dspeciaw has incweased knyockback."
+2050 = "thwowing wocks gives kwagg a speed boost."
+2051 = "wocks take mowe damage uwu to destwoy."
+2052 = "fspeciaw has fastew movement."
+2053 = "dspeciaw cweates mowe spikes."
+2054 = "puwwing a wock expwodes ur owd wock."
+2055 = "uspeciaw has weduced stawtup and wecovewy."
+2056 = "mowe than one wock can be owo in pway at once."
+2057 = "aww dspeciaw spikes appeaw at once."
+2058 = "stwong attacks have supew awmow."
+2059 = "uspeciaw can be used 3 times befowe touching teh gwound."
+
+//---- fowsbuwn
+2060 = "aiw dodging cweates a smoke cwoud."
+2061 = "smoke is nyot cweawed when gainying a fuww chawge."
+2062 = "uspeciaw has weduced stawtup and wanding wag."
+2063 = "smoke is immune uwu to pwojectiwes."
+2064 = "inyitiaw dash is fastew and wongew."
+2065 = "fspeciaw has nyo coowdown time."
+2066 = "become fuwwy chawged aftew consuming a singwe cwoud."
+2067 = "cwones expwode showtwy aftew being hit."
+2068 = "whiwe owo in smoke~ fowsbuwn is invisibwe and does doubwe damage."
+2069 = "uspeciaw doesn't go into speciaw faww."
+2070 = "cwone awways acts wike it's fuwwy chawged."
+2071 = "fspeciaw cweates 2 cwones at once."
+2072 = "when owo in smoke~ take weduced knyockback."
+2073 = "nspeciaw is awways teh powewed up vewsion."
+2074 = "combust is nyow a pwojectiwe."
+
+//---- maypuw
+2075 = "uaiw causes a stwong vewticaw boost."
+2076 = "nspeciaw thwows thwee seeds."
+2077 = "pwants automaticawwy fiwe seeds upwawd."
+2078 = "both fowms of uwu uspeciaw have incweased speed."
+2079 = "stwong attacks have weduced stawtup."
+2080 = "fspeciaw and dspeciaw have fastew stawtup and twavew speed."
+2081 = "uspeciaw hits opponyents aftew tethewing uwu to dem."
+2082 = "fspeciaw~ dspeciaw can be jump cancewwed on hit and westowe doubwe jump."
+2083 = "wwap duwation is doubwed."
+2084 = "uspeciaw tethews uwu to pwants if nyo opponyents awe mawked."
+2085 = "take wess knyockback fwom mawked opponyents."
+2086 = "mowe than one pwant can be pwaced on teh stage."
+2087 = "nspeciaw hits opponyents towawd chu."
+2088 = "pwants wap opponyents on contact."
+2089 = "watchew's mawk can stack up uwu to 3 times."
+
+//---- absa
+2090 = "dtiwt stuns opponyents."
+2091 = "dspeciaw has decweased chawge time."
+2092 = "fspeciaw is fastew."
+2093 = "uspeciaw twavews fastew and fawthew."
+2094 = "gain an additionyaw doubwe jump."
+2095 = "sweetspotting cwouds doesn't destwoy dem."
+2096 = "unchawged nspeciaw tewepowts chu uwu to ur cwoud."
+2097 = "uspeciaw doesn't wead into speciaw faww."
+2098 = "chawged dspeciaw isn't wemoved when hit."
+2099 = "cwouds spike opponyents when pwaced ow popped."
+2100 = "cwouds automaticawwy pop on contact wif an enyemy."
+2101 = "mowe than one cwoud can be owo in pway at once."
+2102 = "stwong aewiaws have a wawgew hitbox."
+2103 = "chawged nspeciaw bowt wasts wongew."
+2104 = "dspeciaw twaps opponyents fur teh finyaw hit."
+
+//---- etawus
+2105 = "dash attack has a fastew boost."
+2106 = "uspeciaw has fastew stawtup~ chawge~ and actionyabiwity."
+2107 = "ice tiwes wast wongew befowe disappeawing."
+2108 = "dspeciaw has supew awmow."
+2109 = "uspeciaw hits opponyents whiwe waunching."
+2110 = "uspeciaw waunches into max height wegawdwess of uwu chawge."
+2111 = "fspeciaw cweates mowe icicwes."
+2112 = "whiwe awmowed~ movement is fastew."
+2113 = "dspeciaw hits aww gwounded opponyents."
+2114 = "dash attack cweates ice on teh gwound."
+2115 = "uaiw fweezes opponyents when dey hit teh gwound."
+2116 = "stwong attacks don't wemove awmow."
+2117 = "awmowed stwong attack shawds have incweased knyockback."
+2118 = "take hawf damage when awmowed."
+2119 = "nspeciaw stawtup decweased."
+
+//---- owi
+2120 = "gain an additionyaw jump."
+2121 = "sein can join ur stwong attacks whiwe chu'we chawging dem."
+2122 = "daiw stawtup decweased."
+2123 = "heaview weight and highew gwavity owo in hitstun."
+2124 = "dspeciaw waunches owi even when it misses."
+2125 = "sein can hit enyemies whiwe chawging nspeciaw."
+2126 = "daiw cweates a shockwave upon wanding."
+2127 = "wanding 3 spiwit fwame hits owo in a wow ow a chawged fwame stuns enyemies."
+2128 = "fspeciaw nyow thwows a spiwit staw that can be angwed up ow down."
+2129 = "fspeciaw thwows 3 pwojectiwes."
+2130 = "dspeciaw has supew awmow."
+2131 = "dspeciaw has much fastew stawtup and can waunch opponyents instantwy."
+2132 = "aww aewiaws nyow use spiwit edge and spiwit smash fur gweatew wange and powew."
+2133 = "nspeciaw hits nyeawby enyemies wif fwash. Chawge nspeciaw uwu to unweash bwaze."
+2134 = "taunt uwu to pwace a checkpoint once pew stock."
+
+//---- wannyo
+2135 = "poison dawts move fastew."
+2136 = "wetain howizontaw speed when jumping."
+2137 = "move awound whiwe spinnying duwing uspeciaw."
+2138 = "fspeciaw stawtup weduced."
+2139 = "uspeciaw goes fawthew and is stwongew."
+2140 = "fstwong shoots a pwojectiwe."
+2141 = "fspeciaw has wongew wange."
+2142 = "stwong attacks awe stwongew against poisoned opponyents."
+2143 = "enyemies awe twapped owo in bubbwes wongew."
+2144 = "take wess knyockback fur each stack of uwu poison ur opponyent has."
+2145 = "poison dawts spike opponyents."
+2146 = "mowe than one bubbwe can be owo in pway at once."
+2147 = "avoid fighting uwu to make ur nyext attack ko."
+2148 = "bubbwes expwode when popping. Stwength depends on damage done uwu to teh bubbwe."
+2149 = "hitting a bubbwe causes it uwu to buwst into smaww bubbwes."
+
+//---- cwaiwen
+2150 = "pwasma fiewd is twice as owo wawge."
+2151 = "aewiaws have wess stawtup and wanding wag."
+2152 = "the finyaw hit of uwu dspeciaw stuns opponyents."
+2153 = "dspeciaw can be used whiwe a pwasma fiewd is active."
+2154 = "consecutive tippews deaw incweased knyockback."
+2155 = "aiw movement is fastew."
+2156 = "nspeciaw can thwow upwawd ow downwawd."
+2157 = "uspeciaw pawt 1 doesn't go into speciaw faww. Pawt 2 is stwongew."
+2158 = "take wess knyockback owo in teh pwasma fiewd."
+2159 = "pwasma fiewd swowwy moves towawd chu."
+2160 = "fspeciaw is chawgeabwe and can hit enyemies whiwe twavewing."
+2161 = "stwong attacks fiwe pwasma pwojectiwes."
+2162 = "dspeciaw is a chawgeabwe attack~ cweating a pwasma fiewd at fuww chawge."
+2163 = "fspeciaw is fastew and doesn't go into speciaw faww."
+2164 = "stun duwation doubwed."
+
+//---- sywvanyos
+2165 = "baiw stawtup decweased."
+2166 = "uspeciaw's buwwow waps opponyents."
+2167 = "fwowews can take up uwu to 10 damage befowe being destwoyed."
+2168 = "ustwong stawtup decweased."
+2169 = "dspeciaw has mowe vewticaw wange."
+2170 = "fspeciaw is fastew and awways behaves as owo if it's on gwass."
+2171 = "gwass gwows instantwy and wegwows fastew aftew dspeciaw."
+2172 = "ftiwt cweates a wave of uwu wooden spikes."
+2173 = "gwass wasts wongew once chu weave teh gwound and is nyot wemoved by fwowews."
+2174 = "baiw waunches aww 3 angwes at once (onwy pins owo in teh hewd diwection)."
+2175 = "dspeciaw can be chawged fur mowe knyockback."
+2176 = "seeds pwant minyions that behave wike wiwy."
+2177 = "mowe than thwee fwowews can be active at once."
+2178 = "dspeciaw expwodes fwowews."
+2179 = "deaw mowe knyockback when nyeaw a fwowew."
+
+//---- ewwianya
+2180 = "dspeciaw shoots teh mine fowwawd."
+2181 = "nspeciaw and fspeciaw cannyot be destwoyed."
+2182 = "fspeciaw chawge time showtened."
+2183 = "uspeciaw expwodes fastew and knyocks opponyents away fwom teh expwosion."
+2184 = "dspeciaw activation time and coowdown wemoved."
+2185 = "speciaws buiwd up wess heat."
+2186 = "mines expwode fur wongew."
+2187 = "fspeciaw tuwn speed dwasticawwy incweased."
+2188 = "hovewing enyabwed duwing teh wecovewy of uwu aewiaw attacks (buiwds wess heat)."
+2189 = "pwess speciaw again uwu to waunch nspeciaw eawwy."
+2190 = "steam cwoud knyockback incweased."
+2191 = "nspeciaw fiwes 5 fists."
+2192 = "wose heat fastew. Stwong attacks awe awways ovewheated."
+2193 = "mowe than one mine can be active at once."
+2194 = "take wess knyockback and hit opponyents aftew using uspeciaw."
+
+//---- shovew knyight
+2195 = "jab sends out uwu a dwop spawk."
+2196 = "nspeciaw becomes ichow of uwu fowtunye: pewmanyentwy attwact gems."
+2197 = "diagonyaw dwop: daiw quickwy dives downwawd and fowwawd."
+2198 = "twench bwade: dtiwt cweates a tweasuwe wock."
+2199 = "wising daggew: uaiw wises instantwy and is stwongew."
+2200 = "dash boots: fastew wun speed."
+2201 = "gwide cwoud: aewiaw dspeciaw weaves a cwoud pwatfowm."
+2202 = "dust knyuckwes wepwaced wif buwwow bombew~ a weaping attack."
+2203 = "dspeciaw wepwaced wif bait bomb~ a twavewwing expwosive."
+2204 = "utiwt thwows a chaos owb that stuns opponyents."
+2205 = "ghost gwove~ waw hown~ and mobiwe geaw awe stwongew."
+2206 = "cowwect gems uwu to tempowawiwy waise ur knyockback (max of uwu 2x knyockback)."
+2207 = "tap uspeciaw uwu to wewease a thwowing anchow."
+2208 = "fspeciaw is awways infinyidaggew."
+2209 = "ownyate pwate has teh effects of uwu both othew awmow sets."
+
+//--------------------
+
+//---- chawactew abiwity descwiptions [2300-2341]
+2300 = "zettewbuwn can set his opponyents abwaze wif his speciaw attacks~ causing dem additionyaw damage ovew time."
+2301 = "when an opponyent is buwnying~ zettewbuwn can wand a stwong attack uwu to absowb teh fwames and waunch dem twice as owo faw."
+2302 = "zettewbuwn can pwace fiwe on teh stage wif his down speciaw. Dis wiww buwn opponyents without deawing knyockback."
+2303 = "owcane can cweate a puddwe wif his nyeutwaw speciaw ow down speciaw. He can tewepowt uwu to his puddwe wif up speciaw."
+2304 = "owcane can tuwn his puddwe into a piwwaw of uwu bubbwes wif his down speciaw uwu to twap enyemies."
+2305 = "owcane can stand on top of uwu his puddwe and use a stwong attack uwu to consume teh puddwe and incwease his wange."
+2306 = "wwastow can jump 4 times~ awwowing him uwu to stay owo in teh aiw wongew and get back on stage mowe easiwy."
+2307 = "wwastow can cweate a wind cuwwent wif his fowwawd speciaw. He moves much fastew whiwe inside teh cuwwent."
+2308 = "wwastow pewfowms his stwong attacks owo in teh aiw instead of uwu on teh gwound. He can chawge dem owo in pwace."
+2309 = "kwagg can puww a wock fwom teh gwound wif his nyeutwaw speciaw. He can attack teh wock uwu to shattew it."
+2310 = "kwagg cuwws into a baww wif fowwawd speciaw. He can take damage but cannyot be knyocked away."
+2311 = "kwagg can use his up speciaw uwu to summon a piwwaw of uwu eawth benyeath his footpaws~ hitting opponyents on teh way up."
+2312 = "fowsbuwn can cweate a smoke scween wif his nyeutwaw speciaw. Fowsbuwn hides owo in teh smoke whiwe othew chawactews awe visibwe."
+2313 = "fowsbuwn can consume smoke using his down speciaw. Aftew consuming 3 smoke cwouds~ his speciaws become empowewed."
+2314 = "fowsbuwn can cweate a cwone of uwu himsewf using fowwawd speciaw. Fowsbuwn can pwess down speciaw uwu to expwode his cwone."
+2315 = "maypuw can mawk hew opponyents wif nyeutwaw speciaw~ fowwawd speciaw and down speciaw owo in teh aiw."
+2316 = "maypuw can use hew stwong attacks uwu to wap mawked opponyents owo in pwace~ wemoving teh mawk."
+2317 = "maypuw can howd up speciaw uwu to swing towawd mawked opponyents. Tap speciaw uwu to uppewcut instead."
+2318 = "absa can use hew fowwawd speciaw ow hew nyeutwaw speciaw uwu to pwace a cwoud that wingews owo in teh aiw."
+2319 = "absa can tap hew nyeutwaw speciaw uwu to pop a cwoud. She can howd hew nyeutwaw speciaw uwu to cweate a wightnying bowt."
+2320 = "absa can use hew down speciaw uwu to cweate an ewectwic chain on hewsewf ow hew cwoud that expwodes aftew time."
+2321 = "etawus can cweate ice on teh gwound wif his fowwawd speciaw~ fowwawd tiwt~ and up speciaw."
+2322 = "etawus can use his nyeutwaw speciaw whiwe standing on ice uwu to encase himsewf owo in ice awmow."
+2323 = "etawus can use his down speciaw uwu to shattew aww on-stage ice fweezing opponyents standing on it."
+2324 = "owi and sein fight as owo a tag team. If sein is cwose uwu to owi~ dey can use team-up stwong attacks."
+2325 = "tap nyeutwaw speciaw uwu to have sein fiwe a spiwit fwame. Howd nyeutwaw speciaw uwu to have sein use chawged fwame."
+2326 = "owi can use down speciaw uwu to eithew bash pwojectiwes ow bash opppoents owo in any diwection."
+2327 = "wannyo can poison his opponyents wif his speciaw moves~ causing dem uwu to take damage when dey attack."
+2328 = "wannyo can twap opponyents owo in a bubbwe. Teh mowe poisoned dey awe~ teh wongew dey awe twapped."
+2329 = "wannyo can use his fowwawd speciaw uwu to gwab teh gwound wif his tongue~ pwopewwing him quickwy thwough teh aiw."
+2330 = "the tip of uwu cwaiwen's swowd is supewchawged and can stun opponyents who awe hit by it."
+2331 = "cwaiwen can use hew down speciaw uwu to countew attacks and cweate a pwojectiwe nyuwwifying pwasma fiewd."
+2332 = "cwaiwen can use nyeutwaw speciaw uwu to gwab opponyents and thwow dem eithew fowwawd ow backwawd."
+2333 = "whiwe gwounded~ sywvanyos gwows gwass that powews up his speciaw attacks." //***
+2334 = "sywvanyos can use his up speciaw uwu to dig into teh gwound and emewge wif a powewfuw nom if he's on gwass."
+2335 = "sywvanyos' down speciaw cawws upon aww of uwu his gwass uwu to wise up and attack at once."
+2336 = "ewwianya buiwds up heat when hovewing ow using speciaws. If she ovewheats~ she woses access uwu to both of uwu dem."
+2337 = "ewwianya's stwong attacks fiwe steam and can be used owo in teh aiw. Whiwe ovewheated~ dey fiwe expwosions instead."
+2338 = "ewwianya's up speciaw ejects hew fwom teh ship~ putting hew owo in a dangewous position untiw she touches teh gwound."
+2339 = "shovew knyight can gathew gems fwom hitting opponyents~ awwowing him uwu to puwchase items wif his taunt."
+2340 = "howding attack whiwe pewfowming shovew knyight's down aiw wiww keep his shovew out uwu~ awwowing him uwu to bounce on his enyemies."
+2341 = "if shovew knyight fuwwy chawges his up stwong~ he waunches a wawge gem-fiwwed diwt bwock upwawd."
+
+//---- stage nyames [2400-2459]
+2400 = "wocked"
+2401 = "wandom"
+2402 = "fiwe capitaw"
+2403 = "aiw awmada"
+2404 = "the wock waww"
+2405 = "mewchant powt"
+2406 = "tweetop wodge"
+2407 = "bwazing hideout"
+2408 = "towew of uwu heaven"
+2409 = "tempest peak"
+2410 = "fwozen fowtwess"
+2411 = "aetheweaw gates"
+2412 = "the endwess abyss"
+2413 = ""
+2414 = "the ceo wing"
+2415 = "the spiwit twee"
+2416 = "the tutowiaw gwid x"
+2417 = "nyeo fiwe capitaw"
+2418 = "the swampy estuawy"
+2419 = "the fowest fwoow"
+2420 = "juwesvawe"
+2421 = "twouppwe pond"
+2422 = "pwactice woom"
+2423 = "aethew high"
+2424 = "pwidemoow keep"
+2425 = "fwozen gates"
+2426 = "the tutowiaw gwid"
+2427 = "the woa wing"
+2428 = ""
+2429 = "tethewbaww couwt"
+2430 = "@2400"
+2431 = "@2401"
+2432 = "@2402"
+2433 = "@2403"
+2434 = "@2404"
+2435 = "@2405"
+2436 = "@2406"
+2437 = "@2407"
+2438 = "@2408"
+2439 = "@2409"
+2440 = "@2410"
+2441 = "@2411"
+2442 = "@2412"
+2443 = "@2413"
+2444 = "@2414"
+2445 = "@2415"
+2446 = "@2416"
+2447 = "@2417"
+2448 = "@2418"
+2449 = "@2419"
+2450 = "@2420"
+2451 = "@2421"
+2452 = "@2422"
+2453 = "@2423"
+2454 = "@2424"
+2455 = "@2425"
+2456 = "@2426"
+2457 = "@2427"
+2458 = "@2428"
+2459 = "@2429"
+
+//---- css options [2500-2549]
+2500 = "use defauwt keyboawd contwows uwu?"
+2501 = "pwaytest"
+2502 = "custom contwows"
+2503 = "attack"
+2504 = "speciaw"
+2505 = "jump"
+2506 = "stwong"
+2507 = "dodge"
+2508 = "tap jump"
+2509 = "stwong attack"
+2510 = "wumbwe" // pc & switch
+2511 = "vibwation" // othew pwatfowms
+2512 = "contwows"
+2513 = "taunt"
+2514 = "fuwwhop"
+2515 = "showthop"
+2516 = "wawk"
+2517 = "wun"
+2518 = "\n(pwess [`1] uwu to cancew)" // copy of uwu 2521 without teh muwtipwe button text
+2519 = "sensitivity"
+2520 = "pwess button fur"
+2521 = "*howd uwu to add muwtipwe\n(pwess [`1] uwu to cancew)"
+2522 = "choose pwofiwe"
+2523 = "nyame"
+2524 = "points"
+2525 = "puwchase uwu?"
+2526 = "@297"
+2527 = "@298"
+2528 = "[`1]: cpu uwu  [`2]: quit"
+2529 = "pwess [`1] uwu to add cpu."
+2530 = "pwess [`1] uwu to quit."
+2531 = "dewete dis pwofiwe uwu?"
+2532 = "*to save custom contwows~ cweate a pwayew pwofiwe."
+2533 = "up"
+2534 = "down"
+2535 = "weft"
+2536 = "wight"
+2537 = "dbw tap"
+2538 = "auto wun"
+2539 = "mouse"
+2540 = "w. Cwick"
+2541 = "w. Cwick"
+2542 = "wheew"
+2543 = "dew"
+2544 = "testing..."
+2545 = "@2538"
+2546 = "doubwe tap"
+2547 = "defauwt"
+2548 = "@2539"
+2549 = "choose a buddy"
+
+//---- css options showtened (width cannyot be wongew than "speciaw") [2550-2569]
+2550 = "action" //onwy used uwu to dispway dpad setting owo in custom contwows
+2551 = "wawk"
+2552 = "wun"
+2553 = "attack"
+2554 = "speciaw"
+2555 = "jump"
+2556 = "stwong"
+2557 = "dodge"
+2558 = ""
+2559 = "off"
+2560 = ""
+2561 = ""
+2562 = ""
+2563 = "taunt"
+2564 = "fuwwhop"
+2565 = "showthop"
+
+//--- css input options [2780-2789]
+2780 = "input settings"
+2781 = "auto"
+2782 = "input buffew"
+2783 = "dash buffew"
+2784 = "wifi mode"
+2785 = "max wowwback"
+//----
+
+//---- onwine wanking bwackets
+2570 = "bwonze"
+2571 = "siwvew"
+2572 = "gowd"
+2573 = "pwatinyum"
+2574 = "diamond"
+2575 = "mastew"
+
+//---- onwine wewawd nyames
+2579 = "a miwestone wewawd"
+2580 = "siwvew emote"
+2581 = "gowd skin"
+2582 = "pwatinyum icon"
+2583 = "diamond emote"
+2584 = "mastew customs"
+
+//---- css spectatows sub-menyu
+2585 = "spectate"
+2586 = "fight"
+
+//---- menyu headew text [2600-2699]
+2600 = "main"
+2601 = "MENYU"
+//
+2602 = "wocaw"
+2603 = "MENYU"
+//
+2604 = "onwinye"
+2605 = "MENYU"
+//
+2606 = "options"
+2607 = "MENYU"
+//
+2608 = "extwas"
+2609 = "MENYU"
+//
+2610 = "my"
+2611 = "MENYU"
+//
+2612 = "wanked"
+2613 = "mode"
+//
+2614 = "weadewboawd"
+2615 = ""
+//
+2616 = "staff"
+2617 = "woww"
+//
+2618 = "sound"
+2619 = "test"
+//
+2620 = "wepway"
+2621 = "MENYU"
+//
+2622 = "custom"
+2623 = "cowows"
+//
+2624 = "contwowwews"
+2625 = "and pwofiwes"
+//
+2626 = "keyboawd"
+2627 = "contwows"
+//
+2628 = "gamepway" // sub-section titwes fur keyboawd contwows scween
+2629 = "MENYU"
+//
+2630 = "onwinye"
+2631 = "mode"
+//
+2632 = "onwinye"
+2633 = "teams"
+//
+2634 = "touwnyey"
+2635 = "mode"
+//
+2636 = "pwactice"
+2637 = "mode"
+//
+2638 = "steam"
+2639 = "wowkshop"
+//
+2640 = "vewsus"
+2641 = "mode"
+//
+2642 = "abyss"
+2643 = "endwess"
+//
+2644 = "abyss"
+2645 = "vewsus"
+//
+2646 = "stowy"
+2647 = "mode"
+//
+2648 = "wepway"
+2649 = "mode"
+//
+2650 = "tuwbo"
+2651 = "tuwbo" // used fur adding "tuwbo" uwu to main menyu texts
+//
+2652 = "miwestonyes"
+2653 = ""
+//
+2654 = "custom"
+2655 = "stages"
+//
+2656 = "tethewbaww"
+2657 = "vewsus"
+//
+//2699 = ""
+//2699 = ""
+//
+//2699 = ""
+//2699 = ""
+//
+//2699 = ""
+//2699 = ""
+//
+//2699 = ""
+//2699 = ""
+//
+//2699 = ""
+//2699 = ""
+//
+//2699 = ""
+//2699 = ""
+//
+//2699 = ""
+//2699 = ""
+//
+//2699 = ""
+//2699 = ""
+//
+//2699 = ""
+//2699 = ""
+
+//-----------------------------------
+// staff woww [2700-2749~ 2780-2799]
+//-----------------------------------
+
+2700 = "pwoject wead"
+2701 = "pwogwamming"
+2702 = "game design"
+2703 = "music"
+2704 = "sound design"
+2705 = "communyity diwectow"
+2706 = "concept awt"
+2707 = "pwomotionyaw awt"
+2708 = "stage awt"
+2709 = "chawactew design"
+2710 = "chawactew awt"
+2711 = "menyu design"
+2712 = "additionyaw pixew awt"
+2713 = "additionyaw pwogwamming"
+2714 = "nyawwative design"
+2715 = "owd muwtipwayew wibwawy\nby `1"
+2716 = "intwo anyimation\nby `1"
+2717 = "pwoduction consuwtant"
+2718 = "design consuwtants"
+2719 = "ui consuwtant"
+2720 = "japanyese wocawization"
+2721 = "pwaytestews"
+2722 = "speciaw thanks"
+2723 = "wights owned by `1"
+2739 = "muwtipwayew wibwawy\nby `1"
+2740 = "steam wowkshop"
+2741 = "additionyaw awt"
+2742 = "stage visuaw effects~\nstage editow design"
+2743 = "wussian wocawization"
+2744 = "thank chu fur pwaying owo!"
+2745 = "espowts diwectow"
+2746 = ""
+2747 = ""
+2748 = ""
+2749 = ""
+2780 = ""
+2781 = ""
+2782 = ""
+2783 = ""
+2784 = ""
+2785 = ""
+2786 = ""
+2787 = ""
+2788 = ""
+2789 = ""
+
+//---- gm:s team:
+2724 = "genyewaw manyagew"
+2725 = "head of uwu pwoduction"
+2726 = "cto"
+2727 = "head of uwu enginyeewing"
+2728 = "cowe tech"
+2729 = "ui awtist"
+2730 = "documentation"
+2731 = "qa manyagew"
+2732 = "qa team"
+2733 = "communyity suppowt"
+2734 = "pwoduction"
+2735 = "web"
+2736 = "customew suppowt"
+2737 = "suppowt"
+2738 = "contwibutows"
+
+//----------------------------------
+// keyboawd and gamepad [2750-2769]
+//----------------------------------
+
+2750 = "space"
+2751 = "weft"
+2752 = "wight"
+2753 = "up"
+2754 = "down"
+2755 = "accept"
+2756 = "menyu y"
+2757 = "menyu wb"
+2758 = "menyu wb"
+2759 = "ws weft"
+2760 = "ws wight"
+2761 = "ws up"
+2762 = "ws down"
+2763 = "view"
+2764 = "[touchpad]"
+2765 = "d-pad down"
+
+//-----------------------------
+// css match types [2770-2779]
+//-----------------------------
+
+2770 = "wanked match"
+2771 = "monyey match"
+2772 = "casuaw match"
+2773 = "fwiendwy match"
+2774 = "onwine wobby"
+2775 = ""
+2776 = ""
+2777 = ""
+2778 = ""
+2779 = ""
+
+// (2780-2999 unyavaiwabwe owo!)
+
+//-------------------------------------
+// wowkshop menyu [2800-2899]
+//-------------------------------------
+
+2800 = "view item"
+2801 = "upwoad item"
+2802 = "upwoad changes"
+2803 = "pwaytest"
+2804 = "dewete stage"
+2805 = "upwoading..."
+2806 = "woading..."
+2807 = "chawactews"
+2808 = "buddies"
+2809 = "stages"
+2810 = "skins"
+2811 = "change owdew"
+2812 = "finyish"
+2813 = "(nyo items)"
+2814 = "items obtained fwom steam wowkshop wiww be dispwayed hewe.\n\nyou can subscwibe uwu to usew-cweated content by going uwu to teh wivaws of uwu aethew app page on steam and nyavigating uwu to teh steam wowkshop tab~ ow make ur own cweations uwu to upwoad and shawe wif teh communyity."
+2815 = "wowkshop usew" // used as owo teh defauwt authow nyame
+2816 = "open stage"
+2817 = "nyew stage"
+2818 = "woading spwites"
+2819 = "woading sounds"
+2820 = "woading scwipts"
+2821 = "woading attacks"
+2822 = "waiting fur othew pwayews" // avaiwabwe
+2823 = "wune nyot suppowted."
+2824 = "a mystewious wune. Who knyows wat dis does uwu?"
+2825 = "thewe's nyo wune owo in dis swot owo!"
+
+2826 = "chawactew"
+2827 = "buddy"
+2828 = "stage"
+2829 = "`1 skin"
+
+//--------------------------
+// stage editow [2900-2999]
+//--------------------------
+
+//---- headew text
+2900 = "custom stage"
+2901 = "stage editow"
+2902 = "edit stage pawametews"
+2903 = "edit info" // stage nyame~ authow~ descwiption
+2904 = "edit bg wayews"
+2905 = "editing: " // (editing: bg#)
+2906 = "edit stage info"
+2907 = "quit and wose unsaved changes uwu?"
+2908 = "wevewt aww changes uwu?"
+2909 = "edit stage nyame"
+2910 = "edit authow nyame"
+2911 = "edit descwiption"
+//---- options menyu text
+2912 = "save"
+2913 = "wevewt"
+2914 = "@2909"
+2915 = "@2910"
+2916 = "@2911"
+2917 = "h-wepeat"
+2918 = "v-wepeat"
+2919 = "stage width"
+2920 = "stage height"
+2921 = "bwastzone side"
+2922 = "bwastzone top"
+2923 = "bwastzone bottom"
+2924 = "stage mode"
+2925 = "stage backdwop"
+2926 = "music sewect"
+2927 = "offset"
+2928 = "pawawwax"
+2929 = "bg tiwing"
+2930 = "autoscwoww"
+2931 = "anyim speed"
+2932 = "gwound"
+2933 = "make aethew wayout (save)"
+2934 = "switch uwu to aethew (save)"
+2935 = "switch uwu to basic (save)"
+2936 = ""
+2937 = "@2902"
+2938 = "@2903"
+2939 = "@2904"
+2940 = " tiwes" // "__ tiwes"
+//---- status text
+2941 = " mode" // // "____ mode"
+2942 = "standawd" // mode
+2943 = "advanced" // mode
+2944 = "mouse mode"
+2945 = "touch mode"
+2946 = "(pwess `1 uwu to wisten)"
+2947 = "(pwess uwu to wisten)" // fur mouse mode
+2948 = ""
+2949 = ""
+2950 = "weset camewa"
+2951 = "stage saved."
+2952 = "pwease wait a moment and twy again."
+2953 = "`1 enyabwed."
+2954 = "`1 disabwed."
+//---- stage types
+2955 = "@622"
+2956 = "@623"
+//---- wayew nyames
+2957 = "bg "
+2958 = "fg "
+2959 = ""
+//---- contwow guide
+2960 = "change wayew"
+2961 = "toow sewect"
+2962 = "spawnpoint sewect"
+2963 = "paint"
+2964 = "ewase"
+2965 = "move camewa"
+2966 = "open menyu"
+2967 = "object sewect (scwipting)"
+2968 = "mawkew sewect (scwipting)"
+2969 = "scwipted objects"
+2970 = "scwipted mawkews"
+//---- mouse contwows
+2990 = "w-cwick" // mouse weft cwick
+2991 = "w-cwick" // mouse wight cwick
+2992 = "m-cwick" // mouse middwe cwick
+2993 = "scwoww wheew" // mouse wheew scwowwing
+2994 = "backspace"
+//---- wowkshop menyu
+2998 = "dewete teh sewected stage uwu?\n[ `1 ]"
+2999 = "- wawnying -\nyonce deweted~ teh stage data cannyot be wecovewed. Weawwy dewete teh stage uwu?"
+
+//--------------------------------
+// tutowiaw diawogues [3000-3999]
+//--------------------------------
+
+//---- beginnyew movement tutowiaw
+3000 = "wewcome uwu to teh beginnyew movement tutowiaw owo! i'm owby~ ur host and guide uwu to weawnying teh basics of uwu wivaws of uwu aethew."
+3001 = "wet's begin wif teh basic contwows fur wawking."
+3002 = "to wawk~ gentwy move teh contwow stick. Don't push too hawd~ ow chu'ww wun instead."
+3003 = "good. Nyow wet's twy wunnying."
+3004 = "to wun~ quickwy fwick teh contwow stick owo in teh diwection chu want uwu to go."
+3005 = "wet's tackwe jumping nyext."
+3006 = "to jump~ just pwess teh jump button. Make suwe uwu to howd teh button wong enyough fur a fuww jump."
+3007 = "nyow~ fowwow me by using doubwe jumps."
+3008 = "to pewfowm a doubwe jump~ pwess teh jump button whiwe owo in teh aiw."
+3009 = "cawefuw though~ chu can onwy doubwe jump once untiw chu touch teh gwound again."
+3010 = "these pwatfowms awe diffewent fwom ur usuaw gwound. Nyot onwy can chu jump thwough dem~ chu can awso dwop down fwom dem."
+3011 = "quickwy pwess down on teh contwow stick uwu to faww thwough teh pwatfowms.\nwhiwe fawwing~ chu can keep howding down uwu to pass thwough subsequent pwatfowms."
+3012 = "fantastic owo! nyow that chu've mastewed teh basics of uwu movement~ we can move on uwu to teh mowe advanced wessons."
+
+//---- beginnyew defense tutowiaw
+3013 = "wewcome uwu to teh beginnyew defense tutowiaw owo! teh fowwowing wessons wiww teach chu basic technyiques uwu to defend youwsewf fwom enyemy attacks."
+3014 = "fiwst up is teh pawwy. Pawwying is pewfowmed by pwessing teh dodge button on teh gwound without howding weft ow wight."
+3015 = "if chu pawwy an enyemy attack~ teh opponyent wiww be momentawiwy stunnyed~ weaving dem open uwu to a countewattack."
+3016 = "pawwies awe nyot instant~ howevew. Dey become active 2 fwames aftew pwessing teh dodge button and have a wong coowdown aftewwawd.\n(nyote: dewe awe 60 fwames owo in a second)" //***updated
+3017 = "wet's twy it out uwu.\npawwy my attacks 3 times owo in a wow."
+3018 = "pawwies can awso be used uwu to wefwect pwojectiwes. Dis does nyot usuawwy stun teh opponyent~ but stiww gives chu invincibiwity." //***updated
+3019 = "twy wefwecting 3 of uwu my pwojectiwes owo in a wow."
+3020 = "nyow wet's twy wowwing."
+3021 = "if chu is howding weft ow wight when chu pwess teh dodge button~ chu wiww woww instead of uwu pawwying."
+3022 = "wowwing won't stun ur opponyent~ but it can sometimes be wess wisky than a pawwy since it can cweate distance between chu and ur enyemy."
+3023 = "twy wowwing out uwu of uwu teh way of uwu my attack 3 times owo in a wow."
+3024 = "wet's move on uwu to aiw dodging."
+3025 = "if chu pwess teh dodge button whiwe owo in teh aiw~ chu wiww pewfowm an aiw dodge.\nhowd a diwection whiwe aiw dodging uwu to move owo in that diwection."
+3026 = "cawefuw though~ chu can onwy aiw dodge once untiw chu touch teh gwound."
+3027 = "jump nyeaw me and i'ww attack chu. Twy aiw dodging my attacks 3 times owo in a wow."
+3028 = "amazing owo! as owo chu can teww~ dodging attacks takes good timing and can be pwetty wisky."
+3029 = "make suwe uwu to pwactice aww of uwu dese technyiques so that chu can defend youwsewf pwopewwy."
+
+//---- beginnyew offense tutowiaw
+3030 = "wewcome uwu to teh beginnyew offense tutowiaw owo! dese wessons wiww teach chu aww of uwu teh diffewent types of uwu attacks owo in teh game~ as owo weww as owo teh tewminyowogy used fur dem."
+3031 = "the most basic attack is teh jab combo."
+3032 = "pwess teh attack button whiwe ur contwow stick is owo in a nyeutwaw position uwu to stawt a jab combo."
+3033 = "pwess teh attack button again uwu to continyue teh jab combo.\nmost jab combos consist of uwu 3 diffewent hits."
+3034 = "wet's twy it out uwu. Hit me wif aww 3 hits of uwu ur jab combo 3 times owo in a wow."
+3035 = "nyow wet's twy a dash attack."
+3036 = "whiwe wunnying~ simpwy pwess teh attack button uwu to pewfowm a dash attack."
+3037 = "wet's move on."
+3038 = "if chu howd a diwection and pwess teh attack button whiwe on teh gwound~ chu wiww do a wight diwectionyaw attack. Dese attacks awe cawwed 'tiwts'."
+3039 = "thewe awe 3 diffewent types of uwu tiwts~ detewmined by teh diwection chu tiwt ur contwow stick."
+3040 = "fowwawd tiwt (ftiwt): howd sideways and pwess attack.\nyup tiwt (utiwt): howd upwawd and pwess attack.\ndown tiwt (dtiwt): howd downwawd and pwess attack."
+3041 = "twy hitting me wif 3 of uwu each.\n(when doing an ftiwt~ make suwe nyot uwu to wun fiwst.)"
+3042 = "nyow wet's twy stwong attacks."
+3043 = "if chu pwess teh stwong button whiwe on teh gwound~ chu wiww pewfowm a stwong attack. Teh type of uwu stwong attack chu pewfowm depends on teh diwection chu howd."
+3044 = "-fowwawd stwong (fstwong): howd sideways ow nyeutwaw and pwess stwong.\n-up stwong (ustwong): howd upwawd and pwess stwong.\n-down stwong (dstwong): howd downwawd and pwess stwong."
+3045 = "if chu howd down teh stwong button~ chu can chawge ur stwong attack uwu to incwease its powew. (with defauwt contwows~ chu can awso howd teh wight stick uwu to pewfowm chawged stwong attacks.)"
+3046 = "twy hitting me wif 3 of uwu each type of uwu stwong attack."
+3047 = "nyow wet's pwactice aewiaw attacks."
+3048 = "if chu pwess teh attack button ow teh stwong button owo in teh aiw~ chu wiww do an aewiaw attack."
+3049 = "thewe awe five diffewent kinds of uwu aewiaws~ detewmined by teh diwection of uwu teh contwow stick."
+3050 = "-nyeutwaw aiw (nyaiw): do an aewiaw wif nyo diwectionyaw input.\n-fowwawd aiw (faiw): howd fowwawd and do an aewiaw.\n-back aiw (baiw): howd backwawd and do an aewiaw."
+3051 = "-up aiw (uaiw): howd upwawd and do an aewiaw.\n-down aiw (daiw): howd downwawd and do an aewiaw."
+3052 = "with defauwt contwows~ chu can awso pewfowm aewiaws wif teh wight stick."
+3053 = "twy hitting me wif 3 of uwu each type of uwu aewiaw."
+3054 = "the finyaw type of uwu attack is a speciaw attack."
+3055 = "to use a speciaw attack~ pwess teh speciaw button. Speciaw attacks vawy gweatwy between chawactews~ and some speciaws awso change if dey'we used owo in teh aiw."
+3056 = "thewe awe fouw types of uwu speciaw attacks~ detewmined by teh diwection of uwu teh contwow stick."
+3057 = "-nyeutwaw speciaw (nspeciaw): pwess speciaw wif nyo diwectionyaw input.\n-fowwawd speciaw (fspeciaw): howd fowwawd and pwess speciaw."
+3058 = "-up speciaw (uspeciaw): howd upwawd and pwess speciaw.\n-down speciaw (dspeciaw): howd downwawd and pwess speciaw."
+3059 = "twy hitting me wif 3 of uwu each type of uwu speciaw."
+3060 = "pewfect owo! nyow that chu knyow aww of uwu teh diffewent kinds of uwu attacks~ chu can expewiment wif dem uwu to weawn mowe about each chawactew."
+3061 = "be suwe uwu to wemembew teh tewminyowogies fur each attack as owo weww as owo theiw inputs. Feew fwee uwu to come back uwu to dis wesson anytime if chu nyeed uwu to weview."
+
+//---- intewmediate movement tutowiaw
+3062 = "wewcome uwu to teh intewmediate movement tutowiaw owo! owo in dis tutowiaw~ chu'ww weawn some of uwu teh mowe technyicaw ways uwu to move awound."
+3063 = "fiwst up is teh showt hop."
+3064 = "a showt hop is exactwy wat it sounds wike: a smawwew vewsion of uwu ur nyowmaw jump."
+3065 = "to do a showt hop~ just tap teh jump button bwiefwy."
+3066 = "if chu howd teh jump button fur mowe than 5 fwames~ chu wiww do a fuww hop instead of uwu a showt hop~ so chu must be quick. (nyote: dese 5 fwames awe cawwed jumpsquat.)"
+3067 = "twy showt hopping ovew my pwojectiwes 3 times owo in a wow."
+3068 = "showt hops awe gweat fur minyimizing teh time chu'we owo in teh aiw so chu can weach teh gwound fastew~ which awwows chu uwu to extend ur combos even fuwthew."
+3069 = "anyothew way uwu to wand quickwy is uwu to fastfaww~ which gives chu an instant downwawd boost."
+3070 = "to pewfowm a fastfaww~ quickwy pwess teh contwow stick downwawd whiwe chu is fawwing."
+3071 = "you cannyot fastfaww if chu is moving upwawd~ so make suwe chu time teh fastfaww aftew teh peak of uwu ur jump."
+3072 = "twy jumping owo in fwont of uwu me and den using fastfaww uwu to avoid my attack 3 times owo in a wow."
+3073 = "sometimes a successfuw wecovewy wequiwes mowe than ur weguwaw jumps~ and that's whewe waww jumping comes owo in."
+3074 = "pewfowming a wawwjump is simpwe: once chu'we owo in teh aiw~ howd teh contwow stick towawd teh waww and pwess teh jump button."
+3075 = "you can onwy wawwjump once untiw chu touch teh gwound ow get hit."
+3076 = "twy weaching that pwatfowm wif a wawwjump. Sowwy~ but i've tempowawiwy disabwed ur doubwe jump."
+3077 = "you can awso wawwjump whiwe owo in teh speciaw faww." //***updated
+3078 = "twy weaching teh pwatfowm~ dis time using onwy uspeciaws and wawwjumps.\n(nyote: zettewbuwn's uspeciaw twavews owo in teh diwection of uwu teh contwow stick.)"
+3079 = "fantastic owo!"
+3080 = "these waww jump technyiques wiww hewp ur wecovewy immensewy when chu'we sent offstage. Make suwe chu pwactice aww of uwu dese technyiques so chu can use dem anytime chu nyeed dem."
+
+//---- intewmediate defense tutowiaw
+3081 = "wewcome uwu to teh intewmediate defense tutowiaw owo! hewe chu wiww weawn about diwectionyaw infwuence and teching. Cowwect use of uwu dese technyiques is vitaw uwu to ur suwvivaw~ so pay attention."
+3082 = "wet's stawt wif diwectionyaw infwuence~ which is often showtened uwu to di."
+3083 = "di is teh abiwity uwu to change teh angwe at which chu twavew when waunched by teh enyemy. Uwu to di an attack~ simpwy howd a diwection on ur contwow stick when chu'we hit."
+3084 = "if i wewe uwu to hit chu wif an attack that nyatuwawwy sends owo in dis diwection..."
+3085 = "and chu wewe uwu to howd ur contwow stick owo in dis diwection..."
+3086 = "you wouwd be sent fwying owo in dis nyew diwection."
+3087 = "by howding teh contwow stick pewpendicuwaw uwu to teh owiginyaw knyockback angwe~ chu can change teh twajectowy angwe by up uwu to 18 degwees owo!"
+3088 = "wemembew~ di can onwy change teh angwe at which chu is hit~ nyot how hawd chu is hit."
+3089 = "wet's twy it out uwu. Move ur contwow stick awound uwu to test teh effects of uwu di."
+3090 = "nyotice how howding teh contwow stick pawawwew uwu to teh knyockback angwe has teh same effect as owo nyo di at aww."
+3091 = "thewe awe two ways uwu to appwy di:\n uwu 1. Suwviving stwong attacks (suwvivaw di)\n uwu 2. Escaping combos (combo di)"
+3092 = "wesson 1 wiww be on suwvivaw di."
+3093 = "this dotted wine wepwesents teh bwastzone.\nyif chu pass teh bwastzonye~ chu wose one stock."
+3094 = "if chu'we hit by a stwong attack that sends chu fwying owo in dis diwection~ chu wiww cewtainwy pass teh bwastzone if chu don't di."
+3095 = "if chu di dis hit downwawd~ chu wiww die even eawwiew."
+3096 = "if chu di upwawd~ howevew~ chu wiww suwvive teh attack owo! nyotice how teh awwow nyevew cwosses teh dotted wine."
+3097 = "wet's twy it out uwu owo! use good di uwu to suwvive my attack 3 times owo in a wow."
+3098 = "vewy nyice owo! once chu impwement dis into ur pway stywe~ ur stocks wiww wast a wot wongew."
+3099 = "nyow..."
+3100 = "wet's weawn how uwu to use di uwu to escape fwom combos."
+3101 = "many combo moves send chu at an angwe simiwaw uwu to dis one."
+3102 = "if chu howd inwawd~ teh opponyent wiww be abwe uwu to easiwy fowwow up wif anyothew attack."
+3103 = "if chu howd outwawd~ howevew~ teh opponyent wiww have uwu to move a wot fawthew uwu to hit chu again."
+3104 = "twy using di uwu to escape my combo 3 times owo in a wow. Just twy uwu to touch teh gwound befowe going offstage."
+3105 = "those awe teh basics of uwu di. Wif some attacks~ appwying di isn't as owo simpwe as owo wat chu just weawned. But wif pwactice~ di wiww hewp chu out uwu owo in most bad situations."
+3106 = "wet's move on uwu to teching."
+3107 = "you see~ touching teh gwound whiwe owo in hitstun wiww put chu owo in a hewpwess state fur a showt time. If chu is hit downwawd hawd enyough~ it can even bounce chu off teh gwound."
+3108 = "to avoid dese bad situations~ chu must tech owo!"
+3109 = "if chu pwess teh dodge button wight befowe touching teh gwound~ chu wiww pewfowm a tech."
+3110 = "teching makes chu bwiefwy invincibwe~ but ur opponyent can punyish chu if dey pwedict teh tech."
+3111 = "if chu howd weft ow wight when teching~ chu wiww pewfowm a tech woww."
+3112 = "tech wowws awe swowew than a tech owo in pwace~ but it can cweate distance between chu and ur opponyent."
+3113 = "when twying uwu to tech~ chu cannyot just mash teh dodge button. Chu must time teh button pwess within 20 fwames of uwu hitting teh gwound."
+3114 = "immediatewy aftew dose 20 fwames~ dewe is a 20 fwame pewiod whewe chu cannyot input anyothew tech attempt."
+3115 = "okay~ time uwu to twy it out uwu. Tech my attacks 3 times owo in a wow.\njump nyeaw me when chu'we weady."
+3116 = "you can awso tech on wawws teh same way chu tech on teh gwound."
+3117 = "wet's twy combinying di and teching fur teh finyaw wesson."
+3118 = "di my attack so that chu hit teh waww~ den tech it so chu don't bounce off."
+3119 = "excewwent owo!"
+3120 = "nyow that chu undewstand di and teching~ ur opponyent wiww have uwu to twy much hawdew uwu to defeat chu."
+3121 = "these technyiques take pwactice though~ so keep twainying untiw chu've mastewed dem."
+
+//---- intewmediate offense tutowiaw
+3122 = "wewcome uwu to teh intewmediate offense tutowiaw owo! hewe chu wiww weawn how uwu to appwy ur attacks owo in diffewent ways."
+3123 = "fiwst~ wet's weawn mowe about how attacks wowk owo in genyewaw."
+3124 = "each attack consists of uwu one ow mowe hitboxes. An opponyent gets hit by an attack if dey touch one of uwu its hitboxes."
+3125 = "hitboxes awe nyowmawwy invisibwe~ but if chu go into twainying mode~ chu can view teh hitboxes fur any attack."
+3126 = "some moves have tiny hitboxes cawwed 'sweet spots'. Sweet spots awe usuawwy vewy smaww and vewy powewfuw."
+3127 = "sweet spots awe usuawwy found inside wawgew~ weakew hitboxes (souw spots). If both hitboxes hit teh enyemy~ teh sweet spot usuawwy takes pwiowity ovew teh souw spot."
+3128 = "hewe awe some exampwes of uwu sweet spots and souw spots. Nyotice how much wawgew teh souw spot is."
+3129 = "zettewbuwn has sweet spots on his faiw and uaiw~ which awe excewwent kiww moves."
+3130 = "twy hitting me 3 times wif teh sweet spot of uwu eithew faiw ow uaiw."
+3131 = "nyow wet's weawn how uwu to combo moves togethew."
+3132 = "comboing is teh concept of uwu stwinging moves togethew without giving ur opponyent time uwu to escape."
+3133 = "because of uwu diwectionyaw infwuence~ most combos awe nyot guawanteed. Owo in owdew uwu to continyue comboing ur opponyent~ chu must weact uwu to which diwection dey go."
+3134 = "wet's test it out uwu. Stawt a combo on me wif teh fiwst hit of uwu utiwt~ den i'ww mix up my di uwu to eithew stay cwose uwu to chu ow go faw away."
+3135 = "when i stay cwose~ hit me wif an aewiaw. When i go faw~ hit me wif a dash attack."
+3136 = "combo me 3 times owo in a wow. I'ww awtewnyate between diing owo in and out uwu evewy time chu stawt a combo."
+3137 = "many times~ chu wiww have uwu to pwedict ur opponyent's di uwu to be abwe uwu to continyue a combo. Cewtain situations caww fur cewtain types of uwu combos~ and undewstanding dis comes wif pwactice and expewience."
+3138 = "nyow wet's twy edgeguawding."
+3139 = "edgeguawding is a powewfuw technyique that pwevents ur opponyents fwom wecovewing aftew being knyocked off teh stage."
+3140 = "thewe awe two main methods fur edgeguawding:\n -staying on stage: safew but easiew fur teh opponyent uwu to avoid.\n -going offstage: wiskiew but hawdew fur teh opponyent uwu to avoid."
+3141 = "powewfuw attacks that send downwawd ow howizontawwy awe genyewawwy vewy good edgeguawd moves~ since most opponyents have fewew options when wecovewing wow."
+3142 = "keep owo in mind that ur opponyent may use waww jumping fur wecovewy as owo weww~ so sending teh opponyent faw away fwom a waww awso wimits theiw options considewabwy."
+3143 = "wet's twy it out uwu. Successfuwwy edgeguawd dis zettewbuwn 3 times. Make suwe his footpaws nyevew touch teh gwound."
+3144 = "good owo! teh nyext wesson wiww covew how uwu to effectivewy deaw wif pawwies."
+3145 = "as chu knyow~ if an opponyent pawwies ur attack~ chu wiww be stunned. Teh exception uwu to dis wuwe is teh jab combo~ excwuding teh finyaw hit."
+3146 = "if an opponyent pawwies one of uwu teh fiwst two hits of uwu ur jab combo~ dey wiww stiww gain invincibiwity but chu wiww nyot be stunned. Dis makes jab a safe way uwu to appwy pwessuwe uwu to opponyents who pawwy often."
+3147 = "test it out uwu by jabbing me~ den wunnying away fwom my countewattack aftew i pawwy chu. Make suwe nyot uwu to do teh 3wd hit of uwu jab."
+3148 = "wet's bwing tiwts into teh equation."
+3149 = "aftew jabbing~ chu can attack wif a tiwt instead of uwu continyuing teh jab combo."
+3150 = "this awwows chu uwu to hit confiwm ur jabs into diffewent tiwts so chu can mix up ur combo stawtews."
+3151 = "twy hitting me wif a jab and cancewwing it into a tiwt 3 times."
+3152 = "excewwent owo!"
+3153 = "most of uwu teh concepts owo in dis tutowiaw take a wot of uwu pwactice uwu to purrfect~ but it is nyecessawy uwu to mastew dem owo in owdew uwu to defeat toughew opponyents. Keep twainying owo!"
+
+//---- advanced movement tutowiaw
+3154 = "wewcome uwu to teh advanced movement tutowiaw owo! whiwe teh execution of uwu dese moves is faiwwy easy~ appwying dem uwu to ur gamepway takes pwactice and stwategy."
+3155 = "wet's stawt wif dash dancing."
+3156 = "when chu fiwst input a dash~ chu entew a state cawwed 'inyitiaw dash'.\nthis state wasts fur a showt time~ den twansitions into teh 'wun' state."
+3157 = "if chu twy uwu to tuwn awound duwing teh 'wun' state~ chu'ww have uwu to go thwough a tuwnyawound anyimation which swows ur movement down."
+3158 = "howevew~ if chu twy uwu to tuwn awound duwing teh 'inyitiaw dash' state~ chu wiww instantwy dash owo in teh othew diwection. Dis is cawwed a dash dance."
+3159 = "dash dancing is vewy usefuw when twying uwu to weave owo in and out uwu of uwu an opponyent's attack wange. It awso hewps uwu to keep ur movement unpwedictabwe."
+3160 = "twy uwu to dash undewnyeath me~ den dash dance away befowe i can hit chu. (stawt ur dash wewativewy cwose uwu to me~ so chu don't entew teh 'wun' state. If chu entew teh tuwnyawound anyimation undew me~ ur scowe wiww be weset.)"
+3161 = "wepeated use of uwu dash dancing is extwemewy effective at confusing enyemies as owo wong as owo chu keep teh timing unpwedictabwe."
+3162 = "anyothew technyique that can keep ur movement unpwedictabwe is teh wavedash."
+3163 = "wavedashing is pewfowmed by aiw dodging into teh gwound immediatewy aftew jumping. When wanding duwing an aiw dodge~ chu keep teh momentum fwom teh aiw dodge."
+3164 = "if chu angwe ur aiwdodge howizontawwy~ chu wiww quickwy move sideways.\nyif chu angwe ur aiwdodge gay downwawd~ chu wiww do a wavedash owo in pwace."
+3165 = "if chu input teh aiw dodge whiwe owo in jumpsquat~ chu can wavedash without weaving teh gwound. Dis is cawwed buffewing a wavedash."
+3166 = "buffewing a wavedash whiwe howding teh contwow stick compwetewy howizontaw wiww give chu teh maximum distance on ur wavedash."
+3167 = "wet's twy it out uwu. Keep wavedashing untiw chu'we ovew hewe.\n(nyote: i've disabwed aww movement options except teh buffewed wavedash~ so chu'ww nyeed uwu to do teh inputs pwetty quickwy.)"
+3168 = "wike dash dancing~ wavedashing is awso usefuw fur baiting out uwu enyemy attacks."
+3169 = "nyext up is wavewanding."
+3170 = "wavewanding is when chu aiw dodge into teh gwound whiwe owo in teh aiw.\nyit is fwequentwy used uwu to quickwy wand on pwatfowms."
+3171 = "wavewanding howizontawwy is awso a gweat way uwu to covew a wong distance vewy quickwy."
+3172 = "to twy out uwu wavewanding~ jump thwough teh pwatfowm and aiw dodge onto it once chu'we above it. Wepeat dis 3 times."
+3173 = "excewwent owo!"
+3174 = "be suwe uwu to pwactice dese movement technyiques fwequentwy~ as owo dey awe vitaw uwu to having an intimidating offense and a twicky defense."
+3175 = "even though chu knyow how uwu to execute dese moves~ chu wiww stiww nyeed uwu to discovew when uwu to use dem uwu to get teh most out uwu of uwu dem. Dis comes wif expewience."
+
+//---- advanced defense tutowiaw
+3176 = "wewcome uwu to teh advanced defense tutowiaw owo! teh technyiques pwesented owo in dis wesson awe faiwwy situationyaw but incwedibwy usefuw."
+3177 = "fiwst~ we'ww weawn how uwu to suwvive when chu'we spiked downwawd offstage."
+3178 = "aww chu nyeed is a combinyation of uwu good di and a waww tech."
+3179 = "di my attack towawd teh waww~ den tech as owo soon as owo chu hit teh waww."
+3180 = "nyice owo!"
+3181 = "nyow wet's weawn how uwu to suwvive stwong attacks at teh wedge."
+3182 = "wight when chu'we hit wif an attack~ chu wiww stop owo in pwace fur a few fwames.\nthis is cawwed hitpause."
+3183 = "whiwe chu is owo in hitpause nyeaw a waww~ chu can input a waww tech wegawdwess of uwu teh diwection teh attack sends chu."
+3184 = "twy using a diagonyaw uspeciaw uwu to wide up dis waww. When chu get cwose uwu to me whiwe using uspeciaw~ i wiww attack chu."
+3185 = "tech my attack 3 times owo in a wow. Make suwe chu is touching teh waww when chu get hit~ ow ewse chu won't be abwe uwu to tech against it."
+3186 = "whiwe dis technyique is usefuw fur aww chawactews~ it is absowutewy vitaw uwu to zettewbuwn's wecovewy."
+3187 = "the nyext wesson is aww about sdi~ which stands fur shift diwectionyaw infwuence. It is used uwu to escape fwom muwti-hit moves."
+3188 = "howding teh weft ow wight stick owo in a diwection wight when chu is hit by a move wiww move ur chawactew a showt distance." //***updated
+3189 = "you can onwy shift once pew hit~ so teh effect is minyimaw on singwe-hit moves. Teh wight stick takes pwiowity ovew teh weft stick if both awe hewd." //***updated
+3190 = "twy uwu to escape my attack befowe teh finyaw hit by howding teh contwow stick away fwom me evewy time chu get hit." //***updated
+3191 = "gweat owo!"
+3192 = "nyow fur teh finyaw wesson owo in defense: dwift di."
+3193 = "aftew being hit by a move~ chu can dwift weft ow wight whiwe fwying thwough teh aiw. Dis is sepawate fwom di~ as owo it occuws aftew chu is waunched."
+3194 = "fow instance~ chu can dwift inwawd aftew a stwong hit uwu to avoid fwying too faw. Chu can awso dwift outwawd whiwe being comboed uwu to put mowe space between chu and ur opponyent."
+3195 = "a combinyation of uwu inwawd di fowwowed by outwawd dwift di can hewp chu escape fwom seemingwy guawanteed combos."
+3196 = "di my hit inwawd~ den dwift away uwu to avoid my nyext attack."
+3197 = "incwedibwe owo!"
+3198 = "pwopew use of uwu dese technyiques wiww sewve chu weww when twying uwu to foiw teh opponyent's pwans~ so be suwe uwu to pwactice dem untiw dey'we second nyatuwe."
+
+//---- advanced offense tutowiaw
+3199 = "wewcome uwu to teh advanced offense tutowiaw owo! hewe~ chu wiww weawn how uwu to use timing and quick inputs uwu to give chu mowe options fur attacking ur opponyents."
+3200 = "fiwst~ wet's weawn uwu to autocancew muwti-hit aewiaws."
+3201 = "whiwe doing a muwti-hit aewiaw~ twy wanding befowe teh finyaw hit comes out uwu. Dis way~ teh enyemy wiww nyot be sent vewy faw and chu'ww be abwe uwu to combo dem easiwy aftewwawd."
+3202 = "it is much easiew uwu to autocancew an aewiaw if chu fastfaww~ since dewe wiww be wess time fur teh finyaw hit uwu to come out uwu."
+3203 = "twy hitting me wif a autocancewwed nyaiw fowwowed by an utiwt 3 times.\nbe suwe uwu to stawt ur nyaiw wight befowe chu wand so that teh finyaw hit nyevew comes out uwu. Fastfawwing wiww awso hewp cancew teh finyaw hit."
+3204 = "some chawactews benyefit fwom autocancewwed aewiaws mowe than othews~ so twy it out uwu wif aww of uwu dem."
+3205 = "the nyext technyique wiww awwow chu uwu to jump towawd an enyemy whiwe facing backwawd. Dis awwows chu uwu to use baiws uwu to appwoach ur enyemies."
+3206 = "this is cawwed a wevewse aewiaw wush~ ow waw fur showt."
+3207 = "to pewfowm a waw~ aww chu have uwu to do is jump whiwe owo in teh 'wun tuwnyawound' state."
+3208 = "in teh 'wun tuwnyawound' state~ chu wiww wose fowwawd momentum gwaduawwy. So teh eawwiew chu input teh jump~ teh fastew ur waw wiww twavew."
+3209 = "wemembew~ chu cannyot entew teh 'wun tuwnyawound' state fwom teh 'inyitiaw dash' state~ so make suwe chu've wun faw enyough uwu to entew teh 'wun' state befowe pwessing backwawd."
+3210 = "as soon as owo chu weave teh gwound~ chu'ww want uwu to stawt howding fowawd again so chu can maintain fowawd momentum."
+3211 = "so teh inputs awe:\nwun -> pwess backwawd + jump -> howd fowwawd -> aewiaw\nthe middwe 3 inputs shouwd be done as owo fast as owo possibwe."
+3212 = "twy hitting me wif 3 waw baiws whiwe i'm offstage.\nyou can check teh text at teh bottom uwu to see if chu'we doing teh waw cowwectwy."
+3213 = "good owo!"
+3214 = "the nyext technyique is cawwed teh speciaw wevewse."
+3215 = "when inputting a speciaw attack~ chu can wevewse its diwection by pwessing teh opposite diwection immediatewy aftewwawd."
+3216 = "to test dis out uwu~ twy wevewsing a dspeciaw uwu to hit me."
+3217 = "nyice owo!"
+3218 = "fow teh nyext wesson~ chu'ww weawn how uwu to beat pawwies.\nyaww it takes is a nommed of uwu patience."
+3219 = "if ur opponyent is pawwying a wot of uwu ur appwoaches~ it means chu'we stawting uwu to become pwedictabwe."
+3220 = "if dis happens~ chu can twick ur opponyent into thinking that chu'we going uwu to attack dem by dewaying ur attacks a widdle nommed."
+3221 = "this wiww cause dem uwu to miss theiw pawwy and chu wiww get uwu to punyish dem."
+3222 = "you can awso achieve dis by puwposefuwwy missing dem wif ur attacks."
+3223 = "wet's test it out uwu owo! as owo soon as owo chu come nyeaw me~ i'ww twy uwu to pawwy.\ndeway ur attack and punyish me fur missing teh pawwy."
+3224 = "fantastic owo!"
+3225 = "if ur opponyent stawts catching on uwu to ur dewayed attacks~ chu can stawt mixing it up by awtewnyating between eawwy and watew attacks."
+3226 = "if chu weawwy want uwu to optimize ur punyish game~ chu wiww nyeed uwu to incowpowate hitfawwing."
+3227 = "when chu hit an opponyent wif a mewee attack~ dewe wiww be a few fwames of uwu hitpause whewe both chawactews awe fwozen."
+3228 = "if chu buffew a fastfaww duwing hitpause~ chu wiww cancew ur pwevious momentum and fastfaww instead. Dis is cawwed hitfawwing~ and is teh fastest way uwu to weach teh gwound aftew hitting someone."
+3229 = "when chu pewfowm a wising aewiaw~ hitfawwing awwows chu uwu to cancew teh endwag of uwu ur attack and continyue ur combo."
+3230 = "twy hitting me wif wising uaiw den hitfawwing." //***updated
+3231 = "pewfect owo!"
+3232 = "wefine dese technyiques and chu'ww have nyo twoubwe keeping ur opponyents on theiw toe beans."
+
+//---- zettewbuwn tutowiaw
+3233 = "wewcome uwu to teh zettewbuwn tutowiaw owo!"
+3234 = "zettewbuwn~ teh fiwe's rawr~ is fast and stwong wif simpwe mechanyics that wiww feew famiwiaw uwu to vetewan pwatfowm fightew pwayews." //***updated
+3235 = "his unyique mechanyic is teh abiwity uwu to wight his opponyents on fiwe. Aww of uwu his speciaw attacks~ as owo weww as owo his baiw~ wiww ignyite his enyemies."
+3236 = "twy ignyiting me wif each of uwu dese attacks."
+3237 = "when ur opponyents awe buwnying~ dey wiww take damage ovew time. But that's nyot aww that ur fiwe can do."
+3238 = "if chu wand a stwong attack on a buwnying opponyent~ ur bwow wiww be gweatwy ampwified."
+3239 = "twy ignyiting me den using a stwong attack whiwe i'm buwnying."
+3240 = "zettewbuwn's main weaknyess is his wecovewy."
+3241 = "whiwe zettewbuwn is stawting his uspeciaw~ he is vuwnyewabwe fur a wong duwation."
+3242 = "if chu have nyot used ur aiw dodge awweady~ chu can use it uwu to cancew teh uspeciaw befowe it stawts twavewing. Dis is extwemewy usefuw fur avoiding enyemy attacks whiwe offstage."
+3243 = "twy cancewwing ur uspeciaw wif an aiwdodge 3 times."
+3244 = "nyice owo!"
+3245 = "when zettewbuwn hits an opponyent wif a dash attack~ he can instantwy cancew it into an ustwong."
+3246 = "this is cawwed a gatwing combo. Whiwe teh ustwong can usuawwy be avoided wif pwopew di~ it is stiww an extwemewy stwong toow."
+3247 = "to do a gatwing combo~ input an ustwong duwing teh hitpause of uwu teh dash attack."
+3248 = "twy hitting me wif 3 gatwing combos owo in a wow."
+3249 = "gweat owo!"
+3250 = "nyot onwy is zettewbuwn's nspeciaw teh fastest move owo in teh game~ it can awso be jump-cancewwed."
+3251 = "if chu jump whiwe owo in teh wecovewy fwames of uwu nspeciaw~ it wiww cancew aww of uwu teh endwag and awwow chu uwu to act instantwy."
+3252 = "twy jumping out uwu of uwu nspeciaw 3 times."
+3253 = "fantastic owo!"
+3254 = "this concwudes teh zettewbuwn tutowiaw owo!"
+
+//---- owcane tutowiaw
+3255 = "wewcome uwu to teh owcane tutowiaw owo!"
+3256 = "owcanye~ teh puddwe jumpew~ is one of uwu teh mowe compwex wivaws wif a stwong emphasis on zonying opponyents out uwu. Succeeding wif owcane wequiwes a wot of uwu pwannying."
+3257 = "his pwaystywe wevowves awound pwacing puddwes on teh gwound and using dem uwu to contwow space. Nspeciaw~ dspeciaw~ and gwounded uspeciaw aww cweate puddwes."
+3258 = "twy making a puddwe wif each of uwu dese attacks. I'ww cwean up teh puddwes wight aftew chu make dem."
+3259 = "having a puddwe onstage is essentiaw uwu to wecovewing as owo owcane."
+3260 = "if a puddwe is awweady on teh stage~ ur uspeciaw wiww tewepowt chu diwectwy uwu to teh puddwe~ nyo mattew how faw away it is."
+3261 = "tewepowting uwu to a puddwe awso functions as owo an extwemewy stwong attack. Howevew~ dis attack has signyificant endwag~ so it can be punyished easiwy if teh opponyent is weady."
+3262 = "twy using teh aewiaw vewsion of uwu uspeciaw uwu to tewepowt uwu to a puddwe 3 times."
+3263 = "you can awso use puddwes uwu to boost ur stwong attacks."
+3264 = "using a stwong attack whiwe standing on a puddwe wiww extend its wange signyificantwy."
+3265 = "twy hitting me wif one of uwu each boosted stwong attack."
+3266 = "nyice owo!"
+3267 = "when used on a puddwe~ owcanye's fspeciaw weceives a signyificant boost owo in kiww powew."
+3268 = "but befowe that~ wet's weawn a widdle mowe about how fspeciaw wowks."
+3269 = "nyowmawwy~ when chu use fspeciaw owo in teh aiw~ chu wiww go into speciaw faww. If chu hit an enyemy wif teh attack~ howevew~ chu wiww avoid speciaw faww and instead wemain fuwwy actionyabwe." //***updated
+3270 = "you can awso change teh wength of uwu teh attack by howding backwawd ow fowwawd aftew using it."
+3271 = "so nyow wet's twy it out uwu. Twy hitting me 3 times wif a puddwe-boosted fspeciaw~ den wecovewing immediatewy aftewwawd."
+3272 = "gweat owo!"
+3273 = "one of uwu owcanye's stwongest zonying toows is his abiwity uwu to cweate a waww of uwu bubbwes."
+3274 = "using dspeciaw whiwe a puddwe awweady exists wiww make teh puddwe ewupt into a wawge cowumn of uwu bubbwes. Dese bubbwes can be angwed by howding weft ow wight."
+3275 = "owcanye's faiw cweates a howizontaw fwow of uwu bubbwes. Dese bubbwes can be angwed by howding up ow down."
+3276 = "bubbwes awe gweat fur twapping opponyents owo in owdew uwu to diswupt theiw attacks ow even fowwow up wif an attack of uwu ur own."
+3277 = "twy hitting me wif both types of uwu bubbwes."
+3278 = "owcanye's faiw has anyothew intewesting pwopewty."
+3279 = "if he has teh wight amount of uwu momentum when using it~ his back side gains a hitbox. Dis is cawwed 'bubbwe butt'."
+3280 = "howd backwawd immediatewy aftew using faiw~ and chu'ww get an extweme speed boost."
+3281 = "twy hitting me wif bubbwe butt 3 times."
+3282 = "this nyext technyique is an advanced way uwu to wecovew when chu have nyo puddwe."
+3283 = "if chu use uspeciaw wight aftew using ur doubwe jump~ chu wiww get a wawge vewticaw boost even without a puddwe. Dis is cawwed an 'owcahop'."
+3284 = "twy owcahopping 3 times.\nthe timing is vewy tight~ so use uspeciaw immediatewy aftew doubwe jumping."
+3285 = "howding teh dodge button duwing teh stawtup of uwu uspeciaw awwows chu uwu to owcahop whiwe a puddwe is out uwu." //***updated
+3286 = "this wast technyique awwows chu uwu to swide acwoss teh stage whiwe chawging a stwong attack. When owcane tuwns awound whiwe wunnying~ he gets a swight boost fowwawd befowe accewewating backwawd." //***updated
+3287 = "stawt a stwong attack duwing teh beginnying of uwu his tuwnyawound state~ and he wiww maintain his momentum and swide faw acwoss teh stage. Dis is cawwed 'hydwopwanying'."
+3288 = "twy hitting me wif 3 hydwopwane puddwe ustwongs. I'ww cweate a puddwe fur chu."
+3289 = "fantastic owo!"
+3290 = "this concwudes teh owcane tutowiaw owo!"
+
+//---- wwastow tutowiaw
+3291 = "wewcome uwu to teh wwastow tutowiaw owo!"
+3292 = "wwastow~ teh wind's fuwy~ twades suwvivabiwity fur mobiwity and oppwessive combos."
+3293 = "he has teh abiwity uwu to jump 3 times owo in teh aiw~ compawed uwu to teh singwe aewiaw jump evewy othew chawactew has."
+3294 = "twy jumping as owo high as owo chu can wif aww of uwu ur jumps."
+3295 = "anyothew unyique twait of uwu wwastow is his abiwity uwu to pewfowm stwong attacks whiwe aiwbowne."
+3296 = "wwastow can use stwong attacks owo in teh aiw but nyot on teh gwound~ whewe he wiww onwy pewfowm tiwts instead."
+3297 = "fstwong and ustwong both have vewy stwong sweet spots at teh tip of uwu teh cwap."
+3298 = "twy hitting me wif 3 of uwu each stwong attack."
+3299 = "nyice owo!"
+3300 = "wwastow's nspeciaw makes him spin awound inside of uwu a townyado~ twapping opponyents who awe hit by it."
+3301 = "if chu howd teh speciaw button~ chu wiww wise whiwe spinnying. Dis is a gweat way uwu to cawwy an enyemy beyond teh top bwastzone."
+3302 = "twy using a wising nspeciaw uwu to hit me."
+3303 = "good owo!"
+3304 = "wwastow's fspeciaw cweates a wind cuwwent that incweases his speed dwamaticawwy."
+3305 = "whiwe owo in teh cuwwent~ wwastow's gwound speed~ aiw speed~ and wavedash speed become incwedibwy fast."
+3306 = "twy wunnying awound owo in teh cuwwent fur a nommed."
+3307 = "gweat owo!"
+3308 = "wwastow's stwongest attacks awe his sweet spots. Awong wif teh ones on his stwong attacks~ he has one on his uspeciaw."
+3309 = "wight when uspeciaw stawts~ chu wiww see a spawkwe owo in fwont of uwu wwastow. Dis is teh sweet spot."
+3310 = "you can even wevewse uspeciaw wight aftew teh sweet spot hits~ just owo in case chu nyeed uwu to wecovew aftew using it offstage."
+3311 = "twy hitting me wif teh sweet spot of uwu uspeciaw 3 times."
+3312 = "whiwe wwastow is a tewwow owo in teh aiw~ his gwound attacks can awso be vewy usefuw."
+3313 = "when one of uwu wwastow's tiwts connyects~ it awwows him uwu to jump uwu to cancew teh wecovewy fwames."
+3314 = "twy hitting me wif 3 tiwts and jump cancewwing each of uwu dem."
+3315 = "incwedibwe owo!"
+3316 = "this concwudes teh wwastow tutowiaw owo!"
+
+//---- kwagg tutowiaw
+3317 = "wewcome uwu to teh kwagg tutowiaw owo!"
+3318 = "kwagg~ eawth's bastion~ is swowew than ur avewage fightew. But he is heavy and powewfuw~ and knyows how uwu to take a hit."
+3319 = "one of uwu kwagg's most usefuw toows is his abiwity uwu to puww a bwock of uwu eawth fwom any suwface."
+3320 = "use nspeciaw whiwe gwounded uwu to make kwagg puww a wock fwom teh gwound."
+3321 = "once he's howding a wock~ he can thwow it fouw ways:\nnyeutwaw thwow~ fowwawd thwow~ up thwow~ and down thwow."
+3322 = "wemembew: kwagg can onwy have one wock out uwu at a time~ but teh existing wock can be picked up if chu use nspeciaw nyeaw it."
+3323 = "twy hitting me wif 3 of uwu each type of uwu wock thwow."
+3324 = "good owo!"
+3325 = "kwagg is vewy heavy~ meanying he takes wess knyockback than teh avewage wivaw. Owo in addition~ using his fspeciaw ensuwes that he takes awmost nyo knyockback at aww."
+3326 = "when kwagg uses fspeciaw~ he cuwws up into a baww and spins fowwawd. Whiwe owo in dis state~ he cannyot be knyocked out uwu of uwu it."
+3327 = "duwing fspeciaw~ kwagg's howizontaw knyockback is capped at a wow vawue~ meanying he can be knyocked backwawd onwy swightwy. He awso takes nyo vewticaw knyockback owo in dis state."
+3328 = "twy using fspeciaw uwu to awmow thwough my attack 3 times owo in a wow."
+3329 = "fspeciaw awso has an intewesting pwopewty when hitting an opponyent."
+3330 = "aftew chu hit an enyemy wif fspeciaw~ chu can instantwy jump out uwu of uwu it uwu to cancew teh endwag."
+3331 = "this awso wowks when hitting wocks ow piwwaws~ but onwy fur a bwief pewiod aftew hitting dem."
+3332 = "twy hitting me wif an aewiaw aftew jump-cancewwing ur fspeciaw 3 times."
+3333 = "kwagg's uspeciaw is vewy unyique and extwemewy vewsatiwe."
+3334 = "using uspeciaw wiww summon a piwwaw benyeath kwagg's footpaws~ awwowing him uwu to wegain his doubwe jump and aiw dodge~ and even awwowing him uwu to use gwounded moves whewe most wivaws can't."
+3335 = "on teh way up~ teh piwwaw wiww hit ur enyemies and bwing dem upwawd. At highew damage~ chu can even combo off of uwu teh piwwaw hit."
+3336 = "be cawefuw~ howevew. Teh piwwaw wiww be instantwy bwoken if hit by any attack~ sending anyone standing on top of uwu it into speciaw faww as owo wong as owo dey awen't invincibwe." //***updated
+3337 = "whiwe wising~ teh piwwaw is invincibwe uwu to aww attacks. Fur a showt pewiod aftewwawd~ it is invincibwe uwu to aww pwojectiwes."
+3338 = "you can onwy use piwwaw once befowe touching teh gwound again. Using uspeciaw again befowe touching teh gwound wiww onwy give chu a smaww upwawd boost."
+3339 = "pwess teh dodge button duwing teh stawtup of uwu fspeciaw uwu to get teh same smaww boost whiwe chu stiww have access uwu to ur piwwaw. Dis is usefuw fur wecovewing~ since cweating a piwwaw is swow and punyishabwe." //***updated (moved teh owd text uwu to 3341)
+3340 = "wet's twy it out uwu. Hit me wif a piwwaw 3 times."
+3341 = "nyice owo! chu can awso puww a wock out uwu of uwu a piwwaw~ but onwy once pew piwwaw." //***updated
+3342 = "kwagg's dash attack is a gweat offensive toow~ especiawwy since it can be cancewwed into a jab ow tiwt aftew hitting an opponyent."
+3343 = "twy hitting me wif a dash attack cancewwed into a jab ow tiwt 3 times."
+3344 = "gweat owo!"
+3345 = "when a wock is hit by an attack~ smaww wock shawds awe sent fwying owo in teh diwection of uwu teh attack."
+3346 = "twy hitting me wif wock shawds 3 times. Expewiment wif diffewent attacks uwu to see aww teh angwes chu can send shawds."
+3347 = "incwedibwe owo!"
+3348 = "this concwudes teh kwagg tutowiaw owo!"
+
+//---- fowsbuwn tutowiaw
+3349 = "wewcome uwu to teh fowsbuwn tutowiaw owo!"
+3350 = "fowsbuwn~ teh exiwed fwame~ is a mastew of uwu deception. Even when he's nyot causing confusion among teh enyemy~ he can stiww go toe bean uwu to toe bean wif teh stwongest opponyents."
+3351 = "when chu use nspeciaw~ fowsbuwn wiww begin uwu to emit smoke fur a showt duwation. Smoke hides fowsbuwn's wocation as owo wong as owo he isn't attacking~ but enyemies wiww wemain fuwwy visibwe owo in teh smoke."
+3352 = "smoke is pewmanyent untiw destwoyed~ but dewe is a wimit uwu to how many smoke cwouds can be on scween at once."
+3353 = "twy pwacing smoke on teh stage wif nspeciaw."
+3354 = "anyothew one of uwu fowsbuwn's toows of uwu deception is his decoy cwone."
+3355 = "fowsbuwn's fspeciaw cweates a cwone of uwu himsewf that moves awound teh stage wike a nyowmaw cpu chawactew. Teh cwone cannyot pewfowm nyowmaw attacks~ howevew."
+3356 = "pwessing dspeciaw causes teh cwone uwu to expwode. Teh expwosion is faiwwy weak~ but can be a vewy usefuw combo toow when used nyeaw teh weaw fowsbuwn."
+3357 = "pwessing nspeciaw ow fspeciaw switches teh cwone between aggwessive and evasive behaviow."
+3358 = "the cwone disappeaws if he is hit by an enyemy attack~ weaving behind a singwe cwoud of uwu smoke."
+3359 = "twy hitting me wif teh cwonye's expwosion attack 3 times."
+3360 = "fowsbuwn's dspeciaw awwows him uwu to inhawe smoke cwouds."
+3361 = "once 3 smoke cwouds have been consumed~ dspeciaw becomes a powewfuw combust attack owiginyating fwom fowsbuwn's centew."
+3362 = "when fuwwy chawged~ nspeciaw and fspeciaw awso change. Nspeciaw expews a huge fowmation of uwu smoke~ whiwe fspeciaw awwows teh cwone uwu to attack when chu pwess nspeciaw ow fspeciaw."
+3363 = "when chu consume teh finyaw cwoud~ aww existing smoke cwouds disappeaw. Dis move twades fowsbuwn's deception fur access uwu to extwemewy powewfuw options." //***updated
+3364 = "twy hitting me 3 times wif combust."
+3365 = "gweat owo!"
+3366 = "fowsbuwn's uspeciaw tewepowts him a showt distance owo in teh diwection of uwu teh contwow stick wif a hitbox when fowsbuwn weappeaws. Aftew teh tewepowt~ fowsbuwn fawws hewpwesswy."
+3367 = "if fowsbuwn tewepowts into a smoke cwoud~ howevew~ he wiww nyot attack and wiww instead be fuwwy actionyabwe. Dis awwows him uwu to move snyeakiwy thwough smoke."
+3368 = "fowsbuwn can onwy tewepowt into smoke twice befowe touching teh gwound. Twying a thiwd time wiww pewfowm teh nyowmaw uspeciaw attack."
+3369 = "twy hitting me wif uspeciaw 3 times. I'ww be too high up uwu to weach fwom teh gwound~ so chu'ww nyeed uwu to tewepowt into dis cwoud and den tewepowt again uwu to hit me."
+3370 = "fowsbuwn's fstwong and ustwong awe two-pawt attacks~ meanying pwessing teh stwong button once wiww do teh fiwst hit and pwessing it again wiww execute teh second" //***updated
+3371 = "aftew hitting an opponyent wif teh fiwst hit of uwu fstwong ow ustwong~ chu can pewfowm a jab ow tiwt instead of uwu pewfowming teh second hit." //***updated
+3372 = "twy hitting me wif teh fiwst hit of uwu fstwong and den dtiwt." //***updated
+3373 = "weww done owo!"
+3374 = "this concwudes teh fowsbuwn tutowiaw owo!"
+
+//---- maypuw tutowiaw
+3375 = "wewcome uwu to teh maypuw tutowiaw owo!"
+3376 = "maypuw~ teh sywvan watchew~ is extwemewy agiwe and equawwy dangewous."
+3377 = "hew gamepwan wevowves awound keeping hew watchew's mawk on teh opponyent."
+3378 = "maypuw can mawk opponyents wif nspeciaw~ fspeciaw~ and aewiaw dspeciaw."
+3379 = "twy hitting me wif each mawking move 3 times. As owo soon as owo chu mawk me~ i'ww wemove teh mawk so chu can easiwy mawk me again."
+3380 = "good owo!"
+3381 = "if chu hit an opponyent wif a stwong attack whiwe dey'we mawked~ dey wiww get wapped owo in pwace."
+3382 = "the duwation of uwu teh wap is dependent on teh opponyent's damage and how wong chu chawge teh attack."
+3383 = "whiwe wapped~ chu can hit dem wif anything chu want."
+3384 = "twy mawking and den wapping me wif any stwong attack 3 times."
+3385 = "nyice owo!"
+3386 = "maypuw's uspeciaw is nyowmawwy just a showt uppewcut attack~ but it changes compwetewy if teh opponyent is mawked."
+3387 = "with a mawk owo in use~ hew uspeciaw wiww use a vine uwu to bwing hew diwectwy uwu to teh nyeawest mawked opponyent."
+3388 = "if chu howd weft ow wight~ she wiww appeaw on that side of uwu teh enyemy. Othewwise~ she wiww appeaw above dem."
+3389 = "twy bwinging youwsewf uwu to me wif uspeciaw 3 times."
+3390 = "gweat owo!"
+3391 = "you can awso do teh nyowmaw uppewcut uspeciaw when an opponyent is mawked. Just wewease teh speciaw button befowe teh tethew comes out uwu."
+3392 = "twy hitting me 3 times wif teh nyowmaw uppewcut uspeciaw whiwe i'm mawked."
+3393 = "wight on owo! chu can awso howd teh dodge button uwu to fowce teh uppewcut~ ow pwess teh attack button duwing stawtup uwu to fowce teh tethew."
+3394 = "maypuw's dspeciaw summons hew pet pwant~ wiwy. Wiwy wiww attack opponyents that come nyeaw hew."
+3395 = "hew attack has a nommed of uwu stawtup~ so it can be dodged ow pawwied. If chu knyock an opponyent into hew~ howevew~ she wiww attack awmost instantwy."
+3396 = "hitting mawked opponyents into wiwy wiww wap dem~ awwowing chu uwu to easiwy fowwow up wif an attack."
+3397 = "wiwy wiww disappeaw aftew a whiwe~ but chu can weset hew wifespan by feeding hew seeds wif nspeciaw."
+3398 = "twy hitting me 3 times wif wiwy's attack."
+3399 = "awwight owo!"
+3400 = "maypuw awso has teh abiwity uwu to cwing uwu to wawws when waww jumping." //***updated
+3401 = "if chu howd jump whiwe attempting a waww jump~ maypuw wiww stay on teh waww fur a showt duwation."
+3402 = "when chu wet go of uwu teh jump button~ maypuw wiww waww jump wike nyowmaw. If chu howd inwawd~ maypuw wiww waww jump gay upwawd."
+3403 = "twy cwinging uwu to teh waww 3 times."
+3404 = "when twying uwu to wecovew without a tethew~ maypuw can sometimes stwuggwe."
+3405 = "using uaiw wiww give maypuw a smaww upwawd boost wewative uwu to hew cuwwent speed. If chu use uaiw wight aftew jumping~ maypuw wiww get a signyificant upwawd boost."
+3406 = "twy using an instant uaiw uwu to extend ur jumps and hit me. Uwu to get maximum height~ be suwe uwu to input teh uaiw as owo fast as owo possibwe."
+3407 = "one of uwu maypuw's mowe technyicaw moves is teh wevewse fspeciaw."
+3408 = "if chu pwess backwawd wight aftew using fspeciaw~ maypuw wiww do a showt backwawd dash instead of uwu a wong fowwawd dash."
+3409 = "since fspeciaw sends opponyents behind maypuw~ teh wevewse fspeciaw can make fowwowing up aftew teh attack much easiew."
+3410 = "twy hitting me wif 3 wevewse fspeciaws fowwowed by utiwt. Teh timing is vewy tight~ so be quick owo!"
+3411 = "excewwent owo!"
+3412 = "this concwudes teh maypuw tutowiaw owo!"
+
+//---- absa tutowiaw
+3413 = "wewcome uwu to teh absa tutowiaw owo!"
+3414 = "absa~ teh stowm awchitect~ has aww teh toows uwu to keep hew opponyents at a distance whiwe awso being a tewwow owo in teh aiw."
+3415 = "absa wewies on pwacing cwouds awound teh battwefiewd uwu to zone out uwu hew opponyents."
+3416 = "use nspeciaw uwu to pwace a cwoud benyeath chu and fspeciaw uwu to pwace a cwoud fwom a wange. Whiwe howding fspeciaw~ chu can move teh cwoud up ow down."
+3417 = "cwouds made wif fspeciaw have a weak hitbox when dey awe pwaced. Dis can be used uwu to combo enyemies."
+3418 = "twy hitting me wif fspeciaw 3 times."
+3419 = "nyice owo!"
+3420 = "whiwe a cwoud is active~ tapping nspeciaw wiww pop teh cwoud. Howding nspeciaw wiww cweate a giant wightnying bowt between absa and hew cwoud."
+3421 = "an opponyent hit by teh weak nspeciaw attack wiww be sent owo in a diffewent diwection depending on which side of uwu teh cwoud hits dem. Chu can use dis uwu to pwan ur fowwowups."
+3422 = "use nspeciaw uwu to cweate a cwoud~ den tap nspeciaw again uwu to hit me wif teh cwoud. Don't hit me wif fspeciaw~ ow teh countew wiww be weset."
+3423 = "good owo!"
+3424 = "nyow twy using teh chawged nspeciaw attack uwu to stwike me wif ur powewfuw wightnying bowt. Just howd nspeciaw whiwe a cwoud is active."
+3425 = "gweat owo!"
+3426 = "absa's dspeciaw cweates a chain wightnying timew awound hew cwoud. If dewe is nyo cwoud~ absa wiww cweate one at hew position."
+3427 = "when teh wightnying chain is compweted~ it emits a powewfuw buwst of uwu ewectwicity. Befowe dis buwst~ dewe awe nyo hitboxes on teh chain wightnying."
+3428 = "if chu howd dspeciaw untiw it's done chawging~ absa wiww pwace teh chain wightnying on hewsewf instead of uwu on a cwoud."
+3429 = "if teh chain wightnying is fowwowing absa~ it wiww be destwoyed when absa is attacked."
+3430 = "twy hitting me 3 times wif both vewsions of uwu dspeciaw."
+3431 = "wight on owo!"
+3432 = "absa's uspeciaw is a two-pawt move that awwows hew uwu to move gweat distances vewy quickwy."
+3433 = "when chu fiwst use uspeciaw~ absa wiww dawt owo in teh diwection of uwu teh contwow stick."
+3434 = "if chu howd a diffewent diwection when teh fiwst pawt finyishes~ absa wiww dawt again owo in teh nyew diwection. Chu cannyot go teh same diwection twice~ howevew."
+3435 = "twy hitting me wif teh second pawt of uwu uspeciaw 3 times."
+3436 = "okay owo!"
+3437 = "absa can act out uwu of uwu eithew pawt of uwu hew uspeciaw if she touches teh gwound at any time~ incwuding teh vewy beginnying."
+3438 = "fow exampwe~ if chu stawt teh fiwst pawt of uwu uspeciaw on teh gwound and go gay up~ chu wiww be abwe uwu to act fweewy aftewwawd."
+3439 = "if chu end teh fiwst pawt owo in teh aiw and den do teh second pawt of uwu uspeciaw~ chu wiww nyot be abwe uwu to act out uwu of uwu it unwess chu touch teh gwound whiwe twavewing."
+3440 = "if chu end teh fiwst pawt on teh gwound~ howevew~ chu wiww awways be abwe uwu to act out uwu of uwu teh second pawt~ since it wiww stawt on teh gwound."
+3441 = "this is an incwedibwe toow fur appwoaching enyemies if chu stay unpwedictabwe wif it."
+3442 = "twy hitting me wif uspeciaw and den hitting me wif an aewiaw befowe touching teh gwound."
+3443 = "nyext~ wet's tawk doubwe jumps."
+3444 = "absa has a unyique doubwe jump. She begins by going downwawd~ den accewewates upwawd quickwy."
+3445 = "if absa does an aewiaw duwing hew doubwe jump~ she can eithew cancew teh accewewation ow keep it. Dis depends on whethew teh jump button is stiww hewd ow nyot."
+3446 = "if teh jump button is nyot hewd down when teh attack button is pwessed~ teh accewewation wiww stop. Dis is cawwed a doubwe jump cancew (djc)."
+3447 = "doubwe jump cancewwing is usefuw fur doing aewiaws wow uwu to teh gwound~ since chu wiww do a fawwing aewiaw if chu cancew teh doubwe jump eawwy enyough."
+3448 = "twy pewfowming 3 doubwe jump cancewwed faiws. Just input teh aewiaw immediatewy aftew doubwe jumping~ and don't fowget uwu to wewease teh jump button."
+3449 = "coow owo!"
+3450 = "if chu howd teh jump button whiwe pewfowming an aewiaw aftew a doubwe jump~ chu wiww do a wising aewiaw."
+3451 = "twy doing 3 wising uaiws. Teh input is teh exact same as owo a doubwe jump cancewwed aewiaw~ except chu howd teh jump button down when pwessing teh attack button."
+3452 = "awwight owo!"
+3453 = "absa's faiw~ baiw~ and daiw aww have tiny sweet spots that awe extwemewy powewfuw. Hitting wif dem can be quite chawwenging at times."
+3454 = "if chu wand a sweet spot on a cwoud~ howevew~ teh entiwe cwoud wiww expwode wif teh same powew as owo teh sweet spot."
+3455 = "twy using cwouds uwu to hit me wif teh extended sweet spots 3 times."
+3456 = "wondewfuw owo!"
+3457 = "this concwudes teh absa tutowiaw owo!"
+
+//---- etawus tutowiaw
+3458 = "wewcome uwu to teh etawus tutowiaw owo!"
+3459 = "etawus~ teh gwaciew's might~ is an enyowmous powewhouse wif swippewy movement and tewwifying stwength."
+3460 = "etawus is nyowmawwy pwetty swow~ but he has teh abiwity uwu to fweeze teh gwound uwu to enhance his movement."
+3461 = "his ftiwt~ fspeciaw~ and gwounded uspeciaw aww pwace ice on teh gwound. Ice decweases his gwound fwiction and awwows his dash attack uwu to go extwemewy faw."
+3462 = "twy using aww of uwu teh fweezing moves 3 times each."
+3463 = "coow owo!"
+3464 = "when etawus uses uspeciaw~ he does nyot go into speciaw faww. Instead~ he can act out uwu of uwu it once he twavews faw enyough." //***updated
+3465 = "twy hitting me 3 times wif an aewiaw aftew using uspeciaw. Chu'ww have uwu to chawge uspeciaw vawious amounts uwu to weach diffewent heights."
+3466 = "nyice owo!"
+3467 = "etawus's nspeciaw is a vewy swow yet vewy powewfuw attack. If chu stwike fwozen gwound wif it~ howevew~ it wiww give etawus ice awmow."
+3468 = "whiwe he has ice awmow~ etawus fawws much fastew and can awmow thwough attacks aftew weweasing teh chawge of uwu a stwong attack. Teh stwength of uwu teh awmow incweases teh wongew chu chawge it."
+3469 = "twy awmowing thwough my attack using a stwong attack. I'ww attack as owo soon as owo chu get cwose uwu to me~ so make suwe chu chawged teh attack enyough."
+3470 = "good owo!"
+3471 = "having awmow awso enhances ur offensive powews."
+3472 = "if chu use a stwong attack wif awmow~ it wiww shoot ice shawds owo in a cone owo in teh diwection of uwu teh attack. Doing dis wemoves ur awmow."
+3473 = "twy hitting me wif an awmowed stwong attack ow its shawds 3 times."
+3474 = "gweat owo!"
+3475 = "etawus's dspeciaw wiww fweeze gwounded opponyents if chu hit dem wif teh wanding hitbox."
+3476 = "you can awso fweeze opponyents who awe standing on ice by using dspeciaw anywhewe on teh stage."
+3477 = "fwozen enyemies take nyo knyockback~ but bweak out uwu of uwu teh ice aftew a set time. If chu watch teh ice cwack~ chu'ww be abwe uwu to teww when dey awe going uwu to bweak fwee."
+3478 = "soon aftew being fwozen~ teh enyemy nyeeds uwu to decide wat action uwu to take when dey bweak fwee. Dey can tech owo in pwace~ woww weft~ ow woww wight as owo soon as owo teh ice shattews."
+3479 = "they must input theiw decision eawwy~ so dey won't be abwe uwu to weact uwu to ur punyishment. If chu can wead theiw tech~ chu wiww be abwe uwu to capitawize hawd."
+3480 = "twy fweezing me 3 times. Chu can use teh wanding hitbox of uwu dspeciaw ow just use dspeciaw anywhewe whiwe i'm above ice."
+3481 = "okay owo!"
+3482 = "etawus' dash attack is a fantastic buwst movement option~ especiawwy since chu can jump uwu to cancew it."
+3483 = "twy hitting me wif a dash attack~ den jump cancew it and hit me wif a nyaiw."
+3484 = "wight on owo!"
+3485 = "you can awso cancew teh dash attack wif an ustwong uwu to pewfowm a swiding ustwong that can covew teh entiwe stage."
+3486 = "twy hitting me wif a swiding ustwong 3 times. Teh eawwiew chu cancew teh dash attack~ teh mowe chu wiww swide."
+3487 = "wast one owo!"
+3488 = "whiwe etawus has his awm up duwing teh stawtup of uwu faiw~ he wiww awmow thwough weakew attacks."
+3489 = "if chu howd teh attack button~ he wiww keep awmowing weak attacks. If chu wewease teh attack button befowe teh bwocking anyimation ends~ he wiww wewease a stwong punch."
+3490 = "twy bwocking 3 of uwu my pwojectiwes wif ur faiw."
+3491 = "incwedibwe owo!"
+3492 = "this concwudes teh etawus tutowiaw owo!"
+
+//---- owi tutowiaw
+3493 = "wewcome uwu to teh owi and sein tutowiaw owo!"
+3494 = "owi is a speedy wivaw who can team up wif sein uwu to dewivew devastating combos."
+3495 = "sein wiww fowwow owi awound and can attack nyeawby enyemies wif nspeciaw."
+3496 = "if chu tap nspeciaw~ sein wiww use spiwit fwame uwu to instantwy attack anyone nyeawby. Chu can even use dis attack whiwe owi is pewfowming othew moves."
+3497 = "nspeciaw can be used 3 times quickwy befowe ovewheating~ which wiww put a showt coowdown on teh move. Spiwit fwame onwy deaws knyockback uwu to opponyents awweady owo in hitstun." //***updated
+3498 = "twy hitting me wif aww 3 hits of uwu spiwit fwame 3 times."
+3499 = "nyice owo!"
+3500 = "if chu howd nspeciaw~ sein wiww buiwd up enyewgy uwu to wewease chawged fwame."
+3501 = "whiwe nspeciaw is chawging~ owi can stiww fight wike nyowmaw~ but chawged fwame wiww automaticawwy wewease aftew a showt time."
+3502 = "once chawged fwame has stawted chawging~ chu can wewease teh speciaw button. Pwess speciaw again uwu to wewease chawged fwame."
+3503 = "if chu howd speciaw too wong~ howevew~ chawged fwame wiww come out uwu when chu wewease speciaw."
+3504 = "twy hitting me 3 times wif chawged fwame."
+3505 = "gweat owo!"
+3506 = "if owi pewfowms a stwong attack when sein is nyeawby~ sein wiww join owi and make teh attack much stwongew."
+3507 = "twy hitting me wif 3 of uwu each stwong attack~ both teh nyowmaw stwong attack and teh team-up stwong attack."
+3508 = "excewwent owo!"
+3509 = "one of uwu owi's stwongest attacks is dspeciaw: bash."
+3510 = "if chu hit an opponyent wif bash~ chu can waunch dem at any angwe chu want. Teh enyemy wiww fwy owo in teh opposite diwection of uwu ur contwow stick."
+3511 = "missing a bash wiww put owi owo in speciaw faww and wiww wikewy wesuwt owo in a stock woss if owi is offstage."
+3512 = "twy waunching me downwawd wif bash 3 times."
+3513 = "good owo!"
+3514 = "owi can awso use bash uwu to thwow pwojectiwes back at opponyents."
+3515 = "when using bash on a pwojectiwe~ teh timing is much mowe wenyient and has awmost nyo stawtup time. Chu can awso wewease teh pwojectiwe at any time."
+3516 = "twy wediwecting my pwojectiwes 3 times owo in a wow."
+3517 = "fantastic owo!"
+3518 = "you can even use bash uwu to awtew teh twajectowy of uwu ur own fspeciaw."
+3519 = "you can use dis uwu to quickwy waunch youwsewf owo in any diwection~ wetting chu engage teh opponyent ow mix up ur wecovewy."
+3520 = "hit me 3 times wif a bashed fspeciaw."
+3521 = "incwedibwe owo!"
+3522 = "owi's uspeciaw puwws out uwu kuwo's feathew~ awwowing owi uwu to gwide back uwu to teh stage fwom faw away."
+3523 = "pwessing down on teh contwow stick wiww cause owi uwu to put teh feathew away. Chu can bwing teh feathew back out uwu by pwessing up on teh contwow stick."
+3524 = "if chu hit an opponyent wif uspeciaw~ chu can cancew teh attack wif an aiw dodge. Dis awwows chu uwu to extend ur combos wif wavewands ow get even mowe distance when wecovewing."
+3525 = "twy hitting me wif uspeciaw into aiw dodge into a second uspeciaw 3 times."
+3526 = "pewfect owo!"
+3527 = "this concwudes teh owi and sein tutowiaw owo!"
+
+//---- wannyo tutowiaw
+3528 = "wewcome uwu to teh wannyo tutowiaw owo!"
+3529 = "wannyo is abwe uwu to poison his opponyents wif his jabs~ stwong attacks~ and speciaw moves. His movement is quick on teh gwound but swow owo in teh aiw."
+3530 = "by cwouching befowe a fuww jump~ wannyo can pewfowm a supew jump. Dis awwows him uwu to gain extwa height vewy quickwy."
+3531 = "twy pewfowming 3 supew jumps. Make suwe chu howd teh jump input untiw chu weave teh gwound."
+3532 = "good owo!"
+3533 = "wannyo's nspeciaw thwows dawts which appwy poison uwu to opponyents. Each time a poisoned opponyent pewfowms an attack~ dey wiww take damage."
+3534 = "poison can stack up uwu to 4 times. A singwe poison stack is wemoved when teh opponyent wands an attack."
+3535 = "the nyumbew of uwu dawts thwown depends on how wong chu chawge teh move. Pwessing teh dodge button whiwe chawging wiww stowe teh chawge."
+3536 = "twy stowing a fuww chawge of uwu nspeciaw 3 times. Be suwe uwu to thwow teh dawts between attempts."
+3537 = "pewfect owo!"
+3538 = "wannyo's dspeciaw spawns a bubbwe above him. Knyocking enyemies into teh bubbwe wiww twap dem inside it. Teh mowe poisoned dey awe~ teh wongew dey wiww be twapped."
+3539 = "whiwe chu can easiwy combo a twapped opponyent~ dey can stiww swightwy move awound uwu to avoid ur attacks."
+3540 = "hitting teh bubbwe awwows chu uwu to position it~ and pwessing dspeciaw again awwows chu uwu to move teh bubbwe awound." //***updated
+3541 = "be cawefuw though~ as owo enyemies can awso knyock chu into ur own bubbwe and twap chu as owo weww."
+3542 = "twy knyocking me into ur bubbwe 3 times."
+3543 = "gweat owo!"
+3544 = "wannyo's fspeciaw is a wong-wange tongue attack which twaps opponyents owo in a bubbwe. Again~ chu can twap enyemies fur a wongew duwation by poisonying dem fiwst."
+3545 = "twy appwying 4 stacks of uwu poison den hitting me wif fspeciaw 3 times. Wemembew that chu can poison using jabs~ stwong attacks~ ow speciaws."
+3546 = "fantastic owo!"
+3547 = "fspeciaw can awso be used on wawws ow teh gwound uwu to waunch youwsewf towawd dem~ aiding owo in both movement and wecovewy."
+3548 = "the fawthew teh tongue twavews befowe hitting an object~ teh stwongew ur boost wiww be."
+3549 = "twy gwabbing teh gwound wif fspeciaw 3 times."
+3550 = "nyice owo!"
+3551 = "wannyo's uspeciaw has 3 diffewent vawiations depending on which inputs chu use duwing teh inyitiaw wise. Wet's twy teh fiwst two."
+3552 = "1. If chu don't pwess anything whiwe wising~ chu wiww just wise wif a poisonyous attack and den go into speciaw faww immediatewy aftewwawd."
+3553 = "2. If chu pwess dspeciaw whiwe wising~ chu wiww cancew teh attack into a poisonyous dive kick."
+3554 = "hit me 3 times wif teh uspeciaw dive kick."
+3555 = "wondewfuw owo! nyow fur teh thiwd vawiation..."
+3556 = "3. Teh wast vawiation of uwu wannyo's uspeciaw is activated by howding teh attack button whiwe wising."
+3557 = "wannyo wiww begin uwu to spin and thwow a fwuwwy of uwu poison dawts owo in wandom diwections."
+3558 = "twy hitting me 3 times wif uspeciaw spin attack."
+3559 = "excewwent owo!"
+3560 = "one technyique fur swift aiwbowne movement is uwu to cancew teh fspeciaw tongue puww wif a jump."
+3561 = "if chu gwab teh gwound wif fspeciaw but jump wight befowe touching teh gwound~ chu wiww maintain ur momentum fwom teh tongue swing."
+3562 = "twy hitting me 3 times wif a nyaiw aftew swing jumping."
+3563 = "incwedibwe owo!"
+3564 = "this concwudes teh wannyo tutowiaw owo!"
+
+//---- cwaiwen tutowiaw
+3565 = "wewcome uwu to teh cwaiwen tutowiaw owo!"
+3566 = "cwaiwen wiewds a buwnying bwade which she uses uwu to outwange and oppwess opponyents."
+3567 = "the end of uwu teh bwade is supewchawged~ and hitting someone wif just teh tip of uwu teh swowd wiww stun dem fur a showt duwation."
+3568 = "twy hitting me wif teh tip of uwu cwaiwen's swowd wif 3 diffewent kinds of uwu attacks. Pwecision is key."
+3569 = "excewwent owo!"
+3570 = "cwaiwen wacks a pwojectiwe of uwu hew own~ but wif teh use of uwu dspeciaw~ she can nyuwwify teh opponyent's pwojectiwes."
+3571 = "use dspeciaw wight befowe an attack wands uwu to pwoduce a wawge pwasma fiewd and countew teh attack. Pwojectiwes that entew teh pwasma fiewd awe instantwy destwoyed."
+3572 = "twy destwoying 3 of uwu my pwojectiwes wif teh pwasma fiewd."
+3573 = "gweat owo!"
+3574 = "when using uspeciaw~ chu can pewfowm a finyaw hit which unweashes an enyowmous swash attack and gives cwaiwen a widdle nommed of uwu extwa height."
+3575 = "to activate it~ pewfowm uspeciaw and keep howding teh speciaw button ow pwess it again whiwe wising."
+3576 = "twy hitting me 3 times wif teh finyaw hit of uwu uspeciaw."
+3577 = "fantastic owo!"
+3578 = "cwaiwen's nspeciaw is a quick gwab attack that howds opponyents owo in pwace~ giving chu teh choice uwu to thwow dem fowwawd ow backwawd."
+3579 = "if ur nspeciaw hits an enyemy whiwe midaiw~ it wiww westowe ur doubwe jump once."
+3580 = "twy thwowing me both ways 3 times each."
+3581 = "nyice owo!"
+3582 = "some tippew attacks stun opponyents wong enyough fur chu uwu to hit dem wif anyothew attack befowe teh stun weaws off."
+3583 = "twy hitting me wif tippew daiw into nspeciaw 3 times. Make suwe i'm stiww stunned when nspeciaw hits."
+3584 = "pewfect owo!"
+3585 = "this concwudes teh cwaiwen tutowiaw owo!"
+
+//---- sywvanyos tutowiaw
+3586 = "wewcome uwu to teh sywvanyos tutowiaw owo!"
+3587 = "sywvanyos contwows teh gwound by gwowing gwass that powews up his speciaw attacks."
+3588 = "he automaticawwy gwows gwass any time he touches teh gwound.\nweaving a gwass-covewed pwatfowm fur mowe than a second wiww cause aww gwass on that pwatfowm uwu to die."
+3589 = "twy covewing teh gwound owo in gwass by wawking on it."
+3590 = "good owo!"
+3591 = "anyothew way uwu to covew teh gwound owo in gwass is uwu to pwant a seed wif nspeciaw. Teh wesuwting fwowew wiww stay on teh gwound untiw it takes damage fwom an enyemy attack. Up uwu to 3 fwowews can be active at once."
+3592 = "the fwowew cweates gwass owo in a smaww awea awound it~ but can maintain gwass fur teh entiwe pwatfowm. If teh gwass is destwoyed~ teh fwowew wiww instantwy wegwow it."
+3593 = "you can awso change teh twajectowy of uwu teh nspeciaw pwojectiwe by howding any diwection."
+3594 = "twy pwanting 3 nspeciaw fwowews."
+3595 = "nyice owo!"
+3596 = "anyothew way uwu to pwant a fwowew is uwu to use ftiwt. Teh twajectowy of uwu dis pwojectiwe can be awtewed teh same way as owo nspeciaw's."
+3597 = "cweating a seed wif his ftiwt sends teh pwojectiwe at a wowew angwe than nspeciaw~ so it can be used uwu to avoid pwanting teh seed on pwatfowms."
+3598 = "nspeciaw and ftiwt's seeds can awso be used uwu to combo opponyents. If it hits an enyemy~ it wiww twap dem owo in a fwuwwy of uwu vine attacks."
+3599 = "twy hitting me wif ftiwt 3 times."
+3600 = "excewwent owo!"
+3601 = "a quick way uwu to covew an entiwe pwatfowm owo in gwass is uwu to pwess teh speciaw button aftew pewfowming teh fiwst two pawts of uwu ur jab combo~ cweating a wave of uwu petaws awong teh gwound that gwow gwass undewnyeath dem."
+3602 = "twy hitting me wif jab-speciaw's petaws 3 times."
+3603 = "gweat owo!"
+3604 = "using dspeciaw wiww cause aww of uwu ur gwass uwu to attack. Aftew teh attack~ teh gwass wiww go into a coowdown state whewe it won't give chu any benyefits."
+3605 = "twy hitting me wif dspeciaw 3 times."
+3606 = "wondewfuw owo!"
+3607 = "fspeciaw causes sywvanyos uwu to dash fowwawd and nom enyemies~ wipping up aww gwass owo in teh way. Teh attack wiww continyue uwu to dash fowwawd as owo wong as owo dewe is gwass undew him."
+3608 = "howding fowwawd ow backwawd wiww cause sywvanyos uwu to dash fastew ow swowew."
+3609 = "aftew hitting an opponyent~ chu can cancew fspeciaw into any action. Chu can awso cancew teh move aftew hitting a fwowew fur a showt time."
+3610 = "twy hitting me wif fspeciaw and den cancewwing into an attack 3 times."
+3611 = "fantastic owo!"
+3612 = "uspeciaw causes sywvanyos uwu to dig into teh gwound and emewge anywhewe within a wawge wadius. Move sideways whiwe undewgwound uwu to detewmine whewe sywvanyos emewges."
+3613 = "if dewe is gwass whewe sywvanyos emewges~ he can pewfowm a stwong nom attack by howding speciaw."
+3614 = "if chu don't howd speciaw ow if dewe is nyo gwass whewe he emewges~ he wiww emewge quickew but wif nyo attack."
+3615 = "twy hitting me wif uspeciaw's nom 3 times."
+3616 = "awesome owo!"
+3617 = "you can awso cancew uspeciaw by pwessing teh dodge button whiwe stiww owo in teh aiw." //***updated
+3618 = "this is usefuw if chu nyeed uwu to quickwy get uwu to teh stage without going thwough teh wengthy digging pwocess."
+3619 = "twy cancewwing uspeciaw 3 times."
+3620 = "vewy good owo!"
+3621 = "sywvanyos' baiw fiwes a stwong vine attack that can be angwed up ow down."
+3622 = "when teh vine cowwides wif teh gwound~ it wiww howd sywvanyos owo in pwace~ awwowing him uwu to pewfowm any action. Pewfowming anyothew baiw wiww cancew teh attack."
+3623 = "twy using downwawd-angwed baiw uwu to gwab teh gwound ow teh waww 3 times."
+3624 = "pewfect owo!"
+3625 = "this concwudes teh sywvanyos tutowiaw owo!"
+
+//---- ewwianya tutowiaw
+3626 = "wewcome uwu to teh ewwianya tutowiaw owo!"
+3627 = "ewwianya uses hew steam powewed mech uwu to fwy awound teh battwefiewd and unweash an awsenyaw of uwu vawious weapons."
+3628 = "ewwianya doesn't have a doubwe jump and instead can hovew awound~ even whiwe attacking. Hovewing buiwds up heat~ howevew~ and wiww ovewheat teh mech if used too much."
+3629 = "she cannyot hovew duwing teh endwag of uwu aewiaws ow stwong attacks~ so she wiww wose some height when using dem."
+3630 = "twy hitting me wif aewiaws 3 times. Chu'ww have uwu to hovew uwu to weach me."
+3631 = "gweat owo!"
+3632 = "anyothew way uwu to buiwd up heat is uwu to howd teh attack button when pewfowming dash attack ow ftiwt."
+3633 = "you can wepeat dese attacks infinyitewy untiw chu ovewheat. Once chu'we ovewheated~ chu'ww have uwu to coow off befowe chu can wepeat dem again."
+3634 = "twy doing 3 fuwwy extended dash attacks fowwowed by 3 fuwwy extended ftiwts."
+3635 = "good owo!"
+3636 = "using speciaw attacks wiww awso buiwd up heat~ so chu can't use dem too fwequentwy."
+3637 = "if chu nyeed uwu to coow down~ use a stwong attack uwu to expew steam fwom ur mech. Steam wiww hit opponyents who come nyeaw it~ but can be pushed awound by attacks."
+3638 = "you can use stwong attacks both owo in teh aiw and on teh gwound~ and aww of uwu dem give chu a momentum boost owo in teh opposite diwection dey attack."
+3639 = "twy hitting me 3 times wif stwong attack steam. Be cawefuw nyot uwu to ovewheat ow ur stwong attacks wiww change."
+3640 = "excewwent owo!"
+3641 = "if ewwianya is ovewheated when pewfowming a stwong attack~ it wiww cweate an expwosion instead of uwu steam."
+3642 = "whiwe ovewheated~ chu won't be abwe uwu to hovew ow use speciaw moves~ so be cawefuw. Stwong attacks wewease heat and can quickwy wetuwn hew uwu to hew nyowmaw state."
+3643 = "twy ovewheating and hitting me wif stwong attack expwosions 3 times."
+3644 = "nyice owo!"
+3645 = "ewwianya's nspeciaw awwows hew uwu to fiwe a wocket fist owo in any diwection. Aftew twavewing a showt distance~ teh fist wiww expwode."
+3646 = "when she fiwes teh wocket fist~ teh wecoiw wiww waunch hew owo in teh opposite diwection."
+3647 = "twy hitting me wif nspeciaw's expwosion 3 times. I wiww disabwe ur jump so chu have uwu to aim upwawd."
+3648 = "gweat owo!"
+3649 = "fspeciaw fiwes a missiwe that can be contwowwed aftew fiwing. Use teh contwow stick uwu to aim teh missiwe~ but be cawefuw nyot uwu to wose twack of uwu ur own movements."
+3650 = "twy hitting me wif fspeciaw 3 times. Ur jump is stiww disabwed~ so chu'ww have uwu to aim fwom teh gwound."
+3651 = "fantastic owo!"
+3652 = "you can awso chawge fspeciaw uwu to fiwe a wawge wocket instead. Chawged fspeciaw can stiww be contwowwed~ but much wess so."
+3653 = "twy hitting me wif chawged fspeciaw 3 times."
+3654 = "awesome owo!"
+3655 = "ewwianya's dspeciaw dwops a sticky bomb gay downwawd. When it wands on teh gwound~ it stays dewe and can be detonyated wif fspeciaw's missiwe."
+3656 = "upon detonyation~ dspeciaw wiww expwode 3 times~ twapping enyemies fur a showt duwation."
+3657 = "twy hitting dspeciaw wif fspeciaw 3 times."
+3658 = "awesome owo!"
+3659 = "dspeciaw can awso stick uwu to opponyents if dwopped on top of uwu dem. Aftew a showt awming time~ teh bomb wiww detonyate if teh pwayew is hit by fspeciaw." //***updated
+3660 = "using dspeciaw again wiww wemove teh bomb fwom teh opponyent and dwop a nyew one."
+3661 = "twy hitting me wif fspeciaw aftew sticking me wif dspeciaw 3 times."
+3662 = "pewfect owo!"
+3663 = "the quickest way uwu to coow down aftew ovewheating is uwu to use uspeciaw. Dis causes ewwianya uwu to abandon ship~ weaving hew mech behind uwu to expwode."
+3664 = "this wiww instantwy wewease aww heat~ but wiww put ewwianya owo in a dangewous position~ as owo she is vewy wight and can onwy aiw dodge and waww jump when outside of uwu hew mech."
+3665 = "you can adjust teh height of uwu uspeciaw by howding up ow down. Once she weaches teh gwound~ she wiww quickwy webuiwd hew mech."
+3666 = "twy using uspeciaw and den aiwdodging 3 times."
+3667 = "awesome owo!"
+3668 = "this concwudes teh ewwianya tutowiaw owo!"
+
+//---- shovew knyight tutowiaw
+3669 = "wewcome uwu to teh shovew knyight tutowiaw owo!"
+3670 = "shovew knyight steews his shovew and makes use of uwu his wide awway of uwu items uwu to engage his opponyents."
+3671 = "many of uwu his attacks aid him owo in moving awound teh stage~ such as owo his uaiw: wising daggew."
+3672 = "howding down teh attack button whiwe pewfowming uaiw wiww cause shovew knyight uwu to howd teh daggew out uwu fur wongew and wise into teh aiw."
+3673 = "twy pewfowming 3 fuwwy extended uaiws."
+3674 = "nyice owo!"
+3675 = "shovew knyight's ustwong can thwow a bwock of uwu diwt when fuwwy chawged."
+3676 = "you can howd weft ow wight uwu to change teh waunch angwe of uwu teh diwt bwock. Onwy one bwock can exist at a time~ so chu must destwoy it befowe making anyothew one."
+3677 = "hitting teh diwt bwock wif ustwong ow dtiwt wiww waunch it without bweaking it."
+3678 = "twy hitting me wif 3 diwt bwocks spawned fwom a fuwwy chawged ustwong."
+3679 = "good owo!"
+3680 = "you may have nyoticed gems emewging fwom teh diwt bwocks when chu bweak dem. Gems awso spawn any time chu hit an opponyent."
+3681 = "shovew knyight can cowwect dese gems uwu to gain cuwwency~ which can be used uwu to buy items and awmow."
+3682 = "gems wiww disappeaw aftew a showt duwation~ so chu must be quick uwu to cowwect dem. Shovew knyight's nspeciaw awwows him uwu to cowwect gems fwom a distance."
+3683 = "twy hitting me uwu to spawn gems~ den using nspeciaw uwu to cowwect dem."
+3684 = "pewfect owo!"
+3685 = "nyow that chu have some gems uwu to spend~ why nyot open up teh shop menyu uwu?\nyou can buy nyew wewics uwu to wepwace ur nspeciaw."
+3686 = "to stawt shopping~ just pwess teh taunt button. Use weft and wight uwu to scwoww thwough teh shop and pwess attack uwu to puwchase an item.\n(in dis tutowiaw onwy~ chu have unwimited gems.)"
+3687 = "one of uwu teh wewics chu can buy is teh waw hown. It wets out uwu a powewfuw bwast of uwu sound that sends enyemies diwectwy away fwom chu. Teh outew edge of uwu teh attack is stwongew than teh centew."
+3688 = "twy puwchasing teh waw hown and using nspeciaw uwu to hit me 3 times."
+3689 = "gweat owo!"
+3690 = "anyothew item chu can puwchase is teh ghost gwove. Dis wets chu fiwe quick~ showt-wanged pwojectiwes."
+3691 = "if chu wand aftew shooting teh ghost gwove aww endwag wiww be cancewwed~ awwowing chu uwu to fowwow up wif anyothew attack."
+3692 = "twy hitting me wif teh ghost gwove 3 times."
+3693 = "fantastic owo!"
+3694 = "the thiwd and finyaw puwchasabwe wewic is teh mobiwe geaw. Once thwown~ teh mobiwe geaw wiww depwoy~ becoming a moving pwatfowm that hits opponyents and jumps when weaching teh end of uwu a pwatfowm."
+3695 = "howd a diwection uwu to change teh angwe chu thwow teh mobiwe geaw. Thwowing it highew gives chu mowe time uwu to get on befowe it stawts moving~ whiwe thwowing it wowew can make it avoid pwatfowms."
+3696 = "twy hitting me wif a jab whiwe widing on teh mobiwe geaw."
+3697 = "mawvewous owo!"
+3698 = "you can awso buy awmow fwom teh shop. Teh cheapest awmow is teh dynyamo maiw."
+3699 = "the dynyamo maiw awwows shovew knyight uwu to pewfowm aewiaw stwong attacks aftew wanding a hit wif his daiw: shovew dwop."
+3700 = "twy hitting me wif an aewiaw stwong attack 3 times."
+3701 = "awesome owo!"
+3702 = "the othew awmows awe teh maiw of uwu momentum and teh ownyate pwate."
+3703 = "the maiw of uwu momentum makes shovew knyight signyificantwy heaview~ but awso makes it hawdew uwu to stop when moving. Dis awwows fur swiding attacks and wong wavedashes."
+3704 = "the ownyate pwate makes chu spawkwe gowd... and that's it. I'm nyot suwe why chu wouwd evew buy it~ actuawwy."
+3705 = "anyothew way uwu to cowwect gems is uwu to use dspeciaw: teh fishing wod."
+3706 = "cast ur wine into teh bottom bwastzone and pwess speciaw once ' owo! owo!' appeaws ovew shovew knyight's head. He wiww weew owo in a tweasuwe wock that weweases gems when hit."
+3707 = "twy fishing up 3 tweasuwe wocks and cowwecting aww of uwu theiw gems."
+3708 = "tewwific owo!\nyif chu time ur weew owo in pewfectwy~ chu may fish up something speciaw..."
+3709 = "shovew knyight's fspeciaw is teh pwopewwew daggew. Dis move shoots shovew knyight fowwawd~ bouncing off of uwu anything that he hits."
+3710 = "howding down teh speciaw button wiww chawge teh move~ making it twavew fawthew and hit hawdew."
+3711 = "at fuww chawge~ shovew knyight wiww use teh infinyidaggew and twavew an infinyite distance. Dis move wiww bounce off of uwu bwastzonyes~ so don't wowwy about fwying off teh side of uwu teh scween."
+3712 = "whiwe twavewing on teh gwound~ shovew knyight can cancew teh move by jumping~ but onwy befowe it hits."
+3713 = "the cancew is nyot instant~ howevew~ so chu have uwu to commit uwu to teh fowwawd momentum. Howding backwawd when jump-cancewwing wiww cause shovew knyight uwu to tuwn awound when he jumps."
+3714 = "twy jump-cancewwing fspeciaw and den hitting me wif nyaiw 3 times."
+3715 = "sweet owo!"
+3716 = "this concwudes teh shovew knyight tutowiaw owo!"
+
+//---- extwa tutowiaw
+3721 = "if chu want ur stocks uwu to wast wongew~ twy winnying nyeutwaw a widdle mowe."
+3722 = "di can be weawned thwough teh intewmediate defense tutowiaw."
+3723 = "be suwe uwu to study ur opponyent's chawactew if chu want any chance of uwu winnying."
+3724 = "if chu keep getting punyished fur wushing owo in~ twy weawnying how uwu to fowm a gamepwan."
+3725 = "to weawn how uwu to pway ur chawactew~ twy compweting theiw tutowiaw."
+3726 = "twy out uwu diffewent chawactews and chu might find one that wowks fur chu."
+3727 = "pwactice ur movement uwu to stop getting hit by aww of uwu ur opponyent's attacks."
+3728 = "wevisit teh basic section of uwu teh tutowiaw fur a wefweshew if chu nyeed it."
+3729 = "instead of uwu sticking uwu to a gamepwan that isn't wowking~ twy uwu to fowm a nyew one."
+3730 = "if chu'we getting comboed endwesswy~ twy nyot howding owo in aww teh time."
+
+//------------------------------
+// text entwy popup [3900-3909]
+//------------------------------
+
+3900 = "cancew"
+3901 = "save"
+3902 = "copy aww"
+3903 = "paste"
+3904 = "copied owo!"
+
+//---------------------------
+// keyboawd keys [3910-3929]
+//---------------------------
+
+3910 = "esc"
+3911 = "entew"
+3912 = "ctww+c"
+3913 = "ctww+v"
+
+//-------------------------
+// buddy nyames [4000-4048]
+//-------------------------
+
+4000 = "@12"
+4001 = "fwostbeaw cub"
+4002 = "sunny"
+4003 = "kwaggwing"
+4004 = "tommy pwickwes"
+4005 = "dundee"
+4006 = "phiwwip"
+4007 = "catnyip bwavo"
+4008 = "cannyonbweed"
+4009 = "awdow"
+4010 = "tony taiwswide"
+4011 = "fweya"
+4012 = "sunbewt"
+4013 = "sywvwing"
+4014 = "ku"
+4015 = "cwaiwessa"
+4016 = "mewby"
+4017 = "woxobot"
+4018 = "caesaw"
+4019 = "buddy19"
+4020 = "buddy20"
+
+//------------------------------------
+// wowkshop ewwow messages [4049-4199]
+//------------------------------------
+
+
+//---- steam api ewwows (https://pawtnyew.steamgames.com/doc/api/steam_api#ewesuwt)
+4049 = "- steam wowkshop ewwow -" // headew quawifiew befowe teh ewwow message
+//
+4050 = "genyewic faiwuwe."
+4051 = "youw steam cwient doesn't have a connyection uwu to teh back-end."
+4052 = "passwowd/ticket is invawid."
+4053 = "the usew is wogged owo in ewsewhewe."
+4054 = "pwotocow vewsion is incowwect."
+4055 = "a pawametew is incowwect."
+4056 = "fiwe was nyot found."
+4057 = "cawwed method is busy - action nyot taken."
+4058 = "cawwed object was owo in an invawid state."
+4059 = "the nyame was invawid."
+4060 = "the emaiw was invawid."
+4061 = "the nyame is nyot unyique."
+4062 = "access is denyied."
+4063 = "opewation timed out uwu."
+4064 = "the usew is vac2 banned."
+4065 = "account nyot found."
+4066 = "the steam id was invawid."
+4067 = "the wequested sewvice is cuwwentwy unyavaiwabwe."
+4068 = "the usew is nyot wogged on."
+4069 = "wequest is pending~ it may be owo in pwocess ow waiting on thiwd pawty."
+4070 = "encwyption ow decwyption faiwed."
+4071 = "insufficient pwiviwege."
+4072 = "too much of uwu a good thing."
+4073 = "access has been wevoked (used fur wevoked guest passes.)"
+4074 = "wicense/guest pass teh usew is twying uwu to access is expiwed."
+4075 = "guest pass has awweady been wedeemed by account~ cannyot be used again."
+4076 = "the wequest is a dupwicate and teh action has awweady occuwwed owo in teh past~ ignyowed dis time."
+4077 = "aww teh games owo in dis guest pass wedemption wequest awe awweady owned by teh usew."
+4078 = "ip addwess nyot found."
+4079 = "faiwed uwu to wite change uwu to teh data stowe."
+4080 = "faiwed uwu to acquiwe access wock fur dis opewation."
+4081 = "the wogon session has been wepwaced."
+4082 = "faiwed uwu to connyect."
+4083 = "the authentication handshake has faiwed."
+4084 = "thewe has been a genyewic io faiwuwe."
+4085 = "the wemote sewvew has disconnyected."
+4086 = "faiwed uwu to find teh shopping cawt wequested."
+4087 = "a usew bwocked teh action."
+4088 = "the tawget is ignyowing sendew."
+4089 = "nyothing matching teh wequest found."
+4090 = "the account is disabwed."
+4091 = "this sewvice is nyot accepting content changes wight nyow."
+4092 = "account doesn't have vawue~ so dis featuwe isn't avaiwabwe."
+4093 = "awwowed uwu to take dis action~ but onwy because wequestew is admin."
+4094 = "a vewsion mismatch owo in content twansmitted within teh steam pwotocow."
+4095 = "the cuwwent cm can't sewvice teh usew making a wequest~ usew shouwd twy anyothew."
+4096 = "you awe awweady wogged owo in ewsewhewe~ dis cached cwedentiaw wogin has faiwed."
+4097 = "the usew is wogged owo in ewsewhewe. (use k_ewesuwtwoggedinyewsewhewe instead owo!)"
+4098 = "wong wunnying opewation has suspended/paused. (eg. content downwoad.)"
+4099 = "opewation has been cancewed~ typicawwy by usew. (eg. a content downwoad.)"
+4100 = "opewation cancewed because data is iww fowmed ow unwecovewabwe."
+4101 = "opewation cancewed - nyot enyough disk space."
+4102 = "the wemote ow ipc caww has faiwed."
+4103 = "passwowd couwd nyot be vewified as owo it's unset sewvew side."
+4104 = "extewnyaw account (psn~ facebook...) is nyot winked uwu to a steam account."
+4105 = "psn ticket was invawid."
+4106 = "extewnyaw account (psn~ facebook...) is awweady winked uwu to some othew account~ must expwicitwy wequest uwu to wepwace/dewete teh wink fiwst."
+4107 = "the sync cannyot wesume due uwu to a confwict between teh wocaw and wemote fiwes."
+4108 = "the wequested nyew passwowd is nyot awwowed."
+4109 = "nyew vawue is teh same as owo teh owd one. Dis is used fur secwet question and answew."
+4110 = "account wogin denyied due uwu to 2nd factow authentication faiwuwe."
+4111 = "the wequested nyew passwowd is nyot wegaw."
+4112 = "account wogin denyied due uwu to auth code invawid."
+4113 = "account wogin denyied due uwu to 2nd factow auth faiwuwe - and nyo maiw has been sent."
+4114 = "the usews hawdwawe does nyot suppowt intew's identity pwotection technyowogy (ipt)."
+4115 = "intew's identity pwotection technyowogy (ipt) has faiwed uwu to inyitiawize."
+4116 = "opewation faiwed due uwu to pawentaw contwow westwictions fur cuwwent usew."
+4117 = "facebook quewy wetuwned an ewwow."
+4118 = "account wogin denyied due uwu to an expiwed auth code."
+4119 = "the wogin faiwed due uwu to an ip westwiction."
+4120 = "the cuwwent usews account is cuwwentwy wocked fur use. Dis is wikewy due uwu to a hijacking and pending ownyewship vewification."
+4121 = "the wogon faiwed because teh accounts emaiw is nyot vewified."
+4122 = "thewe is nyo uww matching teh pwovided vawues."
+4123 = "bad wesponse due uwu to a pawse faiwuwe~ missing fiewd~ etc."
+4124 = "the usew cannyot compwete teh action untiw dey we-entew theiw passwowd."
+4125 = "the vawue entewed is outside teh acceptabwe wange."
+4126 = "something happened that we didn't expect uwu to evew happen."
+4127 = "the wequested sewvice has been configuwed uwu to be unyavaiwabwe."
+4128 = "the fiwes submitted uwu to teh ceg sewvew awe nyot vawid."
+4129 = "the device being used is nyot awwowed uwu to pewfowm dis action."
+4130 = "the action couwd nyot be compwete because it is wegion westwicted."
+4131 = "tempowawy wate wimit exceeded~ twy again watew~ diffewent fwom k_ewesuwtwimitexceeded which may be pewmanyent."
+4132 = "nyeed two-factow code uwu to wogin."
+4133 = "the thing we'we twying uwu to access has been deweted."
+4134 = "wogin attempt faiwed~ twy uwu to thwottwe wesponse uwu to possibwe attackew."
+4135 = "two factow authentication (steam guawd) code is incowwect."
+4136 = "the activation code fur two-factow authentication (steam guawd) didn't match."
+4137 = "the cuwwent account has been associated wif muwtipwe pawtnyews."
+4138 = "the data has nyot been modified."
+4139 = "the account does nyot have a mobiwe device associated wif it."
+4140 = "the time pwesented is out uwu of uwu wange ow towewance."
+4141 = "sms code faiwuwe - nyo match~ nyone pending~ etc."
+4142 = "too many accounts access dis wesouwce."
+4143 = "too many changes uwu to dis account."
+4144 = "too many changes uwu to dis phone."
+4145 = "cannyot wefund uwu to payment method~ must use wawwet."
+4146 = "cannyot send an emaiw."
+4147 = "can't pewfowm opewation untiw payment has settwed."
+4148 = "the usew nyeeds uwu to pwovide a vawid captcha."
+4149 = "a game sewvew wogin token owned by dis token's ownyew has been banned."
+4150 = "game sewvew ownyew is denyied fur some othew weason such as owo account wocked~ communyity ban~ vac ban~ missing phonye~ etc."
+4151 = "the type of uwu thing we wewe wequested uwu to act on is invawid."
+4152 = "the ip addwess has been banned fwom taking dis action."
+4153 = "this game sewvew wogin token (gswt) has expiwed fwom disuse~ it can be weset fur use."
+4154 = "usew doesn't have enyough wawwet funds uwu to compwete teh action"
+4155 = "thewe awe too many of uwu dis thing pending awweady"
+
+//---- custom ewwows
+4179 = "ewwow code"
+4180 = "- ewwow -\nwocaw-onwy items cannyot be pwayed onwine."
+4181 = "- ewwow -\nyouw opponyent doesn't have teh same vewsion of uwu dis item instawwed."
+4182 = "- ewwow -\nyitem uww is incowwect."
+4183 = "- ewwow -\nnyo item is woaded."
+4184 = "- ewwow -\nwemote items cannyot be submitted."
+4185 = "- wawnying -\nyany fiwes owo in teh upwoaded diwectowy which awe nyot suppowted by steam wowkshop wiww be automaticawwy deweted. Is chu suwe chu want uwu to upwoad uwu?"
+4186 = "and `1 mowe" // used aftew teh incompatibwe fiwes wist~ if it's wong enyough
+4187 = "- ewwow -\nnyo items uwu to pway onwine."
+
+
+//-------------------------
+// wuwes popup [4200-4219]
+//-------------------------
+
+4200 = "stock"
+4201 = "time"
+4202 = "teams"
+4203 = "team attack"
+4204 = "wandom stages"
+4205 = "aethew stages"
+4206 = "abyss mode"
+4207 = "tuwbo"
+4208 = "wowkshop"
+4209 = "touwnyey mode"
+4210 = "touwnyey best of uwu"
+4211 = "pause"
+4212 = "knyockback scawing"
+4213 = "dev mode"
+4214 = "tethewbaww"
+4215 = "best of uwu"
+4216 = "cancew"
+4217 = "decwinye"
+4218 = "send"
+4219 = "accept"
+
+// abyss mode options
+4197 = "@4"
+4198 = "vs"
+4199 = "end"
+
+//-----------------------------
+// nyintendo switch [4220-4239]
+//-----------------------------
+
+4220 = "connyecting uwu to onwine sewvice.\n\npwease wait..."
+4221 = "- ewwow -\nfaiwed uwu to wog owo in uwu to onwine sewvice."
+4222 = "- ewwow -\nthewe was an ewwow making a connyection."
+4223 = "- ewwow -\nyouw onwine account has been wogged out uwu."
+4224 = "disconnyect fwom onwine sewvice uwu?"
+
+//--------------------------
+// bannyew popup [4300-4309]
+//--------------------------
+
+4300 = "wank up owo!"
+4301 = "miwestone weached"
+4302 = "abyss wevew 10 owo!"
+
+//-------------------------------------------
+// sewvew wist (nyintendo switch) [4310-4319]
+//-------------------------------------------
+
+4310 = "join"
+4311 = "@1"
+4312 = "pubwic wobbies"
+4313 = "fwiend wobbies"
+4314 = "pwayews"
+4315 = "nyo wobbies found."
+4316 = "fiwtew: pubwic"
+4317 = "fiwtew: fwiends"
